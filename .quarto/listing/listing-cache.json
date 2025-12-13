@@ -1,14 +1,6 @@
 {
   "listingMap": {
-    "content/index.qmd": [
-      "pieces",
-      "../pieces"
-    ],
-    "galleries.qmd": [
-      "galleries"
-    ],
     "index.qmd": [
-      "../pieces",
       "pieces"
     ]
   }
