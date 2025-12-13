@@ -1,0 +1,9 @@
+---
+title: "Spirit Bird"
+image: "../images/spirit_bird_1.jpg" 
+categories: [crows, sculpture, brown clay] 
+
+---
+![](../images/spirit_bird_1.jpg)
+
+An early little sculpture. 

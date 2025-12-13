@@ -1,0 +1,12 @@
+---
+title: "Incense Burner" # This is important for listing
+image: "../images/incense_burner_1.jpg" 
+categories: [sgraffito, incense burners] 
+
+---
+![](../images/incense_burner_1.jpg)
+![](../images/incense_burner_1a.jpg)
+![](../images/incense_burner_1b.jpg)
+![](../images/incense_burner_1c.jpg)
+![](../images/incense_burner_1d.jpg)
+I'm proud of this one. It's really beautiful.

@@ -1,0 +1,9 @@
+---
+title: "Singing Whale" # This is important for listing
+image: "../images/singing_whale_1.jpg" 
+categories: [sculpture, whales, brown clay] 
+
+---
+![](../images/singing_whale_1.jpg)
+![](../images/singing_whale_1a.jpg)
+Sigh. I really loved this whale, but I screwed up the glazing. So we'll just say that I learned a lot. Maybe someday I'll try to reglaze and fire.

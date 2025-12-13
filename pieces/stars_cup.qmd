@@ -1,0 +1,9 @@
+---
+title: "Stars Cup"
+image: "../images/stars_cup_1.jpg" 
+categories: [sgraffito, mugs] 
+
+---
+![](../images/stars_cup_1.jpg)
+![](../images/stars_cup_1a.jpg)
+Gasp. This one gives me the feels. I should make more in this theme.  

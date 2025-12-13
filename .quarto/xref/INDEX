@@ -1,0 +1,146 @@
+{
+  "index.qmd": {
+    "index.html": "afc3037d"
+  },
+  "about.qmd": {
+    "about.html": "513313cd"
+  },
+  "gallery.qmd": {
+    "gallery.html": "6deac055"
+  },
+  "contact.qmd": {
+    "contact.html": "95992815"
+  },
+  "ceramics/crow1.qmd": {
+    "crow1.html": "58a8f659"
+  },
+  "gallery_pages/galleries.qmd": {
+    "galleries.html": "8662c16e"
+  },
+  "gallery_pages/galleries/my-gallery/index.qmd": {
+    "index.html": "fd3cb8fd"
+  },
+  "content/index.qmd": {
+    "index.html": "779f054b"
+  },
+  "content/contact.qmd": {
+    "contact.html": "a5db346d"
+  },
+  "content/about.qmd": {
+    "about.html": "cb558dc4"
+  },
+  "galleries.qmd": {
+    "galleries.html": "1c2cab26"
+  },
+  "galleries/my-gallery/index.qmd": {
+    "index.html": "b8ad442d"
+  },
+  "pieces/crow_babies.qmd": {
+    "crow_babies.html": "485b6d48"
+  },
+  "pieces/crow_babies copy 2.qmd": {
+    "crow_babies copy 2.html": "bd15abe6"
+  },
+  "pieces/crow_babies copy 8.qmd": {
+    "crow_babies copy 8.html": "622a4e8f"
+  },
+  "pieces/crow_babies copy 9.qmd": {
+    "crow_babies copy 9.html": "e2c43718"
+  },
+  "pieces/crow_babies copy.qmd": {
+    "crow_babies copy.html": "e0bb3546"
+  },
+  "pieces/crow_babies copy 7.qmd": {
+    "crow_babies copy 7.html": "04eaf042"
+  },
+  "pieces/crow_babies copy 13.qmd": {
+    "crow_babies copy 13.html": "2e3d86fd"
+  },
+  "pieces/crow_babies copy 12.qmd": {
+    "crow_babies copy 12.html": "6809b9d5"
+  },
+  "pieces/crow_babies copy 6.qmd": {
+    "crow_babies copy 6.html": "7ea15019"
+  },
+  "pieces/crow_babies copy 4.qmd": {
+    "crow_babies copy 4.html": "ab9603e6"
+  },
+  "pieces/crow_babies copy 10.qmd": {
+    "crow_babies copy 10.html": "39c6172b"
+  },
+  "pieces/crow_babies copy 11.qmd": {
+    "crow_babies copy 11.html": "73fd9771"
+  },
+  "pieces/crow_babies copy 5.qmd": {
+    "crow_babies copy 5.html": "d5cba120"
+  },
+  "pieces/crow_babies copy 3.qmd": {
+    "crow_babies copy 3.html": "d8fcd86f"
+  },
+  "pieces/crow_feet.qmd": {
+    "crow_feet.html": "dd404eb4"
+  },
+  "pieces/crow_sculpture.qmd": {
+    "crow_sculpture.html": "28079ade"
+  },
+  "pieces/og_plate.qmd": {
+    "og_plate.html": "8c7c7345"
+  },
+  "pieces/hammered_mug_1.qmd": {
+    "hammered_mug_1.html": "311c3443"
+  },
+  "pieces/crow_pearls_mug.qmd": {
+    "crow_pearls_mug.html": "6d678118"
+  },
+  "pieces/crow_goddess_mug.qmd": {
+    "crow_goddess_mug.html": "bce6b9a4"
+  },
+  "pieces/hammered_mug_2.qmd": {
+    "hammered_mug_2.html": "4adf4ece"
+  },
+  "pieces/incense_burner.qmd": {
+    "incense_burner.html": "76ce5df8"
+  },
+  "pieces/papaya.qmd": {
+    "papaya.html": "2474e160"
+  },
+  "pieces/singing_whale.qmd": {
+    "singing_whale.html": "8e119e1b"
+  },
+  "pieces/spirit_bird.qmd": {
+    "spirit_bird.html": "f48abada"
+  },
+  "pieces/spirit_bird copy.qmd": {
+    "spirit_bird copy.html": "a606e8fd"
+  },
+  "pieces/stars_cup.qmd": {
+    "stars_cup.html": "659a568d"
+  },
+  "pieces/stars_cup copy.qmd": {
+    "stars_cup copy.html": "a4a4b85c"
+  },
+  "pieces/tea_cannister.qmd": {
+    "tea_cannister.html": "71b233d7"
+  },
+  "pieces/tiny_bowls.qmd": {
+    "tiny_bowls.html": "4ad02dcb"
+  },
+  "pieces/tiny_bowls copy.qmd": {
+    "tiny_bowls copy.html": "f0a6f8cc"
+  },
+  "pieces/whale_pod.qmd": {
+    "whale_pod.html": "b4c621c3"
+  },
+  "pieces/whale_pod copy.qmd": {
+    "whale_pod copy.html": "1ce80b8e"
+  },
+  "pieces/whale_1.qmd": {
+    "whale_1.html": "976b54ed"
+  },
+  "pieces/whale_belly.qmd": {
+    "whale_belly.html": "8c543e23"
+  },
+  "pieces/whale_momma.qmd": {
+    "whale_momma.html": "b0e096ec"
+  }
+}

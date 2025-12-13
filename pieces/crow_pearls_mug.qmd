@@ -1,0 +1,9 @@
+---
+title: "Just a Crow Wearing Pearls"
+image: "../images/crow_pearls_mug.jpg" 
+categories: [sgraffito, crows, mugs] 
+
+---
+![](../images/crow_pearls_mug.jpg)
+
+She just likes to wear pearls. 

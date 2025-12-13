@@ -1,0 +1,7 @@
+---
+title: "The Original Crow Goddess Plate" # This is important for listing
+image: "../images/crow_goddess_plate.jpg" 
+categories: [sgraffito, crows, plates] 
+
+---
+![](../images/crow_goddess_plate.jpg)

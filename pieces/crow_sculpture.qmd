@@ -1,0 +1,9 @@
+---
+title: "Crow Sculpture"
+image: "../images/crow_goddess_1.jpg" 
+categories: [sculpture, crows] 
+
+---
+![](../images/crow_goddess_1.jpg)
+
+The biggest thing I've ever made. In clay, I mean. 

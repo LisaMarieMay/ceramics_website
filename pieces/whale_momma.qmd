@@ -1,0 +1,14 @@
+---
+title: "Mamma and tween whale"
+image: "../images/whales_1.jpg" 
+categories: [brown clay, whales] 
+
+---
+![](../images/whales_1.jpg)
+
+That's not a baby whale anymore. She's a middle schooler.
+
+
+
+
+

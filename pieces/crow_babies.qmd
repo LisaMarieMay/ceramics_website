@@ -1,0 +1,9 @@
+---
+title: "Crow Babies" # This is important for listing
+image: "../images/crow_babies.jpg" 
+categories: [sgraffito, crows, plates] 
+
+---
+![](../images/crow_babies.jpg)
+
+(This is where the main content/more images for the piece go)

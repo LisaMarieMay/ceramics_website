@@ -1,0 +1,12 @@
+---
+title: "Tea Cannister"
+image: "../images/tea_cannister_1.jpg" 
+categories: [brown clay] 
+
+---
+![](../images/tea_cannister_1.jpg)
+![](../images/tea_cannister_1a.jpg)
+![](../images/tea_cannister_1b.jpg)
+
+The bottom is cool because I used a parmesan cheese jar as a form. :)
+Also this holds Trader Joe's teabags just like a can of pringles. 

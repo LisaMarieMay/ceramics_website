@@ -1,0 +1,8 @@
+---
+title: "Crow Goddess Mug"
+image: "../images/crow_goddess_mug_1.jpg" 
+categories: [sgraffito, crows, mugs] 
+
+---
+![](../images/crow_goddess_mug_1.jpg)
+![](../images/crow_goddess_mug_1a.jpg)

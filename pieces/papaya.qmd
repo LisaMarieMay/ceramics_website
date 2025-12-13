@@ -1,0 +1,11 @@
+---
+title: "Papaya" # This is important for listing
+image: "../images/papaya_1.jpg" 
+categories: [plates] 
+
+---
+![](../images/papaya_1.jpg)
+![](../images/papaya_1a.jpg)
+![](../images/papaya_1b.jpg)
+![](../images/papaya_1c.jpg)
+The color blending is just right on the back.

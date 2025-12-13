@@ -1,0 +1,10 @@
+---
+title: "Hammered Mug the Second" # This is important for listing
+image: "../images/hammered_mug_1.jpg" 
+categories: [mugs, brown clay] 
+
+---
+![](../images/hammered_mug_1.jpg)
+![](../images/hammered_mug_1a.jpg)
+![](../images/hammered_mug_1b.jpg)
+Honestly, the first hammered mug was way better. I was experimenting with thinner slabs to make the mugs lighter, but I've learned that means they warp more easily. 

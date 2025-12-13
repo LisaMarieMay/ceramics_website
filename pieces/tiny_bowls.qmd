@@ -1,0 +1,11 @@
+---
+title: "Tiny Bowls"
+image: "../images/tiny_bowls_1.jpg" 
+categories: [brown clay, bowls] 
+
+---
+![](../images/tiny_bowls_1.jpg)
+![](../images/tiny_bowls_1a.jpg)
+![](../images/tiny_bowls_2.jpg)
+
+Tiny bowls just perfect for your altar, or to hold your Ibuprofen. 

@@ -1,0 +1,18 @@
+---
+title: "Gallery"
+listing:
+  contents: pieces
+  type: grid
+  image-height: "100%"
+  sort-ui: [date,categories]
+  sort: "date desc"
+  grid-columns: 4
+  page-size: 40
+  grid-item-border: false
+  fields: [image]
+  categories: true
+  
+format:
+  html:
+    page-layout: full
+---

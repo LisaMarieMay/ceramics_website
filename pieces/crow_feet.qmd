@@ -1,0 +1,10 @@
+---
+title: "Crow Feet are Dragon Feet"
+image: "../images/crow_feet_mug_1.jpg" 
+categories: [sgraffito, crows, mugs] 
+
+---
+![](../images/crow_feet_mug_1.jpg)
+![](../images/crow_feet_mug.jpg)
+
+Obsessed with bird feet. Also crows walking. 

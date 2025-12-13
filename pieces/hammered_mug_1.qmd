@@ -1,0 +1,11 @@
+---
+title: "Real Good Hammered Mug" # This is important for listing
+image: "../images/hammered_mug_2.jpg" 
+categories: [mugs, brown clay] 
+
+---
+![](../images/hammered_mug_2.jpg)
+![](../images/hammered_mug_2a.jpg)
+![](../images/hammered_mug_2b.jpg)
+
+It's not even hammered. I mean...I hit it with a ball tool which I love doing with all my heart. 
