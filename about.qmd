@@ -1,4 +1,8 @@
 ---
 title: "About"
 ---
-Biography and Artist Statement
+![](images/profile_pic.png)
+
+Lisa May has a PhD in Neuroscience from the University of Oregon and works as a Workflow Coach for Posit Software. 
+
+Lisa tends to find the social lives of non-human animals interesting - thus crows and whales as subject matter. 

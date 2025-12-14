@@ -1,9 +1,15 @@
 ---
 title: "Crow Babies" # This is important for listing
 image: "../images/crow_babies.jpg" 
-categories: [sgraffito, crows, plates] 
-
+categories: [sgraffito, crows, plates, available] 
 ---
+
+Available  
+Price: $45  
+
+[**Inquire about this piece**](mailto:may.lisa2@gmail.com?subject=Inquiry%20about%20{{meta title >}})
+
 ![](../images/crow_babies.jpg)
 
-(This is where the main content/more images for the piece go)
+This summer I watched a juvenile crow beg for food _while she was standing on food_. The begging went on for days. Man, oh man, it really made me empathize with the parents. And crows do it every year! 
+This a set of four small plates is an ode to parental patience and how hard it is to raise kids. :)
