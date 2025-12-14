@@ -1,0 +1,9 @@
+---
+title: "Mina and the Leaf"
+image: "../images/mina_and_the_leaf.jpg" 
+categories: [sgraffito] 
+
+---
+![](../images/mina_and_the_leaf.jpg)
+
+I'm real proud of this one. Gives just the Emily Dickenson staring into the sky vibes. Based off an actual photo - the leaf was (and is) that big. 
