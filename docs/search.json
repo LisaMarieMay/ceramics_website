@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Biography and Artist Statement"
+    "text": "Lisa May has a PhD in Neuroscience from the University of Oregon and works as a Workflow Coach for Posit Software.\nLisa tends to find the social lives of non-human animals interesting - thus crows and whales as subject matter."
   },
   {
     "objectID": "pieces/whale_1.html",
@@ -42,32 +42,18 @@
     "text": "That’s not a baby whale anymore. She’s a middle schooler."
   },
   {
-    "objectID": "pieces/tea_cannister.html",
-    "href": "pieces/tea_cannister.html",
-    "title": "Tea Cannister",
+    "objectID": "pieces/mina_and_the_leaf.html",
+    "href": "pieces/mina_and_the_leaf.html",
+    "title": "Mina and the Leaf",
     "section": "",
-    "text": "The bottom is cool because I used a parmesan cheese jar as a form. :) Also this holds Trader Joe’s teabags just like a can of pringles."
+    "text": "I’m real proud of this one. Gives just the Emily Dickenson staring into the sky vibes. Based off an actual photo - the leaf was (and is) that big."
   },
   {
-    "objectID": "pieces/hammered_mug_2.html",
-    "href": "pieces/hammered_mug_2.html",
-    "title": "Hammered Mug the Second",
+    "objectID": "pieces/stars_cup.html",
+    "href": "pieces/stars_cup.html",
+    "title": "Stars Cup",
     "section": "",
-    "text": "Honestly, the first hammered mug was way better. I was experimenting with thinner slabs to make the mugs lighter, but I’ve learned that means they warp more easily."
-  },
-  {
-    "objectID": "pieces/crow_pearls_mug.html",
-    "href": "pieces/crow_pearls_mug.html",
-    "title": "Just a Crow Wearing Pearls",
-    "section": "",
-    "text": "She just likes to wear pearls."
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Feel free to reach out to me for inquiries, commissions, or just to say hello at may.lisa2@gmail.com."
+    "text": "Gasp. This one gives me the feels. I should make more in this theme."
   },
   {
     "objectID": "pieces/hammered_mug_1.html",
@@ -77,11 +63,32 @@
     "text": "It’s not even hammered. I mean…I hit it with a ball tool which I love doing with all my heart."
   },
   {
-    "objectID": "pieces/stars_cup.html",
-    "href": "pieces/stars_cup.html",
-    "title": "Stars Cup",
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
     "section": "",
-    "text": "Gasp. This one gives me the feels. I should make more in this theme."
+    "text": "Feel free to reach out to me for inquiries, commissions, or just to say hello at may.lisa2@gmail.com. For purchases, ssually it works well to give me your shipping address, I ship it to you and send you a Venmo request for the cost of the piece + shipping."
+  },
+  {
+    "objectID": "pieces/crow_pearls_mug.html",
+    "href": "pieces/crow_pearls_mug.html",
+    "title": "Just a Crow Wearing Pearls",
+    "section": "",
+    "text": "She just likes to wear pearls."
+  },
+  {
+    "objectID": "pieces/hammered_mug_2.html",
+    "href": "pieces/hammered_mug_2.html",
+    "title": "Hammered Mug the Second",
+    "section": "",
+    "text": "Honestly, the first hammered mug was way better. I was experimenting with thinner slabs to make the mugs lighter, but I’ve learned that means they warp more easily."
+  },
+  {
+    "objectID": "pieces/tea_cannister.html",
+    "href": "pieces/tea_cannister.html",
+    "title": "Tea Cannister",
+    "section": "",
+    "text": "The bottom is cool because I used a parmesan cheese jar as a form. :) Also this holds Trader Joe’s teabags just like a can of pringles."
   },
   {
     "objectID": "pieces/whale_belly.html",
@@ -131,12 +138,5 @@
     "title": "Gallery",
     "section": "",
     "text": "No matching items"
-  },
-  {
-    "objectID": "pieces/mina_and_the_leaf.html",
-    "href": "pieces/mina_and_the_leaf.html",
-    "title": "Mina and the Leaf",
-    "section": "",
-    "text": "I’m real proud of this one. Gives just the Emily Dickenson staring into the sky vibes. Based off an actual photo - the leaf was (and is) that big."
   }
 ]
