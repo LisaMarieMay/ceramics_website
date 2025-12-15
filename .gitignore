@@ -1,1 +1,6 @@
-/.quarto/
+# macOS metadata files
+.DS_Store
+
+# Quarto / Built files
+_site/
+.quarto/
