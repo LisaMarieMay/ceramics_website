@@ -4,7 +4,7 @@ image: "../images/whales_1.jpg"
 categories: [brown clay, whales, available for purchase] 
 
 ---
-Available for Purchase
+Available for Purchase  
 Price: $75  
 Email may.lisa2@gmail.com to inquire. 
 
