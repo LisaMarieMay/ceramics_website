@@ -2,7 +2,6 @@
 title: "Belly Dancer Whale"
 image: "../images/whales_3.jpg" 
 categories: [whales] 
-
 ---
 ![](../images/whales_3.jpg)
 ![](../images/whales_3a.jpg)

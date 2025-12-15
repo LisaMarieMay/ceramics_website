@@ -1,9 +1,13 @@
 ---
 title: "Mamma and tween whale"
 image: "../images/whales_1.jpg" 
-categories: [brown clay, whales] 
+categories: [brown clay, whales, available for purchase] 
 
 ---
+Available for Purchase
+Price: $75  
+Email may.lisa2@gmail.com to inquire. 
+
 ![](../images/whales_1.jpg)
 
 That's not a baby whale anymore. She's a middle schooler.

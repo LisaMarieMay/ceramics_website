@@ -1,9 +1,12 @@
 ---
 title: "Papaya" # This is important for listing
 image: "../images/papaya_1.jpg" 
-categories: [plates] 
-
+categories: [plates, available for purchase] 
 ---
+Available for Purchase
+Price: $20  
+Email may.lisa2@gmail.com to inquire. 
+
 ![](../images/papaya_1.jpg)
 ![](../images/papaya_1a.jpg)
 ![](../images/papaya_1b.jpg)

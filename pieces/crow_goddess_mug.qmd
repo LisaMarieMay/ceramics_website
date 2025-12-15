@@ -1,8 +1,11 @@
 ---
 title: "Crow Goddess Mug"
 image: "../images/crow_goddess_mug_1.jpg" 
-categories: [sgraffito, crows, mugs] 
+categories: [sgraffito, crows, mugs, available for purchase] 
 
 ---
+Available for Purchase
+Price: $50
+Email may.lisa2@gmail.com to inquire. 
 ![](../images/crow_goddess_mug_1.jpg)
 ![](../images/crow_goddess_mug_1a.jpg)

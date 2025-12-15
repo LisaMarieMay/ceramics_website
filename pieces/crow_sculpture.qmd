@@ -1,7 +1,7 @@
 ---
 title: "Crow Sculpture"
 image: "../images/crow_goddess_1.jpg" 
-categories: [sculpture, crows] 
+categories: [sculpture, crows, work in progress] 
 
 ---
 ![](../images/crow_goddess_1.jpg)
