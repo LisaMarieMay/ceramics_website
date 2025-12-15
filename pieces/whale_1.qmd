@@ -1,7 +1,7 @@
 ---
 title: "Beautiful Tail Whale"
 image: "../images/whales_2.jpg" 
-categories: [brown clay, whales, availabel for purchase] 
+categories: [brown clay, whales, available for purchase] 
 ---
 Available for Purchase  
 Price: $75  

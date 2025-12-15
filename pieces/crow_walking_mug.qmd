@@ -1,0 +1,8 @@
+---
+title: "Crow Walking Mug"
+image: "../images/crow_walking_mug.jpg" 
+categories: [sgraffito, crows, mugs, work in progress] 
+
+---
+![](../images/crow_walking_mug.jpg)
+Crows walking are hilarious. 

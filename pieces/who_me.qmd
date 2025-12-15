@@ -1,0 +1,13 @@
+---
+title: "Who Me?"
+image: "../images/who_me.jpg" 
+categories: [sgraffito, crows, plates, available for purchase] 
+---
+
+Available for Purchase  
+Price: $25   
+Email may.lisa2@gmail.com to inquire.  
+
+![](../images/who_me.jpg)
+
+Who me? Wink, wink, innocent face. 

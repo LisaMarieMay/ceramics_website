@@ -1,0 +1,7 @@
+---
+title: "Holy Whale" 
+image: "../images/holy_whale.jpg" 
+categories: [sculpture, whales, work in progress] 
+
+---
+![](../images/holy_whale.jpg)

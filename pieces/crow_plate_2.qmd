@@ -1,0 +1,11 @@
+---
+title: "Crow Plate"
+image: "../images/crow_plate_2.jpg" 
+categories: [sgraffito, crows, plates, available for purchase] 
+---
+
+Available for Purchase  
+Price: $25  
+Email may.lisa2@gmail.com to inquire.  
+
+![](../images/crow_plate_2.jpg)
