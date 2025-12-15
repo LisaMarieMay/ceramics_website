@@ -7,4 +7,3 @@ categories: [sgraffito, mugs, work in progress]
 ![](../images/stars_mug_wip.jpg)
 
 Inspired by looking at a picture of [this stars cup](stars_cup.html), I made this! 
-test test
