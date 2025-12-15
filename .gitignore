@@ -4,3 +4,4 @@
 # Quarto / Built files
 _site/
 .quarto/
+/.quarto/
