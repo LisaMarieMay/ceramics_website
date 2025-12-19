@@ -2,12 +2,15 @@
   {
     "listing": "/index.html",
     "items": [
+      "/pieces/crow_plate_2.html",
+      "/pieces/crow_walking_mug.html",
       "/pieces/who_me.html",
       "/pieces/stars_mug.html",
       "/pieces/crow_pearls_mug.html",
       "/pieces/mina_and_the_leaf.html",
       "/pieces/full_body_crow_plate.html",
       "/pieces/crow_walking_mug_striped.html",
+      "/pieces/crow_goddess_mug.html",
       "/pieces/crow_sculpture.html",
       "/pieces/crow_feet.html",
       "/pieces/holy_whale.html",
@@ -24,11 +27,8 @@
       "/pieces/tiny_bowls.html",
       "/pieces/incense_burner.html",
       "/pieces/whale_pod.html",
-      "/pieces/crow_goddess_mug.html",
       "/pieces/mark_making_mug.html",
       "/pieces/singing_whale.html",
-      "/pieces/crow_plate_2.html",
-      "/pieces/crow_walking_mug.html",
       "/pieces/whale_1.html"
     ]
   }
