@@ -4,6 +4,7 @@ image: "../images/crow_goddess_mug_1a.jpg"
 categories: [sgraffito, crows, mugs, available for purchase] 
 date: 2025-12-19
 ---
+
 Available for Purchase  
 Price: $50  
 Email may.lisa2@gmail.com to inquire.  
