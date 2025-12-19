@@ -2,7 +2,7 @@
 title: "Crow Feet are Dragon Feet"
 image: "../images/crow_feet_mug_1.jpg" 
 categories: [sgraffito, crows, mugs] 
-
+date: 2025-12-19
 ---
 ![](../images/crow_feet_mug_1.jpg)
 ![](../images/crow_feet_mug.jpg)

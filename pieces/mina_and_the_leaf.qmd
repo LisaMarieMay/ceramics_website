@@ -2,7 +2,7 @@
 title: "Mina and the Leaf"
 image: "../images/mina_and_the_leaf.jpg" 
 categories: [sgraffito] 
-
+date: 2025-12-19
 ---
 ![](../images/mina_and_the_leaf.jpg)
 

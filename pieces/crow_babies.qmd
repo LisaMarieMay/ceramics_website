@@ -2,6 +2,7 @@
 title: "Crow Babies"
 image: "../images/crow_babies.jpg" 
 categories: [sgraffito, crows, plates, available for purchase] 
+date: 2025-12-19
 ---
 
 Available for Purchase

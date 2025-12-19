@@ -2,7 +2,7 @@
 title: "Crow Walking Mug Stripey Style"
 image: "../images/crow_walking_mug_stripes.jpg" 
 categories: [sgraffito, crows, mugs, work in progress] 
-
+date: 2025-12-19
 ---
 ![](../images/crow_walking_mug_stripes.jpg)
 Crows walking are hilarious. 

@@ -2,6 +2,6 @@
 title: "Holy Whale" 
 image: "../images/holy_whale.jpg" 
 categories: [sculpture, whales, work in progress] 
-
+date: 2025-12-19
 ---
 ![](../images/holy_whale.jpg)

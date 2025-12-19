@@ -2,7 +2,7 @@
 title: "Just a Crow Wearing Pearls"
 image: "../images/crow_pearls_mug.jpg" 
 categories: [sgraffito, crows, mugs] 
-
+date: 2025-12-19
 ---
 ![](../images/crow_pearls_mug.jpg)
 

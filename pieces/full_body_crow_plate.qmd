@@ -1,6 +1,7 @@
 ---
 title: "Full Body Crow Plate"
 image: "../images/crow_plate_1.jpg" 
+date: 2025-12-19
 categories: [sgraffito, crows, plates, available for purchase] 
 ---
 Available for Purchase  
