@@ -1,1 +1,4 @@
 /* css styles */
+.quarto-title-meta > div:has(.date) {
+  display: none !important;
+}
