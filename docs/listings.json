@@ -2,6 +2,16 @@
   {
     "listing": "/index.html",
     "items": [
+      "/pieces/who_me.html",
+      "/pieces/stars_mug.html",
+      "/pieces/crow_pearls_mug.html",
+      "/pieces/mina_and_the_leaf.html",
+      "/pieces/full_body_crow_plate.html",
+      "/pieces/crow_walking_mug_striped.html",
+      "/pieces/crow_sculpture.html",
+      "/pieces/crow_feet.html",
+      "/pieces/holy_whale.html",
+      "/pieces/crow_babies.html",
       "/pieces/hammered_mug_1.html",
       "/pieces/hammered_mug_2.html",
       "/pieces/stars_cup.html",
@@ -19,17 +29,7 @@
       "/pieces/singing_whale.html",
       "/pieces/crow_plate_2.html",
       "/pieces/crow_walking_mug.html",
-      "/pieces/whale_1.html",
-      "/pieces/crow_pearls_mug.html",
-      "/pieces/mina_and_the_leaf.html",
-      "/pieces/full_body_crow_plate.html",
-      "/pieces/crow_walking_mug_striped.html",
-      "/pieces/crow_sculpture.html",
-      "/pieces/crow_feet.html",
-      "/pieces/holy_whale.html",
-      "/pieces/crow_babies.html",
-      "/pieces/stars_mug.html",
-      "/pieces/who_me.html"
+      "/pieces/whale_1.html"
     ]
   }
 ]
