@@ -2,3 +2,24 @@
 .quarto-title-meta > div:has(.date) {
   display: none !important;
 }
+
+@media (max-width: 768px) {
+  /* Move categories above the grid */
+  .listing-categories {
+    order: -1;
+    margin-bottom: 1rem;
+  }
+  
+  /* Make categories horizontal scrolling */
+  .listing-categories .category-list {
+    display: flex;
+    overflow-x: auto;
+    gap: 0.5rem;
+    padding: 0.5rem 0;
+  }
+  
+  .listing-categories .category-item {
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+}
