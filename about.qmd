@@ -1,7 +1,7 @@
 ---
 title: "About"
 ---
-![](images/profile_pic.jpg)
+![](images/profile_pic.jpg){width=50%}
 
 I have a PhD in Neuroscience from the University of Oregon and work as a Workflow Coach for Posit Software. 
 
