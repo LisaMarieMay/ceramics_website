@@ -1,56 +1,57 @@
-/* css styles */
-body {
-  background-color: red !important;
-}
+/* 1. HIDE DATE (This part you already had) */
 .quarto-title-meta > div:has(.date) {
   display: none !important;
 }
 
-/* 1. Desktop Title Fix (Screens wider than 992px) */
+/* 2. DESKTOP TITLE SIZE (Making it more specific for Lux) */
 @media (min-width: 992px) {
-  .navbar-brand, .navbar-title {
-    font-size: 1.8rem !important; /* Shrinks the navbar brand title */
+  /* Navbar Title */
+  .navbar-brand .navbar-title, 
+  header#quarto-header .navbar-brand {
+    font-size: 1.5rem !important; 
   }
   
+  /* Main Page Header (Gallery) */
+  .quarto-title .title, 
   h1.title {
-    font-size: 2.5rem !important; /* Shrinks the main "Gallery" page title */
+    font-size: 2.2rem !important;
+    margin-top: 10px !important;
   }
 }
 
-/* 2. Mobile Category Fix (Screens smaller than 992px) */
+/* 3. MOBILE CATEGORY FIX */
 @media (max-width: 991px) {
-  /* Force the margin sidebar to appear on mobile */
-  #quarto-margin-sidebar {
+  /* Quarto often completely hides the sidebar container */
+  #quarto-margin-sidebar, 
+  .quarto-margin-sidebar {
     display: block !important;
+    visibility: visible !important;
     width: 100% !important;
   }
 
-  /* Hide the word "Categories" to save vertical space */
+  /* Target the categories list specifically */
+  .quarto-listing-category {
+    display: flex !important;
+    flex-wrap: nowrap !important;
+    overflow-x: auto !important;
+    gap: 10px !important;
+    padding: 10px 5px !important;
+    margin-bottom: 20px !important;
+    border-bottom: 1px solid #eee;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  /* Hide the "Categories" header text to save room */
   .quarto-listing-category-title {
     display: none !important;
   }
 
-  /* Transform vertical list into a horizontal scrolling row */
-  .quarto-listing-category {
-    display: flex !important;
-    flex-direction: row !important;
-    flex-wrap: nowrap !important;
-    overflow-x: auto !important; /* Enables horizontal swipe */
-    gap: 8px;
-    padding: 10px 0;
-    margin-top: -10px; /* Pulls it closer to the title */
-    border-bottom: 1px solid #eee;
-    -webkit-overflow-scrolling: touch; /* Smooth swipe for iPhone */
-  }
-
-  /* Style each category as a "pill" */
+  /* The individual category links */
   .quarto-listing-category .category {
-    white-space: nowrap;
-    padding: 6px 14px;
-    background-color: #f8f9fa;
-    border: 1px solid #ddd;
-    border-radius: 50px;
-    font-size: 0.85rem;
-    color: #333;
+    white-space: nowrap !important;
+    background: #eee !important;
+    padding: 5px 12px !important;
+    border-radius: 20px !important;
+    font-size: 0.9rem !important;
   }
 }
