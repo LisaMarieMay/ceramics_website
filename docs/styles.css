@@ -1,57 +1,71 @@
-/* 1. HIDE DATE (This part you already had) */
-.quarto-title-meta > div:has(.date) {
-  display: none !important;
+/* --- 1. THE "OVERFLOW" FIX (Stops the horizontal scrolling and cut-off icons) --- */
+html, body {
+  max-width: 100vw !important;
+  overflow-x: hidden !important; /* Prevents the site from sliding left/right */
+  margin: 0;
+  padding: 0;
 }
 
-/* 2. DESKTOP TITLE SIZE (Making it more specific for Lux) */
+@media (max-width: 991px) {
+  /* This overrides that 500px rule you saw in the inspector */
+  .page-columns {
+    display: block !important;
+    grid-template-columns: 1fr !important;
+  }
+
+  #quarto-content {
+    width: 100% !important;
+    padding: 0 15px !important;
+  }
+}
+
+/* --- 2. THE DESKTOP TITLE SHRINK (Specific to Lux + Brand theme) --- */
 @media (min-width: 992px) {
-  /* Navbar Title */
-  .navbar-brand .navbar-title, 
-  header#quarto-header .navbar-brand {
-    font-size: 1.5rem !important; 
+  /* This targets the Site Name in the top bar */
+  .navbar-brand .navbar-title {
+    font-size: 1.3rem !important;
+    font-weight: 400 !important;
   }
   
-  /* Main Page Header (Gallery) */
-  .quarto-title .title, 
+  /* This targets the "Gallery" h1 title */
   h1.title {
     font-size: 2.2rem !important;
-    margin-top: 10px !important;
+    margin-top: 20px !important;
   }
 }
 
-/* 3. MOBILE CATEGORY FIX */
+/* --- 3. THE MOBILE CATEGORY MENU (Forcing it to appear at the top) --- */
 @media (max-width: 991px) {
-  /* Quarto often completely hides the sidebar container */
-  #quarto-margin-sidebar, 
-  .quarto-margin-sidebar {
+  /* Quarto hides the sidebar by default; this forces it back */
+  #quarto-margin-sidebar {
     display: block !important;
-    visibility: visible !important;
     width: 100% !important;
+    margin-bottom: 20px !important;
   }
 
-  /* Target the categories list specifically */
+  /* Moves categories to a horizontal swipable row */
   .quarto-listing-category {
     display: flex !important;
     flex-wrap: nowrap !important;
     overflow-x: auto !important;
     gap: 10px !important;
-    padding: 10px 5px !important;
-    margin-bottom: 20px !important;
-    border-bottom: 1px solid #eee;
+    padding: 10px 0 !important;
     -webkit-overflow-scrolling: touch;
   }
 
-  /* Hide the "Categories" header text to save room */
+  /* Hide the "Categories" header text to save space */
   .quarto-listing-category-title {
     display: none !important;
   }
 
-  /* The individual category links */
+  /* Style each category link as a button/pill */
   .quarto-listing-category .category {
     white-space: nowrap !important;
-    background: #eee !important;
-    padding: 5px 12px !important;
-    border-radius: 20px !important;
-    font-size: 0.9rem !important;
+    background-color: #f0f0f0 !important;
+    padding: 5px 15px !important;
+    border-radius: 50px !important;
+    font-size: 0.85rem !important;
+    color: #333 !important;
+    border: 1px solid #ddd !important;
   }
 }
