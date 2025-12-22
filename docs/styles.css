@@ -1,4 +1,7 @@
 /* css styles */
+body {
+  background-color: red !important;
+}
 .quarto-title-meta > div:has(.date) {
   display: none !important;
 }
