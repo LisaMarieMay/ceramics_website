@@ -2,7 +2,7 @@
 title: "Pod of Whales"
 image: "../images/whales_pod_1.jpg" 
 categories: [brown clay, whales] 
-date: 2025-12-20
+date: 2025-12-22
 
 ---
 ![](../images/whales_pod_1.jpg)

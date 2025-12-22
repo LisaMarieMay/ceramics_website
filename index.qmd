@@ -9,7 +9,7 @@ listing:
   grid-columns: 4
   page-size: 40
   grid-item-border: false
-  fields: [image]
+  fields: [image, title]
   categories: true
   
 format:
