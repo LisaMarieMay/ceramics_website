@@ -2,7 +2,7 @@
 title: "Belly Dancer Whale"
 image: "../images/whales_3.jpg" 
 categories: [whales] 
-date: 2025-12-23
+date: 2025-12-20
 ---
 ![](../images/whales_3.jpg)
 ![](../images/whales_3a.jpg)
