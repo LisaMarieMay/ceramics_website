@@ -5,7 +5,7 @@ listing:
   type: grid
   image-height: "100%"
   sort-ui: [date,categories]
-  sort: "date asc"
+  sort: "date desc"
   grid-columns: 4
   page-size: 40
   grid-item-border: false

@@ -1,3 +1,7 @@
+.quarto-title-meta > div:has(.date) {
+  display: none !important;
+}
+
 /* --- 1. THE "OVERFLOW" FIX (Stops the horizontal scrolling and cut-off icons) --- */
 html, body {
   max-width: 100vw !important;
