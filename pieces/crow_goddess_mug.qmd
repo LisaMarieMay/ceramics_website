@@ -2,7 +2,7 @@
 title: "Crow Goddess Mug"
 image: "../images/crow_goddess_mug_1a.jpg" 
 categories: [sgraffito, crows, mugs, available for purchase] 
-date: 2025-12-19
+date: 2025-12-22
 ---
 
 Available for Purchase  
