@@ -2,6 +2,7 @@
 title: "Spirit Bird"
 image: "../images/spirit_bird_1.jpg" 
 categories: [crows, sculpture, brown clay] 
+date: 2025-12-01
 
 ---
 ![](../images/spirit_bird_1.jpg)

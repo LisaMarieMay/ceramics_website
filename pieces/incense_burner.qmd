@@ -2,6 +2,7 @@
 title: "Incense Burner" # This is important for listing
 image: "../images/incense_burner_1.jpg" 
 categories: [sgraffito, incense burners] 
+date: 2025-12-23
 
 ---
 ![](../images/incense_burner_1.jpg)

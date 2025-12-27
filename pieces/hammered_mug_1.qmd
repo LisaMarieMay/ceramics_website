@@ -2,6 +2,7 @@
 title: "Real Good Hammered Mug" # This is important for listing
 image: "../images/hammered_mug_2.jpg" 
 categories: [mugs, brown clay] 
+date: 2025-12-01
 
 ---
 ![](../images/hammered_mug_2.jpg)

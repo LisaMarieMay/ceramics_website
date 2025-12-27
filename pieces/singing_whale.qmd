@@ -2,6 +2,7 @@
 title: "Singing Whale" # This is important for listing
 image: "../images/singing_whale_1.jpg" 
 categories: [sculpture, whales, brown clay] 
+date: 2025-11-25
 
 ---
 ![](../images/singing_whale_1.jpg)

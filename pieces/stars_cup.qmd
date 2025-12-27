@@ -2,6 +2,7 @@
 title: "Stars Cup"
 image: "../images/stars_cup_1.jpg" 
 categories: [sgraffito, mugs] 
+date: 2025-12-10
 
 ---
 ![](../images/stars_cup_1.jpg)

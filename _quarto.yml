@@ -12,6 +12,9 @@ website:
         text: Contact
       - href: about.qmd
         text: About
+  page-footer:
+    left: "© 2024 Lisa May Ceramics"
+    right: "All rights reserved. Images may not be used without permission."
       
 
 format:

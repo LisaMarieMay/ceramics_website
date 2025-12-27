@@ -2,6 +2,7 @@
 title: "Papaya" # This is important for listing
 image: "../images/papaya_1.jpg" 
 categories: [plates, available for purchase] 
+date: 2025-11-05
 ---
 Available for Purchase  
 Price: $20  

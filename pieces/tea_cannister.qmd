@@ -2,6 +2,7 @@
 title: "Tea Cannister"
 image: "../images/tea_cannister_1.jpg" 
 categories: [brown clay] 
+date: 2025-11-01
 
 ---
 ![](../images/tea_cannister_1.jpg)

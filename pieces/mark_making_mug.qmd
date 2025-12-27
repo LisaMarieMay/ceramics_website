@@ -2,6 +2,7 @@
 title: "Mark Making Mug"
 image: "../images/mark_making_mug.jpg" 
 categories: [mugs, sgraffito, work in progress] 
+date: 2025-12-14
 
 ---
 ![](../images/mark_making_mug.jpg)
