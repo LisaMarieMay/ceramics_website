@@ -4,7 +4,7 @@ image: "../images/holy_whale.jpg"
 categories: [sculpture, whales, work in progress] 
 date: 2025-12-19
 ---
-Okay, okay, okay - this is glazed and ready for the final fire. 
+Okay, okay, okay - this is glazed and ready for the final fire. Looks so ugly with glaze not fired! Also...unfired glaze ugly paint => melts to glass is wild. 
 ![](../images/holy_whale_glazed.jpg)
 
 This is a big deal b/c:  
@@ -13,7 +13,7 @@ This is a big deal b/c:
 
 ![](../images/holy_whale.jpg)
 
-Laguna sculpture clay
+Laguna sculpture clay  
 Glaze notes:
 ![](../images/holy_whale_glaze_notes.jpg)
 
