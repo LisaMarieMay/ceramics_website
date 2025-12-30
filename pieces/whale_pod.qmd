@@ -3,18 +3,37 @@ title: "Pod of Whales"
 image: "../images/whales_pod_1.jpg" 
 categories: [brown clay, whales] 
 date: 2025-12-23
-
 ---
+
+These whale were in my mind for a long time. 
+
+{{< video ../images/whale_pod_video.mp4 autoplay = "true" muted = "true" loop = true >}}
+
+![](../images/whales_pod_1d.jpg)
+
+I used to work in an office space with a super high ceiling, and I had this image of the ocean and the different biological niches. You know, the sunlight zone, the twilight zone... we were the bottom dwellers in this tall tall space and there could be different biological niches above us and we’d just be oblivious to it. 
+
+![](../images/high-ceiling.jpg)
+
+::: {layout="[[1,1], [1,1], [1,1]]"}
 ![](../images/whales_pod_1.jpg)
 ![](../images/whales_pod_1a.jpg)
+
 ![](../images/whales_pod_1b.jpg)
-![](../images/whales_pod_1c.jpg)
-![](../images/whales_pod_1d.jpg)
-![](../images/whales_pod_1e.jpg)
 ![](../images/whales_pod_1f.jpg)
+:::
 
+In real life, it can feel like your entire biological niche changes when you change your social circle. Like…changing your job or go through a breakup…like you live in the same town but *never* see all the people you used to see every day. Or you start a new hobby or make a new friend and that gives you a whole new social world. All of these lives are going on around us and it doesn’t take much to make the world feel totally different. 
 
+::: {layout="[[1,1]]"}
+![](../images/whales_pod_1e.jpg)
 
+![](../images/whales_pod_1c.jpg)
+:::
+
+The feeling of the different whales relating to one another— they’re playing, they’re dancing, they’re in their bodies and joyful. Movement. A sense of movement and connectedness. What must it feel like to dive like that? To be that powerful of a swimmer? 
+
+I’ve never had a dream where I could fly. But I did have a dream where I could breathe underwater and it was awesome.
 
 
 
