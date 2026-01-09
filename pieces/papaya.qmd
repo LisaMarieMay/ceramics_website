@@ -4,9 +4,6 @@ image: "../images/papaya_1.jpg"
 categories: [plates] 
 date: 2025-11-05
 ---
-Available for Purchase  
-Price: $20  
-Email may.lisa2@gmail.com to inquire. 
 
 ![](../images/papaya_1.jpg)
 ![](../images/papaya_1a.jpg)
