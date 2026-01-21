@@ -1,5 +1,22 @@
 [
   {
+    "listing": "/mugs.html",
+    "items": [
+      "/pieces/tall_crow.html",
+      "/pieces/sketchy_crows.html",
+      "/pieces/crow_goddess_mug.html",
+      "/pieces/crow_pearls_mug.html",
+      "/pieces/crow_walking_mug_striped.html",
+      "/pieces/crow_feet.html",
+      "/pieces/stars_mug.html",
+      "/pieces/mark_making_mug.html",
+      "/pieces/crow_walking_mug.html",
+      "/pieces/stars_cup.html",
+      "/pieces/hammered_mug_1.html",
+      "/pieces/hammered_mug_2.html"
+    ]
+  },
+  {
     "listing": "/index.html",
     "items": [
       "/pieces/tall_crow.html",

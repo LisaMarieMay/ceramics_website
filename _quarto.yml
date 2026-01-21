@@ -8,6 +8,8 @@ website:
     left:
       - href: index.qmd
         text: Gallery
+      - href: mugs.qmd
+        text: Mugs
       - href: contact.qmd
         text: Contact
       - href: about.qmd

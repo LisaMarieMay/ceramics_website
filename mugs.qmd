@@ -1,0 +1,26 @@
+---
+title: "Mugs"
+listing:
+  contents: pieces
+  type: grid
+  image-height: "100%"
+  sort: "date desc"
+  grid-columns: 4
+  page-size: 40
+  grid-item-border: false
+  fields: [image, title]
+  include:
+    categories: "mugs"
+
+format:
+  html:
+    page-layout: full
+---
+
+A good mug is tactile. I care about how it feels in my hands. I need to be able to cradle it with two hands, but also to hold it in one hand with fingers through the handle. 
+
+The handle feel is important, too! I've been inspired by the great Lane May (child extrordinaire) to make wide flat slab handles instead of pulled/coil handles. I like the way they feel. 
+
+These mugs are "stoneware", which means they're from a dense clay fired at high temperatures. Stoneware is super strong, chip resistant, and good for everyday use - microwaves, ovens, dishwashers...if you drop one of these mugs it might hurt your toe but probably won't hurt the mug. 
+
+Each mug is handmade and one-of-a-kind. Lately I've been thinking about mugs as canvases. Functional little paintings. 
