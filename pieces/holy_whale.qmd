@@ -1,12 +1,12 @@
 ---
 title: "Holy Whale"
-image: "../images/holy_whale.jpg"
+image: "../images/holy-whale-1.jpg"
 categories: [sculpture, whales, available for purchase]
 date: 2026-01-31
 lightbox: true
 ---
 
-Available for Purchase
+Available for Purchase  
 Price: $225
 
 Male humpbacks sing for hours, spiraling slowly as their voices carry for miles. This sculpture holds that moment — peaceful, embodied, part of the great chorus.
