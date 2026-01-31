@@ -1,9 +1,11 @@
 ---
+draft: true
 title: "Tall Drink of Water Mug"
 image: "../images/tall_crow_mug.jpg" 
 categories: [sgraffito, crows, mugs, work in progress] 
 date: 2026-01-06
 ---
+
 One of "my" crows is tall! I think. They're very hard to tell apart.
 
 Why is this exciting? Because I'm starting to get to know them as individuals. 

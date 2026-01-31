@@ -1,10 +1,11 @@
 ---
+draft: true
 title: "What's in Your Gular Pouch?"
 image: "../images/gular_mug.jpg" 
 categories: [sgraffito, crows, mugs, work in progress] 
 date: 2026-01-06
-draft: true
 ---
+
 I've watched "my crows" a lot (obviously) and noticed that sometimes they'd put whole cashews in their mouths, while other times they'd peck apart the cashew and eat small pieces. 
 
 I vaguely thought birds have some sort of throat pouch thing, right? 

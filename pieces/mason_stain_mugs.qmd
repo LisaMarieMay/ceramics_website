@@ -1,10 +1,11 @@
 ---
+draft: true
 title: "Mason Stain Mugs"
 image: "../images/mason_stains.jpg" 
 categories: [mugs, work in progress] 
 date: 2025-12-22
-draft: true
 ---
+
 Aaauuuugh how can I explain how interested I am in the rows of tiny envelopes of color at clay supply stores?? 
 
 I want colored clay. I don't want to make it marbled. I don't want to do anything fancy with it. I just want really brightly colored clay and no glaze. 
@@ -24,8 +25,10 @@ I've been reading a lot about it. I'm going to wedge each of these into a 1.25 t
 Supposedly the celadon has cobalt in it so it's more likely to be bright. 
 
 Oh yeah, and most Mason stains are toxic heavy metals. So I gotta be careful and shit. Kind of a pain. 
-So I see why everyone doesn't do this.  
+So I see why everyone doesn't do this.
+
 ---
+
 ![](../images/mason_stain_fail.jpg)
 
 Hmm. Well. So far it's been a total disaster. I added some water to the stain, but it was WAY too much water, and it made a total mess. I left it to dry overnight and was able to wedge most of it in, but I can't even see any color difference.

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Holy Whale"
 image: "../images/holy_whale.jpg"
 categories: [sculpture, whales, work in progress]
@@ -6,43 +7,45 @@ date: 2025-12-19
 lightbox: true
 ---
 
-Hand sculpted in stoneware for lasting durability, indoors or out. Dimensions: 16" × 8" × 4" (41 × 20 × 10 cm). Two mounting holes allow for easy hanging with nails, screws, or wire.
+Male humpbacks sing for hours, spiraling slowly as their voices carry for miles. This sculpture holds that moment — peaceful, embodied, part of the great chorus.
 
-![Holy Whale sculpture, front view](../images/holy-whale-1.jpg){group="final"}
+![](../images/holy-whale-1.jpg){group="final" fig-alt="Holy Whale sculpture, front view"}
 
 ::: {layout-ncol=3}
-![Holy Whale sculpture, angled view](../images/holy-whale-2.jpg){group="final"}
+![](../images/holy-whale-2.jpg){group="final" fig-alt="Holy Whale sculpture, angled view"}
 
-![Holy Whale sculpture, side view](../images/holy-whale-3.jpg){group="final"}
+![](../images/holy-whale-3.jpg){group="final" fig-alt="Holy Whale sculpture, side view"}
 
-![Holy Whale sculpture, detail view](../images/holy-whale-4.jpg){group="final"}
+![](../images/holy-whale-4.jpg){group="final" fig-alt="Holy Whale sculpture, detail view"}
 
-![Holy Whale sculpture, angled view](../images/holy-whale-5.jpg){group="final"}
+![](../images/holy-whale-5.jpg){group="final" fig-alt="Holy Whale sculpture, angled view"}
 
-![Holy Whale sculpture, detail view](../images/holy-whale-7.jpg){group="final"}
+![](../images/holy-whale-7.jpg){group="final" fig-alt="Holy Whale sculpture, detail view"}
 
-![Holy Whale sculpture, close-up view](../images/holy-whale-8.jpg){group="final"}
+![](../images/holy-whale-8.jpg){group="final" fig-alt="Holy Whale sculpture, close-up view"}
 
-![Holy Whale sculpture, angled view](../images/holy-whale-9.jpg){group="final"}
+![](../images/holy-whale-9.jpg){group="final" fig-alt="Holy Whale sculpture, angled view"}
 
-![Holy Whale sculpture, back view](../images/holy-whale-10.jpg){group="final"}
+![](../images/holy-whale-10.jpg){group="final" fig-alt="Holy Whale sculpture, back view"}
 
-![Holy Whale sculpture, detail view](../images/holy-whale-6.jpg){group="final"}
+![](../images/holy-whale-6.jpg){group="final" fig-alt="Holy Whale sculpture, detail view"}
 :::
 
-Okay, okay, okay - this is glazed and ready for the final fire. Looks so ugly with glaze not fired! Also...unfired glaze ugly paint => melts to glass is wild. 
-![](../images/holy_whale_glazed.jpg)
+Hand sculpted in stoneware for lasting durability, indoors or out. Dimensions: 16" × 8" × 4" (41 × 20 × 10 cm). Two mounting holes allow for easy hanging with nails, screws, or wire.
 
-This is a big deal b/c:  
-    - first sculpture cutting it open and in pieces to hollow out  
-    - first time actually taking the time to run test tiles to plan the glaze instead of just hoping for the best. 
+Stoneware goes through two firings. Here it is after sculpting, before the first fire — and a glimpse of the hollowing process that makes large pieces possible.
 
-![](../images/holy_whale.jpg)
+::: {layout-ncol=2}
+![](../images/holy_whale.jpg){fig-alt="Holy Whale sculpture, finished sculpting before firing"}
 
-Laguna sculpture clay  
+![](../images/holy-whale-11.jpg){fig-alt="Holy Whale sculpture, carving out the inside"}
+:::
+
+<!--
+Process notes:
+
+Laguna sculpture clay
 Glaze notes:
 ![](../images/holy_whale_glaze_notes.jpg)
-
-So many times, the battle isn't knowing the right thing to do but finding the patience and give a shit to actually do it the way that'll turn out cool. 
-
-It's like I need a solid 2 years of "no, I'm not doing that. You can't make me." And then I finally surrender to needing to be patient and work hard at something, at which point I do a deep dive and then I'm good at it. 
+-->
+ 

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Stars & Mountains Mug"
 image: "../images/stars_mug_wip.jpg" 
 categories: [sgraffito, mugs, work in progress] 
