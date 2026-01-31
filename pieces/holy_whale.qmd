@@ -1,15 +1,34 @@
 ---
-title: "Holy Whale" 
-image: "../images/holy_whale.jpg" 
-categories: [sculpture, whales, work in progress] 
+title: "Holy Whale"
+image: "../images/holy_whale.jpg"
+categories: [sculpture, whales, work in progress]
 date: 2025-12-19
+lightbox: true
 ---
 
-This sculpture measures 16 inches long by 8 inches tall by 4 inches deep. It's made of stoneware so it's very durable and will do great outdoors. 
-It hangs on two nails or screws, or you could string a wire between the holes. 
+Hand sculpted in stoneware for lasting durability, indoors or out. Dimensions: 16" × 8" × 4" (41 × 20 × 10 cm). Two mounting holes allow for easy hanging with nails, screws, or wire.
 
+![Holy Whale sculpture, front view](../images/holy-whale-1.jpg){group="final"}
 
+::: {layout-ncol=3}
+![Holy Whale sculpture, angled view](../images/holy-whale-2.jpg){group="final"}
 
+![Holy Whale sculpture, side view](../images/holy-whale-3.jpg){group="final"}
+
+![Holy Whale sculpture, detail view](../images/holy-whale-4.jpg){group="final"}
+
+![Holy Whale sculpture, angled view](../images/holy-whale-5.jpg){group="final"}
+
+![Holy Whale sculpture, detail view](../images/holy-whale-7.jpg){group="final"}
+
+![Holy Whale sculpture, close-up view](../images/holy-whale-8.jpg){group="final"}
+
+![Holy Whale sculpture, angled view](../images/holy-whale-9.jpg){group="final"}
+
+![Holy Whale sculpture, back view](../images/holy-whale-10.jpg){group="final"}
+
+![Holy Whale sculpture, detail view](../images/holy-whale-6.jpg){group="final"}
+:::
 
 Okay, okay, okay - this is glazed and ready for the final fire. Looks so ugly with glaze not fired! Also...unfired glaze ugly paint => melts to glass is wild. 
 ![](../images/holy_whale_glazed.jpg)
