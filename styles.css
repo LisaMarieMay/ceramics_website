@@ -73,3 +73,15 @@ html, body {
     border: 1px solid #ddd !important;
   }
 }
+
+/* --- 4. UNIFORM GRID THUMBNAILS (4:3 aspect ratio) --- */
+.quarto-grid-item img {
+  aspect-ratio: 4/3;
+  object-fit: cover;
+}
+
+/* Custom crop position for specific images (show top instead of center) */
+.quarto-grid-item img[src*="spirit_bird_1"],
+.quarto-grid-item img[src*="crow_plate_1"] {
+  object-position: center top;
+}
