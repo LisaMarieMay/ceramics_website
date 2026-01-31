@@ -4,6 +4,13 @@ image: "../images/holy_whale.jpg"
 categories: [sculpture, whales, work in progress] 
 date: 2025-12-19
 ---
+
+This sculpture measures 16 inches long by 8 inches tall by 4 inches deep. It's made of stoneware so it's very durable and will do great outdoors. 
+It hangs on two nails or screws, or you could string a wire between the holes. 
+
+
+
+
 Okay, okay, okay - this is glazed and ready for the final fire. Looks so ugly with glaze not fired! Also...unfired glaze ugly paint => melts to glass is wild. 
 ![](../images/holy_whale_glazed.jpg)
 
