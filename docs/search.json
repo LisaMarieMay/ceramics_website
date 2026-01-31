@@ -1,17 +1,59 @@
 [
   {
-    "objectID": "mugs.html",
-    "href": "mugs.html",
-    "title": "Mugs",
+    "objectID": "CLAUDE.html",
+    "href": "CLAUDE.html",
+    "title": "Lisa May Ceramics Website",
     "section": "",
-    "text": "A good mug is tactile. I care about how it feels in my hands. I need to be able to cradle it with two hands, but also to hold it in one hand with fingers through the handle.\nThe handle feel is important, too! I’ve been inspired by the great Lane May (child extrordinaire) to make wide flat slab handles instead of pulled/coil handles. I like the way they feel.\nThese mugs are “stoneware”, which means they’re from a dense clay fired at high temperatures. Stoneware is super strong, chip resistant, and good for everyday use - microwaves, ovens, dishwashers…if you drop one of these mugs it might hurt your toe but probably won’t hurt the mug.\nEach mug is handmade and one-of-a-kind. Lately I’ve been thinking about mugs as canvases. Functional little paintings.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTall Drink of Water Mug\n\n\n\n\n\n\n\n\n\n\n\n\nSketchy Crows\n\n\n\n\n\n\n\n\n\n\n\n\nCrow Goddess Mug\n\n\n\n\n\n\n\n\n\n\n\n\nJust a Crow Wearing Pearls\n\n\n\n\n\n\n\n\n\n\n\n\nCrow Walking Mug Stripey Style\n\n\n\n\n\n\n\n\n\n\n\n\nCrow Feet are Dragon Feet\n\n\n\n\n\n\n\n\n\n\n\n\nStars & Mountains Mug\n\n\n\n\n\n\n\n\n\n\n\n\nMark Making Mug\n\n\n\n\n\n\n\n\n\n\n\n\nCrow Walking Mug\n\n\n\n\n\n\n\n\n\n\n\n\nStars Cup\n\n\n\n\n\n\n\n\n\n\n\n\nReal Good Hammered Mug\n\n\n\n\n\n\n\n\n\n\n\n\nHammered Mug the Second\n\n\n\n\n\nNo matching items"
+    "text": "Quarto-based portfolio site for handmade ceramics.\n\n\n\npieces/ - Individual piece pages (.qmd files)\nimages/ - All images (JPG preferred, 1000px long edge currently, moving to 1600px)\nmugs.qmd, etc. - Category listing pages\n\n\n\n\n\nCategories: available for purchase, work in progress, sculpture, mugs, crows, whales, sgraffito, etc.\nwork in progress items should have draft: true (don’t publish unfinished pieces)\nFor sale items include “Available for Purchase” and “Price: $X” at top of content\nAlt text uses fig-alt attribute (not bracket syntax) to avoid visible captions\nLightbox galleries use group=\"name\" attribute for navigation between images\n\n\n\n\n\nAll images have copyright: “© Lisa May”\nArtist/Creator: “Lisa May”\nCopyright Notice: “© Lisa May - lisamayceramics.com”\nGPS and device info stripped for privacy\n\n\n\n\n\nWeb research is authorized (viewing websites for pricing, technique info, etc.)\n\n\n\n\nLisa May - lisamayceramics.com"
+  },
+  {
+    "objectID": "CLAUDE.html#site-structure",
+    "href": "CLAUDE.html#site-structure",
+    "title": "Lisa May Ceramics Website",
+    "section": "",
+    "text": "pieces/ - Individual piece pages (.qmd files)\nimages/ - All images (JPG preferred, 1000px long edge currently, moving to 1600px)\nmugs.qmd, etc. - Category listing pages"
+  },
+  {
+    "objectID": "CLAUDE.html#conventions",
+    "href": "CLAUDE.html#conventions",
+    "title": "Lisa May Ceramics Website",
+    "section": "",
+    "text": "Categories: available for purchase, work in progress, sculpture, mugs, crows, whales, sgraffito, etc.\nwork in progress items should have draft: true (don’t publish unfinished pieces)\nFor sale items include “Available for Purchase” and “Price: $X” at top of content\nAlt text uses fig-alt attribute (not bracket syntax) to avoid visible captions\nLightbox galleries use group=\"name\" attribute for navigation between images"
+  },
+  {
+    "objectID": "CLAUDE.html#image-metadata",
+    "href": "CLAUDE.html#image-metadata",
+    "title": "Lisa May Ceramics Website",
+    "section": "",
+    "text": "All images have copyright: “© Lisa May”\nArtist/Creator: “Lisa May”\nCopyright Notice: “© Lisa May - lisamayceramics.com”\nGPS and device info stripped for privacy"
+  },
+  {
+    "objectID": "CLAUDE.html#authorized-actions",
+    "href": "CLAUDE.html#authorized-actions",
+    "title": "Lisa May Ceramics Website",
+    "section": "",
+    "text": "Web research is authorized (viewing websites for pricing, technique info, etc.)"
+  },
+  {
+    "objectID": "CLAUDE.html#owner",
+    "href": "CLAUDE.html#owner",
+    "title": "Lisa May Ceramics Website",
+    "section": "",
+    "text": "Lisa May - lisamayceramics.com"
+  },
+  {
+    "objectID": "plan.html",
+    "href": "plan.html",
+    "title": "To-Do",
+    "section": "",
+    "text": "To-Do\n\nAdd alt text to all images\nMake “work in progress” category automatically set as draft (don’t publish unfinished pieces)\nReorganize top menu:\n\n“Available for purchase” first\nGallery second\nCategory pages (mugs, etc.) less prominent\n\nAdd section for new work not yet available (to show friends)\nImprove purchasing text\nExpand artist statement\nAdd commissions language (inquiries welcome, selective about projects — cool ideas from good people)\nUpdate mugs page (add new mugs, then remove draft status)"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Gallery",
     "section": "",
-    "text": "Tall Drink of Water Mug\n\n\n\n\n\n\n\n\n\n\n\n\nCrow Sculpture\n\n\n\n\n\n\n\n\n\n\n\n\nPod of Whales\n\n\n\n\n\n\n\n\n\n\n\n\nSketchy Crows\n\n\n\n\n\n\n\n\n\n\n\n\nMina and the Leaf\n\n\n\n\n\n\n\n\n\n\n\n\nCrow Goddess Mug\n\n\n\n\n\n\n\n\n\n\n\n\nBeautiful Tail Whale\n\n\n\n\n\n\n\n\n\n\n\n\nIncense Burner\n\n\n\n\n\n\n\n\n\n\n\n\nBelly Dancer Whale\n\n\n\n\n\n\n\n\n\n\n\n\nMamma and tween whale\n\n\n\n\n\n\n\n\n\n\n\n\nJust a Crow Wearing Pearls\n\n\n\n\n\n\n\n\n\n\n\n\nFull Body Crow Plate\n\n\n\n\n\n\n\n\n\n\n\n\nCrow Walking Mug Stripey Style\n\n\n\n\n\n\n\n\n\n\n\n\nCrow Feet are Dragon Feet\n\n\n\n\n\n\n\n\n\n\n\n\nHoly Whale\n\n\n\n\n\n\n\n\n\n\n\n\nCrow Babies\n\n\n\n\n\n\n\n\n\n\n\n\nThe Original Crow Goddess Plate\n\n\n\n\n\n\n\n\n\n\n\n\nStars & Mountains Mug\n\n\n\n\n\n\n\n\n\n\n\n\nWho Me?\n\n\n\n\n\n\n\n\n\n\n\n\nMark Making Mug\n\n\n\n\n\n\n\n\n\n\n\n\nCrow Plate\n\n\n\n\n\n\n\n\n\n\n\n\nCrow Walking Mug\n\n\n\n\n\n\n\n\n\n\n\n\nStars Cup\n\n\n\n\n\n\n\n\n\n\n\n\nReal Good Hammered Mug\n\n\n\n\n\n\n\n\n\n\n\n\nSpirit Bird\n\n\n\n\n\n\n\n\n\n\n\n\nSinging Whale\n\n\n\n\n\n\n\n\n\n\n\n\nHammered Mug the Second\n\n\n\n\n\n\n\n\n\n\n\n\nPapaya\n\n\n\n\n\n\n\n\n\n\n\n\nTea Cannister\n\n\n\n\n\n\n\n\n\n\n\n\nTiny Bowls\n\n\n\n\n\nNo matching items"
+    "text": "Holy Whale\n\n\n\n\n\n\n\n\n\n\n\n\nPod of Whales\n\n\n\n\n\n\n\n\n\n\n\n\nMina and the Leaf\n\n\n\n\n\n\n\n\n\n\n\n\nCrow Goddess Mug\n\n\n\n\n\n\n\n\n\n\n\n\nBeautiful Tail Whale\n\n\n\n\n\n\n\n\n\n\n\n\nIncense Burner\n\n\n\n\n\n\n\n\n\n\n\n\nBelly Dancer Whale\n\n\n\n\n\n\n\n\n\n\n\n\nMamma and tween whale\n\n\n\n\n\n\n\n\n\n\n\n\nJust a Crow Wearing Pearls\n\n\n\n\n\n\n\n\n\n\n\n\nFull Body Crow Plate\n\n\n\n\n\n\n\n\n\n\n\n\nCrow Feet are Dragon Feet\n\n\n\n\n\n\n\n\n\n\n\n\nCrow Babies\n\n\n\n\n\n\n\n\n\n\n\n\nThe Original Crow Goddess Plate\n\n\n\n\n\n\n\n\n\n\n\n\nWho Me?\n\n\n\n\n\n\n\n\n\n\n\n\nCrow Plate\n\n\n\n\n\n\n\n\n\n\n\n\nStars Cup\n\n\n\n\n\n\n\n\n\n\n\n\nReal Good Hammered Mug\n\n\n\n\n\n\n\n\n\n\n\n\nSpirit Bird\n\n\n\n\n\n\n\n\n\n\n\n\nSinging Whale\n\n\n\n\n\n\n\n\n\n\n\n\nHammered Mug the Second\n\n\n\n\n\n\n\n\n\n\n\n\nPapaya\n\n\n\n\n\n\n\n\n\n\n\n\nTea Cannister\n\n\n\n\n\n\n\n\n\n\n\n\nTiny Bowls\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "pieces/whale_1.html",
@@ -19,13 +61,6 @@
     "title": "Beautiful Tail Whale",
     "section": "",
     "text": "Available for Purchase\nPrice: $75\nEmail may.lisa2@gmail.com to inquire.  \nLook at that tail. That’s a beautiful tail."
-  },
-  {
-    "objectID": "pieces/crow_walking_mug.html",
-    "href": "pieces/crow_walking_mug.html",
-    "title": "Crow Walking Mug",
-    "section": "",
-    "text": "Crows walking are hilarious."
   },
   {
     "objectID": "pieces/crow_plate_2.html",
@@ -40,13 +75,6 @@
     "title": "Crow Feet are Dragon Feet",
     "section": "",
     "text": "Obsessed with bird feet. Also crows walking."
-  },
-  {
-    "objectID": "pieces/crow_sculpture.html",
-    "href": "pieces/crow_sculpture.html",
-    "title": "Crow Sculpture",
-    "section": "",
-    "text": "The biggest thing I’ve ever made. In clay, I mean."
   },
   {
     "objectID": "pieces/crow_goddess_mug.html",
@@ -105,13 +133,6 @@
     "text": "Gasp. This one gives me the feels. I should make more in this theme."
   },
   {
-    "objectID": "pieces/tall_crow.html",
-    "href": "pieces/tall_crow.html",
-    "title": "Tall Drink of Water Mug",
-    "section": "",
-    "text": "One of “my” crows is tall! I think. They’re very hard to tell apart.\nWhy is this exciting? Because I’m starting to get to know them as individuals.\n  \nI spend a lot of time thinking about the little leg feathers they have. Like little trousers, little jodpurs, little feather leggings they pull on in the morning.\n\nLook at this crow. This is a tall crow. I swear to god."
-  },
-  {
     "objectID": "pieces/crow_pearls_mug.html",
     "href": "pieces/crow_pearls_mug.html",
     "title": "Just a Crow Wearing Pearls",
@@ -168,32 +189,11 @@
     "text": "I’m proud of this one. It’s really beautiful."
   },
   {
-    "objectID": "pieces/crow_walking_mug_striped.html",
-    "href": "pieces/crow_walking_mug_striped.html",
-    "title": "Crow Walking Mug Stripey Style",
-    "section": "",
-    "text": "Crows walking are hilarious."
-  },
-  {
     "objectID": "pieces/who_me.html",
     "href": "pieces/who_me.html",
     "title": "Who Me?",
     "section": "",
     "text": "Available for Purchase\nPrice: $25\nEmail may.lisa2@gmail.com to inquire.\n\nWho me? Wink, wink, innocent face."
-  },
-  {
-    "objectID": "pieces/sketchy_crows.html",
-    "href": "pieces/sketchy_crows.html",
-    "title": "Sketchy Crows",
-    "section": "",
-    "text": "Okay, so this is important to me because it’s more fluid, more like a sketch, more kinda seeing what happens. Less like a plan with very clear clean outlines, less like a cartoon, less controlled. I like stuff that has a weird messy energy.\nCarving clay feels amazing. Sometimes I crave it (not making that up). I loved the chaos of carving those horizontal stripes. Chaos gremlin release!\nThis crow from behind is my favorite. Mysterious. \nThen she turns and make awkward eye contact. Whut? \nThis is the least successful carving although the one I love the most from the reference sketch. I can’t get that head tilt right yet! \nThis is the reference sketch I made to work from. \nAnd here’s an example of the reference pictures I’m taking of MY CROWS lately because they trust me and come when I whistle and come very close to me. Squeeeeeeeeeeee."
-  },
-  {
-    "objectID": "pieces/mark_making_mug.html",
-    "href": "pieces/mark_making_mug.html",
-    "title": "Mark Making Mug",
-    "section": "",
-    "text": "I got up in the middle of the night with this strong urge to carve. Not really about a final image, but a feeling of what my hands wanted to do. So I got up and carved this. In art school people talked about “being interested in mark making*” and I always thought that was pretentious. But there’s something soothing about making the same motion over and over - repetitive hand movements. Why knitting, coloring, all kinds of things are soothing. I find working with clay therapeutic, and it was soothing to do this just focused on the feeling, not with an image of how I wanted it to turn out.\nGlaze notes: So far it’s saffron yellow and flame Speedball underglaze. After bisque, I want to fill in the carving spots with black or brown underglaze, then glaze the whole thing maybe with saffron glaze?\n*Note: the only other time I heard this was daycare teachers talking about babies making art - just being interested in what it’s like to make a mark."
   },
   {
     "objectID": "pieces/singing_whale.html",
@@ -207,7 +207,7 @@
     "href": "pieces/holy_whale.html",
     "title": "Holy Whale",
     "section": "",
-    "text": "Male humpbacks sing for hours, spiraling slowly as their voices carry for miles. This sculpture holds that moment — peaceful, embodied, part of the great chorus.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHand sculpted in stoneware for lasting durability, indoors or out. Dimensions: 16” × 8” × 4” (41 × 20 × 10 cm). Two mounting holes allow for easy hanging with nails, screws, or wire.\nStoneware goes through two firings. Here it is after sculpting, before the first fire — and a glimpse of the hollowing process that makes large pieces possible."
+    "text": "Available for Purchase Price: $225\nMale humpbacks sing for hours, spiraling slowly as their voices carry for miles. This sculpture holds that moment — peaceful, embodied, part of the great chorus.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHand sculpted in stoneware for lasting durability, indoors or out. Dimensions: 16” × 8” × 4” (41 × 20 × 10 cm). Two mounting holes allow for easy hanging with nails, screws, or wire.\nStoneware goes through two firings. Here it is after sculpting, before the first fire — and a glimpse of the hollowing process that makes large pieces possible."
   },
   {
     "objectID": "pieces/crow_babies.html",
@@ -215,13 +215,6 @@
     "title": "Crow Babies",
     "section": "",
     "text": "Available for Purchase Price: $45\nEmail may.lisa2@gmail.com to inquire.\n\nThis summer I watched a juvenile crow beg for food while she was standing on food. The begging went on for days. Man, oh man, it really made me empathize with the parents. And crows do it every year! This a set of four small plates is an ode to parental patience and how hard it is to raise kids. :) They’re little plates - perfect for dunking chicken nuggets in ketchup or holding your rings."
-  },
-  {
-    "objectID": "pieces/stars_mug.html",
-    "href": "pieces/stars_mug.html",
-    "title": "Stars & Mountains Mug",
-    "section": "",
-    "text": "Inspired by looking at a picture of this stars cup, I made this!"
   },
   {
     "objectID": "about.html",
