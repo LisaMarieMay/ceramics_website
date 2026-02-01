@@ -192,7 +192,11 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <ul>
 <li>Categories: <code>available for purchase</code>, <code>work in progress</code>, <code>sculpture</code>, <code>mugs</code>, <code>crows</code>, <code>whales</code>, <code>sgraffito</code>, etc.</li>
 <li><code>work in progress</code> items should have <code>draft: true</code> (don’t publish unfinished pieces)</li>
-<li>For sale items include “Available for Purchase” and “Price: $X” at top of content (two trailing spaces after “Purchase” for line break)</li>
+<li>For sale items include “Available for Purchase”, “Price: $X”, and “Volume: X mL (X oz)” at top of content
+<ul>
+<li>Each line needs two trailing spaces for markdown line breaks (including Price line)</li>
+<li>Format: <code>Available for Purchase␣␣</code> / <code>Price: $X␣␣</code> / <code>Volume: X mL (X oz)</code></li>
+</ul></li>
 <li>Alt text uses <code>fig-alt</code> attribute (not bracket syntax) to avoid visible captions</li>
 <li>Lightbox galleries use <code>group="name"</code> attribute for navigation between images</li>
 <li>Piece page pattern: hero image at top, then <code>layout-ncol=2</code> or <code>layout-ncol=3</code> grid for additional views</li>

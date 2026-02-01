@@ -10,7 +10,9 @@ Quarto-based portfolio site for handmade ceramics.
 ## Conventions
 - Categories: `available for purchase`, `work in progress`, `sculpture`, `mugs`, `crows`, `whales`, `sgraffito`, etc.
 - `work in progress` items should have `draft: true` (don't publish unfinished pieces)
-- For sale items include "Available for Purchase" and "Price: $X" at top of content (two trailing spaces after "Purchase" for line break)
+- For sale items include "Available for Purchase", "Price: $X", and "Volume: X mL (X oz)" at top of content
+  - Each line needs two trailing spaces for markdown line breaks (including Price line)
+  - Format: `Available for Purchase␣␣` / `Price: $X␣␣` / `Volume: X mL (X oz)`
 - Alt text uses `fig-alt` attribute (not bracket syntax) to avoid visible captions
 - Lightbox galleries use `group="name"` attribute for navigation between images
 - Piece page pattern: hero image at top, then `layout-ncol=2` or `layout-ncol=3` grid for additional views

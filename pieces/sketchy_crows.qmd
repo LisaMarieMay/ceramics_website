@@ -6,8 +6,8 @@ date: 2026-02-12
 lightbox: true
 ---
 
-Available for Purchase
-Price: $50
+Available for Purchase  
+Price: $50  
 Volume: 182 mL (6 oz)
 
 ![](../images/sketchy-crow-1.jpg){group="sketchy-crow" fig-alt="Sketchy crows mug, front view"}
