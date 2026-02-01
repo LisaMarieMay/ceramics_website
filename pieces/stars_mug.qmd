@@ -2,7 +2,7 @@
 title: "Stars & Mountains Mug"
 image: "../images/stars-mug-1.jpg"
 categories: [sgraffito, mugs, available for purchase]
-date: 2025-12-16
+date: 2025-02-12
 lightbox: true
 ---
 

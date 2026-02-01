@@ -20,11 +20,8 @@
       "/pieces/crow_feet.html",
       "/pieces/crow_babies.html",
       "/pieces/og_plate.html",
-      "/pieces/stars_mug.html",
       "/pieces/who_me.html",
-      "/pieces/mark_making_mug.html",
       "/pieces/crow_plate_2.html",
-      "/pieces/stars_cup.html",
       "/pieces/hammered_mug_1.html",
       "/pieces/spirit_bird.html",
       "/pieces/singing_whale.html",
@@ -32,7 +29,10 @@
       "/pieces/papaya.html",
       "/pieces/tea_cannister.html",
       "/pieces/tiny_bowls.html",
-      "/pieces/sketchy_crows.html"
+      "/pieces/stars_cup.html",
+      "/pieces/sketchy_crows.html",
+      "/pieces/mark_making_mug.html",
+      "/pieces/stars_mug.html"
     ]
   },
   {
@@ -48,11 +48,11 @@
       "/pieces/whale_momma.html",
       "/pieces/full_body_crow_plate.html",
       "/pieces/crow_babies.html",
-      "/pieces/stars_mug.html",
       "/pieces/who_me.html",
-      "/pieces/mark_making_mug.html",
       "/pieces/crow_plate_2.html",
-      "/pieces/sketchy_crows.html"
+      "/pieces/sketchy_crows.html",
+      "/pieces/mark_making_mug.html",
+      "/pieces/stars_mug.html"
     ]
   },
   {
@@ -66,12 +66,12 @@
       "/pieces/crow_goddess_mug.html",
       "/pieces/crow_pearls_mug.html",
       "/pieces/crow_feet.html",
-      "/pieces/stars_mug.html",
-      "/pieces/mark_making_mug.html",
-      "/pieces/stars_cup.html",
       "/pieces/hammered_mug_1.html",
       "/pieces/hammered_mug_2.html",
-      "/pieces/sketchy_crows.html"
+      "/pieces/stars_cup.html",
+      "/pieces/sketchy_crows.html",
+      "/pieces/mark_making_mug.html",
+      "/pieces/stars_mug.html"
     ]
   }
 ]
