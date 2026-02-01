@@ -7,7 +7,7 @@ lightbox: true
 ---
 
 Available for Purchase
-Price: $30
+Price: $30  
 Volume: 548 mL (19 oz)
 
 ![](../images/arches-mug-1.jpg){group="arches-mug" fig-alt="Arches mug, front view"}

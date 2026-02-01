@@ -7,7 +7,7 @@ lightbox: true
 ---
 
 Available for Purchase
-Price: $50
+Price: $50  
 Volume: 248 mL (8 oz)
 
 ![](../images/golden-green-1.jpg){group="golden-green" fig-alt="Golden green mug, front view"}

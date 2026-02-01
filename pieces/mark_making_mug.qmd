@@ -7,7 +7,7 @@ lightbox: true
 ---
 
 Available for Purchase
-Price: $50
+Price: $50  
 Volume: 410 mL (14 oz)
 
 ![](../images/mark-making-mug-1.jpg){group="mark-making" fig-alt="Mark making mug, front view"}

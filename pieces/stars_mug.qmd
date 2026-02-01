@@ -7,7 +7,7 @@ lightbox: true
 ---
 
 Available for Purchase
-Price: $50
+Price: $50  
 Volume: 413 mL (14 oz)
 
 ![](../images/stars-mug-1.jpg){group="stars-mug" fig-alt="Stars and mountains mug, front view"}
