@@ -6,8 +6,9 @@ date: 2026-02-13
 lightbox: true
 ---
 
-Available for Purchase  
+Available for Purchase
 Price: $50
+Volume: 577 mL (20 oz)
 
 ![](../images/doors-mug-1.jpg){group="doors-mug" fig-alt="Doors mug, front view"}
 
@@ -19,7 +20,7 @@ Price: $50
 ![](../images/doors-mug-4.jpg){group="doors-mug" fig-alt="Doors mug, handle view"}
 :::
 
-This is a big, bold mug — [xx] ounces (xx mL) — for someone who wants to commit to their coffee.
+This is a big, bold mug — 20 oz (577 mL) — for someone who wants to commit to their coffee.
 
 The design is based on medieval cathedral doors. I've been thinking about doors lately as points of transition, especially house doors. The transition between what's internal and private vs. external and public. How we navigate those choices. Doors to different futures, possible choices, other dimensions. 
 

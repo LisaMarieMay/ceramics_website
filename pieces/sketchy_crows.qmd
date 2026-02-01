@@ -6,8 +6,9 @@ date: 2026-02-12
 lightbox: true
 ---
 
-Available for Purchase  
+Available for Purchase
 Price: $50
+Volume: 182 mL (6 oz)
 
 ![](../images/sketchy-crow-1.jpg){group="sketchy-crow" fig-alt="Sketchy crows mug, front view"}
 
@@ -22,6 +23,7 @@ Price: $50
 
 ![](../images/sketchy-crow-6.jpg){group="sketchy-crow" fig-alt="Sketchy crows mug, alternate view"}
 :::
+She's a small mug (6 oz/182 mL), for a Sunday morning when you're close to the coffee pot or have a pot of tea brewing. Or maybe you're just an elegant person who drinks in small volumes. 
 
 This crow from behind is my favorite. Mysterious.
 ![](../images/sketchy-crow-1-cropped.jpg){fig-alt="Sketchy crows mug, mysterious crow from behind"}

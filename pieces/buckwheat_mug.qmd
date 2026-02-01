@@ -6,8 +6,9 @@ date: 2026-02-01
 lightbox: true
 ---
 
-Available for Purchase  
+Available for Purchase
 Price: $40
+Volume: 522 mL (18 oz)
 
 ![](../images/buckwheat-mug-1.jpg){group="buckwheat-mug" fig-alt="Buckwheat mug, front view"}
 

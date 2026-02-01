@@ -6,8 +6,9 @@ date: 2026-02-14
 lightbox: true
 ---
 
-Available for Purchase  
+Available for Purchase
 Price: $50
+Volume: 360 mL (12 oz)
 
 ![](../images/crow-walking-stripes-1.jpg){group="crow-stripes" fig-alt="Crow walking mug stripey style, front view"}
 

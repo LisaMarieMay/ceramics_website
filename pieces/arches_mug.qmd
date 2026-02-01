@@ -6,8 +6,9 @@ date: 2026-02-01
 lightbox: true
 ---
 
-Available for Purchase  
+Available for Purchase
 Price: $30
+Volume: 548 mL (19 oz)
 
 ![](../images/arches-mug-1.jpg){group="arches-mug" fig-alt="Arches mug, front view"}
 
@@ -21,4 +22,4 @@ Price: $30
 ![](../images/arches-mug-5.jpg){group="arches-mug" fig-alt="Arches mug, alternate view"}
 :::
 
-This is a truly large mug. [xx] ounces (mL). It's gonna get you through multiple meetings or a walk around the garden to check on _all_ the plants. 
+This is a truly large mug — 19 oz (548 mL). It's gonna get you through multiple meetings or a walk around the garden to check on _all_ the plants. 

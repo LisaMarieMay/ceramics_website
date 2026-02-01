@@ -8,6 +8,7 @@ lightbox: true
 
 Available for Purchase
 Price: $50
+Volume: 248 mL (8 oz)
 
 ![](../images/golden-green-1.jpg){group="golden-green" fig-alt="Golden green mug, front view"}
 
@@ -20,7 +21,7 @@ Price: $50
 
 ![](../images/golden-green-5.jpg){group="golden-green" fig-alt="Golden green mug, alternate view"}
 :::
-This is a smaller mug [xx oz (xx mL)], and it's wierd, wonderful, and one-of-a-kind. This glaze is called Golden Green and I'm falling in love with the weird olive green/yellow.
+This is a smaller mug (8 oz / 248 mL), and it's wierd, wonderful, and one-of-a-kind. This glaze is called Golden Green and I'm falling in love with the weird olive green/yellow.
 
 This is based on drawings from _my crows_ in _my backyard_, a sister to [sketchy crows](sketchy_crows.html). 
 
