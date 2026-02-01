@@ -1,10 +1,17 @@
 [
   {
+    "objectID": "pieces/arches_mug.html",
+    "href": "pieces/arches_mug.html",
+    "title": "Arches Mug",
+    "section": "",
+    "text": "Available for Purchase\nPrice: $30\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThis is a truly large mug. [xx] ounces (mL). It’s gonna get you through multiple meetings or a walk around the garden to check on all the plants."
+  },
+  {
     "objectID": "CLAUDE.html",
     "href": "CLAUDE.html",
     "title": "Lisa May Ceramics Website",
     "section": "",
-    "text": "Quarto-based portfolio site for handmade ceramics.\n\n\n\npieces/ - Individual piece pages (.qmd files)\nimages/ - All images (JPG preferred, 1000px long edge currently, moving to 1600px)\nmugs.qmd, etc. - Category listing pages\n\n\n\n\n\nCategories: available for purchase, work in progress, sculpture, mugs, crows, whales, sgraffito, etc.\nwork in progress items should have draft: true (don’t publish unfinished pieces)\nFor sale items include “Available for Purchase” and “Price: $X” at top of content\nAlt text uses fig-alt attribute (not bracket syntax) to avoid visible captions\nLightbox galleries use group=\"name\" attribute for navigation between images\n\n\n\n\n\nAll images have copyright: “© Lisa May”\nArtist/Creator: “Lisa May”\nCopyright Notice: “© Lisa May - lisamayceramics.com”\nGPS and device info stripped for privacy\n\n\n\n\n\nWeb research is authorized (viewing websites for pricing, technique info, etc.)\n\n\n\n\nLisa May - lisamayceramics.com"
+    "text": "Quarto-based portfolio site for handmade ceramics.\n\n\n\npieces/ - Individual piece pages (.qmd files)\nimages/ - All images (JPG preferred, 1000px long edge currently, moving to 1600px)\nmugs.qmd, etc. - Category listing pages\n\n\n\n\n\nCategories: available for purchase, work in progress, sculpture, mugs, crows, whales, sgraffito, etc.\nwork in progress items should have draft: true (don’t publish unfinished pieces)\nFor sale items include “Available for Purchase” and “Price: $X” at top of content (two trailing spaces after “Purchase” for line break)\nAlt text uses fig-alt attribute (not bracket syntax) to avoid visible captions\nLightbox galleries use group=\"name\" attribute for navigation between images\n\n\n\n\n\nAll images have copyright: “© Lisa May”\nArtist/Creator: “Lisa May”\nCopyright Notice: “© Lisa May - lisamayceramics.com”\nGPS and device info stripped for privacy\n\n\n\nexiftool -overwrite_original \\\n  '-GPS*=' \\\n  -Make= \\\n  -Model= \\\n  -Software= \\\n  -SerialNumber= \\\n  -LensInfo= \\\n  -LensModel= \\\n  -LensSerialNumber= \\\n  -Copyright=\"© Lisa May\" \\\n  -Artist=\"Lisa May\" \\\n  -Creator=\"Lisa May\" \\\n  -CopyrightNotice=\"© Lisa May - lisamayceramics.com\" \\\n  images/*.jpg images/*.png\n\n\n\n\n\nWeb research is authorized (viewing websites for pricing, technique info, etc.)\n\n\n\n\nLisa May - lisamayceramics.com"
   },
   {
     "objectID": "CLAUDE.html#site-structure",
@@ -18,14 +25,14 @@
     "href": "CLAUDE.html#conventions",
     "title": "Lisa May Ceramics Website",
     "section": "",
-    "text": "Categories: available for purchase, work in progress, sculpture, mugs, crows, whales, sgraffito, etc.\nwork in progress items should have draft: true (don’t publish unfinished pieces)\nFor sale items include “Available for Purchase” and “Price: $X” at top of content\nAlt text uses fig-alt attribute (not bracket syntax) to avoid visible captions\nLightbox galleries use group=\"name\" attribute for navigation between images"
+    "text": "Categories: available for purchase, work in progress, sculpture, mugs, crows, whales, sgraffito, etc.\nwork in progress items should have draft: true (don’t publish unfinished pieces)\nFor sale items include “Available for Purchase” and “Price: $X” at top of content (two trailing spaces after “Purchase” for line break)\nAlt text uses fig-alt attribute (not bracket syntax) to avoid visible captions\nLightbox galleries use group=\"name\" attribute for navigation between images"
   },
   {
     "objectID": "CLAUDE.html#image-metadata",
     "href": "CLAUDE.html#image-metadata",
     "title": "Lisa May Ceramics Website",
     "section": "",
-    "text": "All images have copyright: “© Lisa May”\nArtist/Creator: “Lisa May”\nCopyright Notice: “© Lisa May - lisamayceramics.com”\nGPS and device info stripped for privacy"
+    "text": "All images have copyright: “© Lisa May”\nArtist/Creator: “Lisa May”\nCopyright Notice: “© Lisa May - lisamayceramics.com”\nGPS and device info stripped for privacy\n\n\n\nexiftool -overwrite_original \\\n  '-GPS*=' \\\n  -Make= \\\n  -Model= \\\n  -Software= \\\n  -SerialNumber= \\\n  -LensInfo= \\\n  -LensModel= \\\n  -LensSerialNumber= \\\n  -Copyright=\"© Lisa May\" \\\n  -Artist=\"Lisa May\" \\\n  -Creator=\"Lisa May\" \\\n  -CopyrightNotice=\"© Lisa May - lisamayceramics.com\" \\\n  images/*.jpg images/*.png"
   },
   {
     "objectID": "CLAUDE.html#authorized-actions",
@@ -42,32 +49,25 @@
     "text": "Lisa May - lisamayceramics.com"
   },
   {
-    "objectID": "plan.html",
-    "href": "plan.html",
-    "title": "To-Do",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "To-Do\n\nAdd alt text to all images\nMake “work in progress” category automatically set as draft (don’t publish unfinished pieces)\nReorganize top menu:\n\n“Available for purchase” first\nGallery second\nCategory pages (mugs, etc.) less prominent\n\nAdd section for new work not yet available (to show friends)\nImprove purchasing text\nExpand artist statement\nAdd commissions language (inquiries welcome, selective about projects — cool ideas from good people)\nUpdate mugs page (add new mugs, then remove draft status)"
+    "text": "I have a PhD in Neuroscience from the University of Oregon and work as a Workflow Coach for Posit Software.\nI tend to find the social lives of non-human animals interesting - thus crows and whales as subject matter."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Gallery",
+    "objectID": "pieces/crow_babies.html",
+    "href": "pieces/crow_babies.html",
+    "title": "Crow Babies",
     "section": "",
-    "text": "Holy Whale\n\n\n\n\n\n\n\n\n\n\n\n\nPod of Whales\n\n\n\n\n\n\n\n\n\n\n\n\nMina and the Leaf\n\n\n\n\n\n\n\n\n\n\n\n\nCrow Goddess Mug\n\n\n\n\n\n\n\n\n\n\n\n\nBeautiful Tail Whale\n\n\n\n\n\n\n\n\n\n\n\n\nIncense Burner\n\n\n\n\n\n\n\n\n\n\n\n\nBelly Dancer Whale\n\n\n\n\n\n\n\n\n\n\n\n\nMamma and tween whale\n\n\n\n\n\n\n\n\n\n\n\n\nJust a Crow Wearing Pearls\n\n\n\n\n\n\n\n\n\n\n\n\nFull Body Crow Plate\n\n\n\n\n\n\n\n\n\n\n\n\nCrow Feet are Dragon Feet\n\n\n\n\n\n\n\n\n\n\n\n\nCrow Babies\n\n\n\n\n\n\n\n\n\n\n\n\nThe Original Crow Goddess Plate\n\n\n\n\n\n\n\n\n\n\n\n\nWho Me?\n\n\n\n\n\n\n\n\n\n\n\n\nCrow Plate\n\n\n\n\n\n\n\n\n\n\n\n\nStars Cup\n\n\n\n\n\n\n\n\n\n\n\n\nReal Good Hammered Mug\n\n\n\n\n\n\n\n\n\n\n\n\nSpirit Bird\n\n\n\n\n\n\n\n\n\n\n\n\nSinging Whale\n\n\n\n\n\n\n\n\n\n\n\n\nHammered Mug the Second\n\n\n\n\n\n\n\n\n\n\n\n\nPapaya\n\n\n\n\n\n\n\n\n\n\n\n\nTea Cannister\n\n\n\n\n\n\n\n\n\n\n\n\nTiny Bowls\n\n\n\n\n\nNo matching items"
+    "text": "Available for Purchase Price: $45\nEmail may.lisa2@gmail.com to inquire.\n\nThis summer I watched a juvenile crow beg for food while she was standing on food. The begging went on for days. Man, oh man, it really made me empathize with the parents. And crows do it every year! This a set of four small plates is an ode to parental patience and how hard it is to raise kids. :) They’re little plates - perfect for dunking chicken nuggets in ketchup or holding your rings."
   },
   {
-    "objectID": "pieces/whale_1.html",
-    "href": "pieces/whale_1.html",
-    "title": "Beautiful Tail Whale",
+    "objectID": "pieces/holy_whale.html",
+    "href": "pieces/holy_whale.html",
+    "title": "Holy Whale",
     "section": "",
-    "text": "Available for Purchase\nPrice: $75\nEmail may.lisa2@gmail.com to inquire.  \nLook at that tail. That’s a beautiful tail."
-  },
-  {
-    "objectID": "pieces/crow_plate_2.html",
-    "href": "pieces/crow_plate_2.html",
-    "title": "Crow Plate",
-    "section": "",
-    "text": "Available for Purchase\nPrice: $25\nEmail may.lisa2@gmail.com to inquire."
+    "text": "Available for Purchase\nPrice: $225\nMale humpbacks sing for hours, spiraling slowly as their voices carry for miles. This sculpture holds that moment — peaceful, embodied, part of the great chorus.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHand sculpted in stoneware for lasting durability, indoors or out. Dimensions: 16” × 8” × 4” (41 × 20 × 10 cm). Two mounting holes allow for easy hanging with nails, screws, or wire.\nStoneware goes through two firings. Here it is after sculpting, before the first fire — and a glimpse of the hollowing process that makes large pieces possible."
   },
   {
     "objectID": "pieces/crow_feet.html",
@@ -84,25 +84,11 @@
     "text": "The OG (Original Goddess)"
   },
   {
-    "objectID": "pieces/whale_pod.html",
-    "href": "pieces/whale_pod.html",
-    "title": "Pod of Whales",
+    "objectID": "pieces/incense_burner.html",
+    "href": "pieces/incense_burner.html",
+    "title": "Incense Burner",
     "section": "",
-    "text": "These whale were in my mind for a long time.\n\n\nI used to work in an office space with a super high ceiling, and I had this image of the ocean and the different biological niches. You know, the sunlight zone, the twilight zone… we were the bottom dwellers in this tall tall space and there could be different biological niches above us and we’d just be oblivious to it.\n\n\n\n\n \n\n\n \n\n\n\nIn real life, it can feel like your entire biological niche changes when you change your social circle. Like…changing your job or go through a breakup…like you live in the same town but never see all the people you used to see every day. Or you start a new hobby or make a new friend and that gives you a whole new social world. All of these lives are going on around us and it doesn’t take much to make the world feel totally different.\n\n\n\n\n\n\n\n\n\n\nThe feeling of the different whales relating to one another— they’re playing, they’re dancing, they’re in their bodies and joyful. Movement. A sense of movement and connectedness. What must it feel like to dive like that? To be that powerful of a swimmer?"
-  },
-  {
-    "objectID": "pieces/full_body_crow_plate.html",
-    "href": "pieces/full_body_crow_plate.html",
-    "title": "Full Body Crow Plate",
-    "section": "",
-    "text": "Available for Purchase\nPrice: $40\nEmail may.lisa2@gmail.com to inquire.\n \nI love her. Early crow, pearls aren’t even filled in. Obsessed with crows walking."
-  },
-  {
-    "objectID": "pieces/tiny_bowls.html",
-    "href": "pieces/tiny_bowls.html",
-    "title": "Tiny Bowls",
-    "section": "",
-    "text": "Tiny bowls just perfect for your altar, or to hold your Ibuprofen."
+    "text": "I’m proud of this one. It’s really beautiful."
   },
   {
     "objectID": "pieces/papaya.html",
@@ -112,25 +98,25 @@
     "text": "The color blending is just right on the back."
   },
   {
-    "objectID": "pieces/spirit_bird.html",
-    "href": "pieces/spirit_bird.html",
-    "title": "Spirit Bird",
+    "objectID": "pieces/whale_belly.html",
+    "href": "pieces/whale_belly.html",
+    "title": "Belly Dancer Whale",
     "section": "",
-    "text": "An early little sculpture."
+    "text": "She’s a beautiful dancer, spinning on her belly."
   },
   {
-    "objectID": "pieces/mina_and_the_leaf.html",
-    "href": "pieces/mina_and_the_leaf.html",
-    "title": "Mina and the Leaf",
+    "objectID": "pieces/tea_cannister.html",
+    "href": "pieces/tea_cannister.html",
+    "title": "Tea Cannister",
     "section": "",
-    "text": "I’m real proud of this one. Gives just the Emily Dickenson staring into the sky vibes. Based off an actual photo - the leaf was (and is) that big."
+    "text": "The bottom is cool because I used a parmesan cheese jar as a form. :) Also this holds Trader Joe’s teabags just like a can of pringles."
   },
   {
-    "objectID": "pieces/stars_cup.html",
-    "href": "pieces/stars_cup.html",
-    "title": "Stars Cup",
+    "objectID": "pieces/hammered_mug_2.html",
+    "href": "pieces/hammered_mug_2.html",
+    "title": "Hammered Mug the Second",
     "section": "",
-    "text": "Gasp. This one gives me the feels. I should make more in this theme."
+    "text": "Honestly, the first hammered mug was way better. I was experimenting with thinner slabs to make the mugs lighter, but I’ve learned that means they warp more easily."
   },
   {
     "objectID": "pieces/crow_pearls_mug.html",
@@ -147,53 +133,25 @@
     "text": "Hi! To purchase a piece, send an email to may.lisa2@gmail.com."
   },
   {
-    "objectID": "pieces/hammered_mug_1.html",
-    "href": "pieces/hammered_mug_1.html",
-    "title": "Real Good Hammered Mug",
+    "objectID": "pieces/stars_cup.html",
+    "href": "pieces/stars_cup.html",
+    "title": "Stars Cup",
     "section": "",
-    "text": "It’s not even hammered. I mean…I hit it with a ball tool which I love doing with all my heart."
+    "text": "Gasp. This one gives me the feels. I should make more in this theme."
   },
   {
-    "objectID": "pieces/hammered_mug_2.html",
-    "href": "pieces/hammered_mug_2.html",
-    "title": "Hammered Mug the Second",
+    "objectID": "pieces/mina_and_the_leaf.html",
+    "href": "pieces/mina_and_the_leaf.html",
+    "title": "Mina and the Leaf",
     "section": "",
-    "text": "Honestly, the first hammered mug was way better. I was experimenting with thinner slabs to make the mugs lighter, but I’ve learned that means they warp more easily."
+    "text": "I’m real proud of this one. Gives just the Emily Dickenson staring into the sky vibes. Based off an actual photo - the leaf was (and is) that big."
   },
   {
-    "objectID": "pieces/tea_cannister.html",
-    "href": "pieces/tea_cannister.html",
-    "title": "Tea Cannister",
+    "objectID": "pieces/full_body_crow_plate.html",
+    "href": "pieces/full_body_crow_plate.html",
+    "title": "Full Body Crow Plate",
     "section": "",
-    "text": "The bottom is cool because I used a parmesan cheese jar as a form. :) Also this holds Trader Joe’s teabags just like a can of pringles."
-  },
-  {
-    "objectID": "pieces/whale_belly.html",
-    "href": "pieces/whale_belly.html",
-    "title": "Belly Dancer Whale",
-    "section": "",
-    "text": "She’s a beautiful dancer, spinning on her belly."
-  },
-  {
-    "objectID": "pieces/whale_momma.html",
-    "href": "pieces/whale_momma.html",
-    "title": "Mamma and tween whale",
-    "section": "",
-    "text": "Available for Purchase\nPrice: $75\nEmail may.lisa2@gmail.com to inquire.\n\nThat’s not a baby whale anymore. She’s a middle schooler."
-  },
-  {
-    "objectID": "pieces/incense_burner.html",
-    "href": "pieces/incense_burner.html",
-    "title": "Incense Burner",
-    "section": "",
-    "text": "I’m proud of this one. It’s really beautiful."
-  },
-  {
-    "objectID": "pieces/who_me.html",
-    "href": "pieces/who_me.html",
-    "title": "Who Me?",
-    "section": "",
-    "text": "Available for Purchase\nPrice: $25\nEmail may.lisa2@gmail.com to inquire.\n\nWho me? Wink, wink, innocent face."
+    "text": "Available for Purchase\nPrice: $40\nEmail may.lisa2@gmail.com to inquire.\n \nI love her. Early crow, pearls aren’t even filled in. Obsessed with crows walking."
   },
   {
     "objectID": "pieces/singing_whale.html",
@@ -203,24 +161,31 @@
     "text": "Sigh. I really loved this whale, but I screwed up the glazing. So we’ll just say that I learned a lot. Maybe someday I’ll try to reglaze and fire."
   },
   {
-    "objectID": "pieces/holy_whale.html",
-    "href": "pieces/holy_whale.html",
-    "title": "Holy Whale",
+    "objectID": "pieces/whale_1.html",
+    "href": "pieces/whale_1.html",
+    "title": "Beautiful Tail Whale",
     "section": "",
-    "text": "Available for Purchase\nPrice: $225\nMale humpbacks sing for hours, spiraling slowly as their voices carry for miles. This sculpture holds that moment — peaceful, embodied, part of the great chorus.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHand sculpted in stoneware for lasting durability, indoors or out. Dimensions: 16” × 8” × 4” (41 × 20 × 10 cm). Two mounting holes allow for easy hanging with nails, screws, or wire.\nStoneware goes through two firings. Here it is after sculpting, before the first fire — and a glimpse of the hollowing process that makes large pieces possible."
+    "text": "Available for Purchase\nPrice: $75\nEmail may.lisa2@gmail.com to inquire.  \nLook at that tail. That’s a beautiful tail."
   },
   {
-    "objectID": "pieces/crow_babies.html",
-    "href": "pieces/crow_babies.html",
-    "title": "Crow Babies",
+    "objectID": "plan.html",
+    "href": "plan.html",
+    "title": "To-Do",
     "section": "",
-    "text": "Available for Purchase Price: $45\nEmail may.lisa2@gmail.com to inquire.\n\nThis summer I watched a juvenile crow beg for food while she was standing on food. The begging went on for days. Man, oh man, it really made me empathize with the parents. And crows do it every year! This a set of four small plates is an ode to parental patience and how hard it is to raise kids. :) They’re little plates - perfect for dunking chicken nuggets in ketchup or holding your rings."
+    "text": "To-Do\n\nAdd alt text to all images\nMake “work in progress” category automatically set as draft (don’t publish unfinished pieces)\nReorganize top menu:\n\n“Available for purchase” first\nGallery second\nCategory pages (mugs, etc.) less prominent\n\nAdd section for new work not yet available (to show friends)\nImprove purchasing text\nExpand artist statement\nAdd commissions language (inquiries welcome, selective about projects — cool ideas from good people)\nUpdate mugs page (add new mugs, then remove draft status)\nAdd mailing list"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "pieces/buckwheat_mug.html",
+    "href": "pieces/buckwheat_mug.html",
+    "title": "Buckwheat Mug",
     "section": "",
-    "text": "I have a PhD in Neuroscience from the University of Oregon and work as a Workflow Coach for Posit Software.\nI tend to find the social lives of non-human animals interesting - thus crows and whales as subject matter."
+    "text": "Available for Purchase Price: $40\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nListen, don’t tell the rest of the mugs, but right out of the kiln this is one of the best mugs of its cohort.\nIt’s big, it’s strong, it’s a simple mug. It’s not an artist, it might not be interesting with crows or such, but it doesn’t need all that. It’s perfect as it is.\nAlso obsessed with this buckwheat glaze. On a test tile I was all “boring, when would I ever want that? But for this it’s just right. Look at how it breaks over the carving, it’s eeeeiiii so good.”"
+  },
+  {
+    "objectID": "pieces/doors_mug.html",
+    "href": "pieces/doors_mug.html",
+    "title": "Doors Mug",
+    "section": "",
+    "text": "Available for Purchase\nPrice: $50\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThis is a big, bold mug — [xx] ounces (xx mL) — for someone who wants to commit to their coffee.\nThe design is based on medieval cathedral doors. I’ve been thinking about doors lately. Points of transition, especially house doors as the transition between what’s internal and private vs. external and public. How we navigate those choices. Doors to different futures, possible choices, other dimensions.\nThis piece marks a turning point for me: it’s where I started treating mugs as tiny canvases, sketching out a composition based on the space. (Why green? Couldn’t tell you.)"
   }
 ]

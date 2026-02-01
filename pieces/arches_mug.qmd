@@ -1,0 +1,24 @@
+---
+title: "Arches Mug"
+image: "../images/arches-mug-1.jpg"
+categories: [mugs, sgraffito, available for purchase]
+date: 2026-02-01
+lightbox: true
+---
+
+Available for Purchase  
+Price: $30
+
+![](../images/arches-mug-1.jpg){group="arches-mug" fig-alt="Arches mug, front view"}
+
+::: {layout-ncol=2}
+![](../images/arches-mug-2.jpg){group="arches-mug" fig-alt="Arches mug, side view"}
+
+![](../images/arches-mug-3.jpg){group="arches-mug" fig-alt="Arches mug, detail view"}
+
+![](../images/arches-mug-4.jpg){group="arches-mug" fig-alt="Arches mug, handle view"}
+
+![](../images/arches-mug-5.jpg){group="arches-mug" fig-alt="Arches mug, alternate view"}
+:::
+
+This is a truly large mug. [xx] ounces (mL). It's gonna get you through multiple meetings or a walk around the garden to check on _all_ the plants. 

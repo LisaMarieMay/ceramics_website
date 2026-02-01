@@ -193,5 +193,14 @@
   },
   "CLAUDE.md": {
     "CLAUDE.html": "948e025f"
+  },
+  "pieces/arches_mug.qmd": {
+    "arches_mug.html": "dd9d7acc"
+  },
+  "pieces/buckwheat_mug.qmd": {
+    "buckwheat_mug.html": "8f25380b"
+  },
+  "pieces/doors_mug.qmd": {
+    "doors_mug.html": "6ecd9fdc"
   }
 }

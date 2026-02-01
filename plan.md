@@ -11,3 +11,4 @@
 - [ ] Expand artist statement
 - [ ] Add commissions language (inquiries welcome, selective about projects — cool ideas from good people)
 - [ ] Update mugs page (add new mugs, then remove draft status)
+- [ ] Add mailing list

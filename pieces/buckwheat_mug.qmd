@@ -1,0 +1,26 @@
+---
+title: "Buckwheat Mug"
+image: "../images/buckwheat-mug-1.jpg"
+categories: [mugs, sgraffito, available for purchase]
+date: 2026-02-01
+lightbox: true
+---
+
+Available for Purchase
+Price: $40
+
+![](../images/buckwheat-mug-1.jpg){group="buckwheat-mug" fig-alt="Buckwheat mug, front view"}
+
+::: {layout-ncol=3}
+![](../images/buckwheat-mug-2.jpg){group="buckwheat-mug" fig-alt="Buckwheat mug, side view"}
+
+![](../images/buckwheat-mug-3.jpg){group="buckwheat-mug" fig-alt="Buckwheat mug, detail view"}
+
+![](../images/buckwheat-mug-4.jpg){group="buckwheat-mug" fig-alt="Buckwheat mug, handle view"}
+:::
+
+Listen, don't tell the rest of the mugs, but right out of the kiln this is one of the best mugs of its cohort. 
+
+It's big, it's strong, it's a simple mug. It's not an artist, it might not be _interesting_ with crows or such, but it doesn't need all that. It's perfect as it is. 
+
+Also obsessed with this buckwheat glaze. On a test tile I was all "boring, when would I ever want that? But for this it's just right. Look at how it breaks over the carving, it's eeeeiiii so good. "
