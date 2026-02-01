@@ -6,8 +6,8 @@ date: 2025-12-16
 lightbox: true
 ---
 
-Available for Purchase
-Price: $XX
+Available for Purchase  
+Price: $50
 
 ![](../images/stars-mug-1.jpg){group="stars-mug" fig-alt="Stars and mountains mug, front view"}
 
@@ -19,8 +19,12 @@ Price: $XX
 ![](../images/stars-mug-4.jpg){group="stars-mug" fig-alt="Stars and mountains mug, handle view"}
 :::
 
-Inspired by looking at a picture of [this stars cup](stars_cup.html), I made this!
+Inspired by looking at a picture of [this stars cup](stars_cup.html), I made this! For these, I always need the mountains/land/horizon to be waaaayyy down on the mug, because I'm chasing that feeling of laying in a field as a kid in the plains of Montana, with the sky a bowl above me. BIG SKY. 
 
-**Process notes**
+This mug will do you right. She's good to hold, she's a good size, good vibes. 
+
+Durable stoneware, dishwasher and microwave safe.
+
+**Process Pic**
 
 ![](../images/stars_mug_wip.jpg){fig-alt="Stars and mountains mug, work in progress"}
