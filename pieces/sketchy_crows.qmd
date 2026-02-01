@@ -2,7 +2,7 @@
 title: "Sketchy Crows Mug"
 image: "../images/sketchy-crow-1.jpg"
 categories: [sgraffito, crows, mugs, available for purchase]
-date: 2025-02-12
+date: 2026-02-12
 lightbox: true
 ---
 

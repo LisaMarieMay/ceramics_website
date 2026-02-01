@@ -5,7 +5,10 @@
       "/pieces/holy_whale.html",
       "/pieces/crow_walking_mug_striped.html",
       "/pieces/doors_mug.html",
+      "/pieces/sketchy_crows.html",
+      "/pieces/mark_making_mug.html",
       "/pieces/golden_green_mug.html",
+      "/pieces/stars_mug.html",
       "/pieces/arches_mug.html",
       "/pieces/buckwheat_mug.html",
       "/pieces/whale_pod.html",
@@ -29,10 +32,7 @@
       "/pieces/papaya.html",
       "/pieces/tea_cannister.html",
       "/pieces/tiny_bowls.html",
-      "/pieces/stars_cup.html",
-      "/pieces/sketchy_crows.html",
-      "/pieces/mark_making_mug.html",
-      "/pieces/stars_mug.html"
+      "/pieces/stars_cup.html"
     ]
   },
   {
@@ -41,7 +41,10 @@
       "/pieces/holy_whale.html",
       "/pieces/crow_walking_mug_striped.html",
       "/pieces/doors_mug.html",
+      "/pieces/sketchy_crows.html",
+      "/pieces/mark_making_mug.html",
       "/pieces/golden_green_mug.html",
+      "/pieces/stars_mug.html",
       "/pieces/arches_mug.html",
       "/pieces/buckwheat_mug.html",
       "/pieces/whale_1.html",
@@ -49,10 +52,7 @@
       "/pieces/full_body_crow_plate.html",
       "/pieces/crow_babies.html",
       "/pieces/who_me.html",
-      "/pieces/crow_plate_2.html",
-      "/pieces/sketchy_crows.html",
-      "/pieces/mark_making_mug.html",
-      "/pieces/stars_mug.html"
+      "/pieces/crow_plate_2.html"
     ]
   },
   {
@@ -60,7 +60,10 @@
     "items": [
       "/pieces/crow_walking_mug_striped.html",
       "/pieces/doors_mug.html",
+      "/pieces/sketchy_crows.html",
+      "/pieces/mark_making_mug.html",
       "/pieces/golden_green_mug.html",
+      "/pieces/stars_mug.html",
       "/pieces/arches_mug.html",
       "/pieces/buckwheat_mug.html",
       "/pieces/crow_goddess_mug.html",
@@ -68,10 +71,7 @@
       "/pieces/crow_feet.html",
       "/pieces/hammered_mug_1.html",
       "/pieces/hammered_mug_2.html",
-      "/pieces/stars_cup.html",
-      "/pieces/sketchy_crows.html",
-      "/pieces/mark_making_mug.html",
-      "/pieces/stars_mug.html"
+      "/pieces/stars_cup.html"
     ]
   }
 ]
