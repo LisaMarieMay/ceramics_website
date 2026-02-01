@@ -1,0 +1,27 @@
+---
+title: "Golden Green Mug"
+image: "../images/golden-green-1.jpg"
+categories: [mugs, sgraffito, available for purchase]
+date: 2026-02-12
+lightbox: true
+---
+
+Available for Purchase
+Price: $50
+
+![](../images/golden-green-1.jpg){group="golden-green" fig-alt="Golden green mug, front view"}
+
+::: {layout-ncol=2}
+![](../images/golden-green-2.jpg){group="golden-green" fig-alt="Golden green mug, side view"}
+
+![](../images/golden-green-3.jpg){group="golden-green" fig-alt="Golden green mug, detail view"}
+
+![](../images/golden-green-4.jpg){group="golden-green" fig-alt="Golden green mug, handle view"}
+
+![](../images/golden-green-5.jpg){group="golden-green" fig-alt="Golden green mug, alternate view"}
+:::
+This is a smaller mug [xx oz (xx mL)], and it's wierd, wonderful, and one-of-a-kind. This glaze is called Golden Green and I'm falling in love with the weird olive green/yellow.
+
+This is based on drawings from _my crows_ in _my backyard_, a sister to [sketchy crows](sketchy_crows.html). 
+
+![](../images/sketchy_crow_reference.jpg)

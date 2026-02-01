@@ -2,12 +2,14 @@
   {
     "listing": "/index.html",
     "items": [
-      "/pieces/arches_mug.html",
-      "/pieces/buckwheat_mug.html",
+      "/pieces/holy_whale.html",
       "/pieces/crow_walking_mug_striped.html",
       "/pieces/doors_mug.html",
-      "/pieces/holy_whale.html",
+      "/pieces/golden_green_mug.html",
+      "/pieces/arches_mug.html",
+      "/pieces/buckwheat_mug.html",
       "/pieces/whale_pod.html",
+      "/pieces/sketchy_crows.html",
       "/pieces/mina_and_the_leaf.html",
       "/pieces/crow_goddess_mug.html",
       "/pieces/whale_1.html",
@@ -32,12 +34,32 @@
     ]
   },
   {
-    "listing": "/mugs.html",
+    "listing": "/available.html",
     "items": [
-      "/pieces/arches_mug.html",
-      "/pieces/buckwheat_mug.html",
+      "/pieces/holy_whale.html",
       "/pieces/crow_walking_mug_striped.html",
       "/pieces/doors_mug.html",
+      "/pieces/golden_green_mug.html",
+      "/pieces/arches_mug.html",
+      "/pieces/buckwheat_mug.html",
+      "/pieces/sketchy_crows.html",
+      "/pieces/whale_1.html",
+      "/pieces/whale_momma.html",
+      "/pieces/full_body_crow_plate.html",
+      "/pieces/crow_babies.html",
+      "/pieces/who_me.html",
+      "/pieces/crow_plate_2.html"
+    ]
+  },
+  {
+    "listing": "/mugs.html",
+    "items": [
+      "/pieces/crow_walking_mug_striped.html",
+      "/pieces/doors_mug.html",
+      "/pieces/golden_green_mug.html",
+      "/pieces/arches_mug.html",
+      "/pieces/buckwheat_mug.html",
+      "/pieces/sketchy_crows.html",
       "/pieces/crow_goddess_mug.html",
       "/pieces/crow_pearls_mug.html",
       "/pieces/crow_feet.html",

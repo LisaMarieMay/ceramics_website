@@ -1,16 +1,32 @@
 ---
-draft: true
 title: "Mark Making Mug"
-image: "../images/mark-making-mug-1.jpg" 
-categories: [mugs, sgraffito, work in progress] 
+image: "../images/mark-making-mug-1.jpg"
+categories: [mugs, sgraffito, available for purchase]
 date: 2025-12-14
-
+lightbox: true
 ---
 
-![](../images/mark-making-mug-1.jpg)
+Available for Purchase
+Price: $XX
 
-I got up in the middle of the night with this strong urge to carve. Not really about a final image, but a feeling of what my hands wanted to do. So I got up and carved this. In art school people talked about "being interested in mark making*" and I always thought that was pretentious. But there's something soothing about making the same motion over and over - repetitive hand movements. Why knitting, coloring, all kinds of things are soothing.  I find working with clay therapeutic, and it was soothing to do this just focused on the feeling, not with an image of how I wanted it to turn out. 
+![](../images/mark-making-mug-1.jpg){group="mark-making" fig-alt="Mark making mug, front view"}
 
-Glaze notes: So far it's saffron yellow and flame Speedball underglaze. After bisque, I want to fill in the carving spots with black or brown underglaze, then glaze the whole thing maybe with saffron glaze?
+::: {layout-ncol=2}
+![](../images/mark-making-mug-2.jpg){group="mark-making" fig-alt="Mark making mug, side view"}
 
-*Note: the only other time I heard this was daycare teachers talking about babies making art - just being interested in what it's like to make a mark. 
+![](../images/mark-making-mug-3.jpg){group="mark-making" fig-alt="Mark making mug, detail view"}
+
+![](../images/mark-making-mug-4.jpg){group="mark-making" fig-alt="Mark making mug, handle view"}
+
+![](../images/mark-making-mug-5.jpg){group="mark-making" fig-alt="Mark making mug, alternate view"}
+
+![](../images/mark-making-mug-6.jpg){group="mark-making" fig-alt="Mark making mug, bottom view"}
+:::
+
+I got up in the middle of the night with this strong urge to carve. Not really about a final image, but a feeling of what my hands wanted to do. So I got up and carved this. In art school people talked about "being interested in mark making*" and I always thought that was pretentious. But there's something soothing about making the same motion over and over - repetitive hand movements. Why knitting, coloring, all kinds of things are soothing. I find working with clay therapeutic, and it was soothing to do this just focused on the feeling, not with an image of how I wanted it to turn out.
+
+*Note: the only other time I heard this was daycare teachers talking about babies making art - just being interested in what it's like to make a mark.
+
+**Process notes**
+
+![](../images/mark_making_mug-process.jpg){fig-alt="Mark making mug, process photo"}

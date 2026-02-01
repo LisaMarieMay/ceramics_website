@@ -202,5 +202,11 @@
   },
   "pieces/doors_mug.qmd": {
     "doors_mug.html": "6ecd9fdc"
+  },
+  "available.qmd": {
+    "available.html": "ee926d4e"
+  },
+  "pieces/golden_green_mug.qmd": {
+    "golden_green_mug.html": "1de4824c"
   }
 }

@@ -6,6 +6,8 @@ website:
   title: "Lisa May Ceramics"
   navbar:
     left:
+      - href: available.qmd
+        text: Available
       - href: index.qmd
         text: Gallery
       - href: mugs.qmd

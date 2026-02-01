@@ -2,7 +2,7 @@
 title: "Wolverine & Chloe Mug"
 image: "../images/crow-walking-stripes-1.jpg"
 categories: [sgraffito, crows, mugs, available for purchase]
-date: 2026-02-01
+date: 2026-02-14
 lightbox: true
 ---
 

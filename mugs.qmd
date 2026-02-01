@@ -10,6 +10,7 @@ listing:
   page-size: 40
   grid-item-border: false
   fields: [image, title]
+  categories: true
   include:
     categories: "mugs"
 

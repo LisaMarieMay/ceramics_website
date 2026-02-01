@@ -2,7 +2,7 @@
 title: "Holy Whale"
 image: "../images/holy-whale-1.jpg"
 categories: [sculpture, whales, available for purchase]
-date: 2026-01-31
+date: 2026-02-15
 lightbox: true
 ---
 

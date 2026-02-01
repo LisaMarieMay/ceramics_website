@@ -2,7 +2,7 @@
 title: "Doors Mug"
 image: "../images/doors-mug-1.jpg"
 categories: [mugs, sgraffito, available for purchase]
-date: 2026-02-01
+date: 2026-02-13
 lightbox: true
 ---
 
@@ -23,6 +23,6 @@ This is a big, bold mug — [xx] ounces (xx mL) — for someone who wants to com
 
 The design is based on medieval cathedral doors. I've been thinking about doors lately as points of transition, especially house doors. The transition between what's internal and private vs. external and public. How we navigate those choices. Doors to different futures, possible choices, other dimensions. 
 
-This piece marks a turning point for me: it's where I started treating mugs as tiny canvases, sketching out a composition based on the space. (Why green? Couldn't tell you.)
+This piece marks a turning point for me: it's where I started treating mugs as tiny canvases, sketching out a composition based on the space.
 
 ![](../images/doors-drawing.jpg){fig-alt="Doors mug reference drawing"}

@@ -3,8 +3,8 @@
 - [ ] Add alt text to all images
 - [ ] Make "work in progress" category automatically set as draft (don't publish unfinished pieces)
 - [ ] Reorganize top menu:
-  - [ ] "Available for purchase" first
-  - [ ] Gallery second
+  - [x] "Available for purchase" first
+  - [x] Gallery second
   - [ ] Category pages (mugs, etc.) less prominent
 - [ ] Add section for new work not yet available (to show friends)
 - [ ] Improve purchasing text
@@ -15,4 +15,6 @@
   - [x] buckwheat_mug
   - [x] doors_mug
   - [x] crow_walking_mug_striped (Wolverine & Chloe)
+  - [x] golden_green_mug
 - [ ] Add mailing list
+- [ ] Figure out better way to order pieces (currently using fake dates for manual ordering)

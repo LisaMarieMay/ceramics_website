@@ -1,10 +1,26 @@
 ---
-draft: true
 title: "Stars & Mountains Mug"
-image: "../images/stars_mug_wip.jpg" 
-categories: [sgraffito, mugs, work in progress] 
+image: "../images/stars-mug-1.jpg"
+categories: [sgraffito, mugs, available for purchase]
 date: 2025-12-16
----  
-![](../images/stars_mug_wip.jpg)
+lightbox: true
+---
 
-Inspired by looking at a picture of [this stars cup](stars_cup.html), I made this! 
+Available for Purchase
+Price: $XX
+
+![](../images/stars-mug-1.jpg){group="stars-mug" fig-alt="Stars and mountains mug, front view"}
+
+::: {layout-ncol=3}
+![](../images/stars-mug-2.jpg){group="stars-mug" fig-alt="Stars and mountains mug, side view"}
+
+![](../images/stars-mug-3.jpg){group="stars-mug" fig-alt="Stars and mountains mug, detail view"}
+
+![](../images/stars-mug-4.jpg){group="stars-mug" fig-alt="Stars and mountains mug, handle view"}
+:::
+
+Inspired by looking at a picture of [this stars cup](stars_cup.html), I made this!
+
+**Process notes**
+
+![](../images/stars_mug_wip.jpg){fig-alt="Stars and mountains mug, work in progress"}

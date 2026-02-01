@@ -82,6 +82,9 @@ html, body {
 
 /* Custom crop position for specific images (show top instead of center) */
 .quarto-grid-item img[src*="spirit_bird_1"],
-.quarto-grid-item img[src*="crow_plate_1"] {
+.quarto-grid-item img[src*="crow_plate_1"],
+.quarto-grid-item img[src*="arches-mug-1"],
+.quarto-grid-item img[src*="buckwheat-mug-1"],
+.quarto-grid-item img[src*="doors-mug-1"] {
   object-position: center top;
 }

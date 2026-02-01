@@ -1,0 +1,19 @@
+---
+title: "Available for Purchase"
+listing:
+  contents: pieces
+  type: grid
+  image-height: "100%"
+  sort: "date desc"
+  grid-columns: 4
+  page-size: 40
+  grid-item-border: false
+  fields: [image, title]
+  categories: true
+  include:
+    categories: "available for purchase"
+
+format:
+  html:
+    page-layout: full
+---

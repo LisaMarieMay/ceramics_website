@@ -46,189 +46,28 @@
     "href": "plan.html",
     "title": "To-Do",
     "section": "",
-    "text": "To-Do\n\nAdd alt text to all images\nMake “work in progress” category automatically set as draft (don’t publish unfinished pieces)\nReorganize top menu:\n\n“Available for purchase” first\nGallery second\nCategory pages (mugs, etc.) less prominent\n\nAdd section for new work not yet available (to show friends)\nImprove purchasing text\nExpand artist statement\nAdd commissions language (inquiries welcome, selective about projects — cool ideas from good people)\nUpdate mugs page (add new mugs, then remove draft status)\n\narches_mug\nbuckwheat_mug\ndoors_mug\ncrow_walking_mug_striped (Wolverine & Chloe)\n\nAdd mailing list"
+    "text": "To-Do\n\nAdd alt text to all images\nMake “work in progress” category automatically set as draft (don’t publish unfinished pieces)\nReorganize top menu:\n\n“Available for purchase” first\nGallery second\nCategory pages (mugs, etc.) less prominent\n\nAdd section for new work not yet available (to show friends)\nImprove purchasing text\nExpand artist statement\nAdd commissions language (inquiries welcome, selective about projects — cool ideas from good people)\nUpdate mugs page (add new mugs, then remove draft status)\n\narches_mug\nbuckwheat_mug\ndoors_mug\ncrow_walking_mug_striped (Wolverine & Chloe)\ngolden_green_mug\n\nAdd mailing list\nFigure out better way to order pieces (currently using fake dates for manual ordering)"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Gallery",
     "section": "",
-    "text": "Arches Mug\n\n\n\n\n\n\n\n\n\n\n\n\nBuckwheat Mug\n\n\n\n\n\n\n\n\n\n\n\n\nWolverine & Chloe Mug\n\n\n\n\n\n\n\n\n\n\n\n\nDoors Mug\n\n\n\n\n\n\n\n\n\n\n\n\nHoly Whale\n\n\n\n\n\n\n\n\n\n\n\n\nPod of Whales\n\n\n\n\n\n\n\n\n\n\n\n\nMina and the Leaf\n\n\n\n\n\n\n\n\n\n\n\n\nCrow Goddess Mug\n\n\n\n\n\n\n\n\n\n\n\n\nBeautiful Tail Whale\n\n\n\n\n\n\n\n\n\n\n\n\nIncense Burner\n\n\n\n\n\n\n\n\n\n\n\n\nBelly Dancer Whale\n\n\n\n\n\n\n\n\n\n\n\n\nMamma and tween whale\n\n\n\n\n\n\n\n\n\n\n\n\nJust a Crow Wearing Pearls\n\n\n\n\n\n\n\n\n\n\n\n\nFull Body Crow Plate\n\n\n\n\n\n\n\n\n\n\n\n\nCrow Feet are Dragon Feet\n\n\n\n\n\n\n\n\n\n\n\n\nCrow Babies\n\n\n\n\n\n\n\n\n\n\n\n\nThe Original Crow Goddess Plate\n\n\n\n\n\n\n\n\n\n\n\n\nWho Me?\n\n\n\n\n\n\n\n\n\n\n\n\nCrow Plate\n\n\n\n\n\n\n\n\n\n\n\n\nStars Cup\n\n\n\n\n\n\n\n\n\n\n\n\nReal Good Hammered Mug\n\n\n\n\n\n\n\n\n\n\n\n\nSpirit Bird\n\n\n\n\n\n\n\n\n\n\n\n\nSinging Whale\n\n\n\n\n\n\n\n\n\n\n\n\nHammered Mug the Second\n\n\n\n\n\n\n\n\n\n\n\n\nPapaya\n\n\n\n\n\n\n\n\n\n\n\n\nTea Cannister\n\n\n\n\n\n\n\n\n\n\n\n\nTiny Bowls\n\n\n\n\n\nNo matching items"
+    "text": "Holy Whale\n\n\n\n\n\n\n\n\n\n\n\n\nWolverine & Chloe Mug\n\n\n\n\n\n\n\n\n\n\n\n\nDoors Mug\n\n\n\n\n\n\n\n\n\n\n\n\nGolden Green Mug\n\n\n\n\n\n\n\n\n\n\n\n\nArches Mug\n\n\n\n\n\n\n\n\n\n\n\n\nBuckwheat Mug\n\n\n\n\n\n\n\n\n\n\n\n\nPod of Whales\n\n\n\n\n\n\n\n\n\n\n\n\nSketchy Crows\n\n\n\n\n\n\n\n\n\n\n\n\nMina and the Leaf\n\n\n\n\n\n\n\n\n\n\n\n\nCrow Goddess Mug\n\n\n\n\n\n\n\n\n\n\n\n\nBeautiful Tail Whale\n\n\n\n\n\n\n\n\n\n\n\n\nIncense Burner\n\n\n\n\n\n\n\n\n\n\n\n\nBelly Dancer Whale\n\n\n\n\n\n\n\n\n\n\n\n\nMamma and tween whale\n\n\n\n\n\n\n\n\n\n\n\n\nJust a Crow Wearing Pearls\n\n\n\n\n\n\n\n\n\n\n\n\nFull Body Crow Plate\n\n\n\n\n\n\n\n\n\n\n\n\nCrow Feet are Dragon Feet\n\n\n\n\n\n\n\n\n\n\n\n\nCrow Babies\n\n\n\n\n\n\n\n\n\n\n\n\nThe Original Crow Goddess Plate\n\n\n\n\n\n\n\n\n\n\n\n\nWho Me?\n\n\n\n\n\n\n\n\n\n\n\n\nCrow Plate\n\n\n\n\n\n\n\n\n\n\n\n\nStars Cup\n\n\n\n\n\n\n\n\n\n\n\n\nReal Good Hammered Mug\n\n\n\n\n\n\n\n\n\n\n\n\nSpirit Bird\n\n\n\n\n\n\n\n\n\n\n\n\nSinging Whale\n\n\n\n\n\n\n\n\n\n\n\n\nHammered Mug the Second\n\n\n\n\n\n\n\n\n\n\n\n\nPapaya\n\n\n\n\n\n\n\n\n\n\n\n\nTea Cannister\n\n\n\n\n\n\n\n\n\n\n\n\nTiny Bowls\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "pieces/whale_1.html",
-    "href": "pieces/whale_1.html",
-    "title": "Beautiful Tail Whale",
+    "objectID": "pieces/golden_green_mug.html",
+    "href": "pieces/golden_green_mug.html",
+    "title": "Golden Green Mug",
     "section": "",
-    "text": "Available for Purchase\nPrice: $75\nEmail may.lisa2@gmail.com to inquire.  \nLook at that tail. That’s a beautiful tail."
+    "text": "Available for Purchase Price: $50\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThis is a smaller mug [xx oz (xx mL)], and it’s wierd, wonderful, and one-of-a-kind. This glaze is called Golden Green and I’m falling in love with the weird olive green/yellow.\nThis is based on drawings from my crows in my backyard, a sister to sketchy crows."
   },
   {
-    "objectID": "pieces/crow_plate_2.html",
-    "href": "pieces/crow_plate_2.html",
-    "title": "Crow Plate",
+    "objectID": "pieces/crow_babies.html",
+    "href": "pieces/crow_babies.html",
+    "title": "Crow Babies",
     "section": "",
-    "text": "Available for Purchase\nPrice: $25\nEmail may.lisa2@gmail.com to inquire."
-  },
-  {
-    "objectID": "pieces/crow_feet.html",
-    "href": "pieces/crow_feet.html",
-    "title": "Crow Feet are Dragon Feet",
-    "section": "",
-    "text": "Obsessed with bird feet. Also crows walking."
-  },
-  {
-    "objectID": "pieces/crow_goddess_mug.html",
-    "href": "pieces/crow_goddess_mug.html",
-    "title": "Crow Goddess Mug",
-    "section": "",
-    "text": "The OG (Original Goddess)"
-  },
-  {
-    "objectID": "pieces/who_me.html",
-    "href": "pieces/who_me.html",
-    "title": "Who Me?",
-    "section": "",
-    "text": "Available for Purchase\nPrice: $25\nEmail may.lisa2@gmail.com to inquire.\n\nWho me? Wink, wink, innocent face."
-  },
-  {
-    "objectID": "pieces/crow_walking_mug_striped.html",
-    "href": "pieces/crow_walking_mug_striped.html",
-    "title": "Wolverine & Chloe Mug",
-    "section": "",
-    "text": "Available for Purchase\nPrice: $50\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nObsessed with crows walking.\nThis crow is:\n\n\n\n\n\n\n\n\n\n\nwhile this one is:\n\n\n\n\n\n\n\n\n\n\nProcess notes\nI love the carving process. This is done on “leather hard” unfired clay.\nBefore carving:  After carving: \nImage credits: (Wolverine via The Guardian; Side-eyeing Chloe)"
-  },
-  {
-    "objectID": "pieces/incense_burner.html",
-    "href": "pieces/incense_burner.html",
-    "title": "Incense Burner",
-    "section": "",
-    "text": "I’m proud of this one. It’s really beautiful."
-  },
-  {
-    "objectID": "pieces/whale_momma.html",
-    "href": "pieces/whale_momma.html",
-    "title": "Mamma and tween whale",
-    "section": "",
-    "text": "Available for Purchase\nPrice: $75\nEmail may.lisa2@gmail.com to inquire.\n\nThat’s not a baby whale anymore. She’s a middle schooler."
-  },
-  {
-    "objectID": "pieces/spirit_bird.html",
-    "href": "pieces/spirit_bird.html",
-    "title": "Spirit Bird",
-    "section": "",
-    "text": "An early little sculpture."
-  },
-  {
-    "objectID": "pieces/mina_and_the_leaf.html",
-    "href": "pieces/mina_and_the_leaf.html",
-    "title": "Mina and the Leaf",
-    "section": "",
-    "text": "I’m real proud of this one. Gives just the Emily Dickenson staring into the sky vibes. Based off an actual photo - the leaf was (and is) that big."
-  },
-  {
-    "objectID": "pieces/stars_cup.html",
-    "href": "pieces/stars_cup.html",
-    "title": "Stars Cup",
-    "section": "",
-    "text": "Gasp. This one gives me the feels. I should make more in this theme."
-  },
-  {
-    "objectID": "pieces/hammered_mug_2.html",
-    "href": "pieces/hammered_mug_2.html",
-    "title": "Hammered Mug the Second",
-    "section": "",
-    "text": "Honestly, the first hammered mug was way better. I was experimenting with thinner slabs to make the mugs lighter, but I’ve learned that means they warp more easily."
-  },
-  {
-    "objectID": "pieces/hammered_mug_1.html",
-    "href": "pieces/hammered_mug_1.html",
-    "title": "Real Good Hammered Mug",
-    "section": "",
-    "text": "It’s not even hammered. I mean…I hit it with a ball tool which I love doing with all my heart."
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Hi! To purchase a piece, send an email to may.lisa2@gmail.com."
-  },
-  {
-    "objectID": "pieces/crow_pearls_mug.html",
-    "href": "pieces/crow_pearls_mug.html",
-    "title": "Just a Crow Wearing Pearls",
-    "section": "",
-    "text": "She just likes to wear pearls."
-  },
-  {
-    "objectID": "pieces/arches_mug.html",
-    "href": "pieces/arches_mug.html",
-    "title": "Arches Mug",
-    "section": "",
-    "text": "Available for Purchase\nPrice: $30\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThis is a truly large mug. [xx] ounces (mL). It’s gonna get you through multiple meetings or a walk around the garden to check on all the plants."
-  },
-  {
-    "objectID": "pieces/tea_cannister.html",
-    "href": "pieces/tea_cannister.html",
-    "title": "Tea Cannister",
-    "section": "",
-    "text": "The bottom is cool because I used a parmesan cheese jar as a form. :) Also this holds Trader Joe’s teabags just like a can of pringles."
-  },
-  {
-    "objectID": "pieces/whale_belly.html",
-    "href": "pieces/whale_belly.html",
-    "title": "Belly Dancer Whale",
-    "section": "",
-    "text": "She’s a beautiful dancer, spinning on her belly."
-  },
-  {
-    "objectID": "pieces/buckwheat_mug.html",
-    "href": "pieces/buckwheat_mug.html",
-    "title": "Buckwheat Mug",
-    "section": "",
-    "text": "Available for Purchase\nPrice: $40\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nListen, don’t tell the rest of the mugs, but right out of the kiln this is one of the best mugs of its cohort.\nIt’s big, it’s strong, it’s a simple mug. It’s not an artist, it might not be interesting with crows or such, but it doesn’t need all that. It’s perfect as it is.\nAlso obsessed with this buckwheat glaze. On a test tile I was all “boring, when would I ever want that? But for this it’s just right. Look at how it breaks over the carving, it’s eeeeiiii so good.”"
-  },
-  {
-    "objectID": "pieces/papaya.html",
-    "href": "pieces/papaya.html",
-    "title": "Papaya",
-    "section": "",
-    "text": "The color blending is just right on the back."
-  },
-  {
-    "objectID": "pieces/tiny_bowls.html",
-    "href": "pieces/tiny_bowls.html",
-    "title": "Tiny Bowls",
-    "section": "",
-    "text": "Tiny bowls just perfect for your altar, or to hold your Ibuprofen."
-  },
-  {
-    "objectID": "pieces/full_body_crow_plate.html",
-    "href": "pieces/full_body_crow_plate.html",
-    "title": "Full Body Crow Plate",
-    "section": "",
-    "text": "Available for Purchase\nPrice: $40\nEmail may.lisa2@gmail.com to inquire.\n \nI love her. Early crow, pearls aren’t even filled in. Obsessed with crows walking."
-  },
-  {
-    "objectID": "pieces/whale_pod.html",
-    "href": "pieces/whale_pod.html",
-    "title": "Pod of Whales",
-    "section": "",
-    "text": "These whale were in my mind for a long time.\n\n\nI used to work in an office space with a super high ceiling, and I had this image of the ocean and the different biological niches. You know, the sunlight zone, the twilight zone… we were the bottom dwellers in this tall tall space and there could be different biological niches above us and we’d just be oblivious to it.\n\n\n\n\n \n\n\n \n\n\n\nIn real life, it can feel like your entire biological niche changes when you change your social circle. Like…changing your job or go through a breakup…like you live in the same town but never see all the people you used to see every day. Or you start a new hobby or make a new friend and that gives you a whole new social world. All of these lives are going on around us and it doesn’t take much to make the world feel totally different.\n\n\n\n\n\n\n\n\n\n\nThe feeling of the different whales relating to one another— they’re playing, they’re dancing, they’re in their bodies and joyful. Movement. A sense of movement and connectedness. What must it feel like to dive like that? To be that powerful of a swimmer?"
-  },
-  {
-    "objectID": "pieces/doors_mug.html",
-    "href": "pieces/doors_mug.html",
-    "title": "Doors Mug",
-    "section": "",
-    "text": "Available for Purchase\nPrice: $50\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThis is a big, bold mug — [xx] ounces (xx mL) — for someone who wants to commit to their coffee.\nThe design is based on medieval cathedral doors. I’ve been thinking about doors lately as points of transition, especially house doors. The transition between what’s internal and private vs. external and public. How we navigate those choices. Doors to different futures, possible choices, other dimensions.\nThis piece marks a turning point for me: it’s where I started treating mugs as tiny canvases, sketching out a composition based on the space. (Why green? Couldn’t tell you.)"
-  },
-  {
-    "objectID": "pieces/singing_whale.html",
-    "href": "pieces/singing_whale.html",
-    "title": "Singing Whale",
-    "section": "",
-    "text": "Sigh. I really loved this whale, but I screwed up the glazing. So we’ll just say that I learned a lot. Maybe someday I’ll try to reglaze and fire."
+    "text": "Available for Purchase Price: $45\nEmail may.lisa2@gmail.com to inquire.\n\nThis summer I watched a juvenile crow beg for food while she was standing on food. The begging went on for days. Man, oh man, it really made me empathize with the parents. And crows do it every year! This a set of four small plates is an ode to parental patience and how hard it is to raise kids. :) They’re little plates - perfect for dunking chicken nuggets in ketchup or holding your rings."
   },
   {
     "objectID": "pieces/holy_whale.html",
@@ -238,11 +77,193 @@
     "text": "Available for Purchase\nPrice: $225\nMale humpbacks sing for hours, spiraling slowly as their voices carry for miles. This sculpture holds that moment — peaceful, embodied, part of the great chorus.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHand sculpted in stoneware for lasting durability, indoors or out. Dimensions: 16” × 8” × 4” (41 × 20 × 10 cm). Two mounting holes allow for easy hanging with nails, screws, or wire.\nStoneware goes through two firings. Here it is after sculpting, before the first fire — and a glimpse of the hollowing process that makes large pieces possible."
   },
   {
-    "objectID": "pieces/crow_babies.html",
-    "href": "pieces/crow_babies.html",
-    "title": "Crow Babies",
+    "objectID": "pieces/singing_whale.html",
+    "href": "pieces/singing_whale.html",
+    "title": "Singing Whale",
     "section": "",
-    "text": "Available for Purchase Price: $45\nEmail may.lisa2@gmail.com to inquire.\n\nThis summer I watched a juvenile crow beg for food while she was standing on food. The begging went on for days. Man, oh man, it really made me empathize with the parents. And crows do it every year! This a set of four small plates is an ode to parental patience and how hard it is to raise kids. :) They’re little plates - perfect for dunking chicken nuggets in ketchup or holding your rings."
+    "text": "Sigh. I really loved this whale, but I screwed up the glazing. So we’ll just say that I learned a lot. Maybe someday I’ll try to reglaze and fire."
+  },
+  {
+    "objectID": "pieces/sketchy_crows.html",
+    "href": "pieces/sketchy_crows.html",
+    "title": "Sketchy Crows",
+    "section": "",
+    "text": "Available for Purchase\nPrice: $50\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThis crow from behind is my favorite. Mysterious. \nThen she turns and makes awkward eye contact. Whut? \nThis is the least successful carving although the one I love the most from the reference sketch. I can’t get that head tilt right yet! \nThis mug marks a turning point based on a fluid sketch, less like a plan with very clear clean outlines, less like a cartoon, less controlled. I like stuff that has a weird messy energy.\nCarving clay feels amazing. Sometimes I crave it (not making that up). I loved the chaos of carving those horizontal stripes. Chaos gremlin release!\nProcess notes\nThis is the reference sketch I made to work from. \nAnd here’s an example of the reference pictures I’m taking of MY CROWS lately because they trust me and come when I whistle and come very close to me. Squeeeeeeeeeeee."
+  },
+  {
+    "objectID": "pieces/doors_mug.html",
+    "href": "pieces/doors_mug.html",
+    "title": "Doors Mug",
+    "section": "",
+    "text": "Available for Purchase\nPrice: $50\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThis is a big, bold mug — [xx] ounces (xx mL) — for someone who wants to commit to their coffee.\nThe design is based on medieval cathedral doors. I’ve been thinking about doors lately as points of transition, especially house doors. The transition between what’s internal and private vs. external and public. How we navigate those choices. Doors to different futures, possible choices, other dimensions.\nThis piece marks a turning point for me: it’s where I started treating mugs as tiny canvases, sketching out a composition based on the space."
+  },
+  {
+    "objectID": "pieces/whale_pod.html",
+    "href": "pieces/whale_pod.html",
+    "title": "Pod of Whales",
+    "section": "",
+    "text": "These whale were in my mind for a long time.\n\n\nI used to work in an office space with a super high ceiling, and I had this image of the ocean and the different biological niches. You know, the sunlight zone, the twilight zone… we were the bottom dwellers in this tall tall space and there could be different biological niches above us and we’d just be oblivious to it.\n\n\n\n\n \n\n\n \n\n\n\nIn real life, it can feel like your entire biological niche changes when you change your social circle. Like…changing your job or go through a breakup…like you live in the same town but never see all the people you used to see every day. Or you start a new hobby or make a new friend and that gives you a whole new social world. All of these lives are going on around us and it doesn’t take much to make the world feel totally different.\n\n\n\n\n\n\n\n\n\n\nThe feeling of the different whales relating to one another— they’re playing, they’re dancing, they’re in their bodies and joyful. Movement. A sense of movement and connectedness. What must it feel like to dive like that? To be that powerful of a swimmer?"
+  },
+  {
+    "objectID": "pieces/full_body_crow_plate.html",
+    "href": "pieces/full_body_crow_plate.html",
+    "title": "Full Body Crow Plate",
+    "section": "",
+    "text": "Available for Purchase\nPrice: $40\nEmail may.lisa2@gmail.com to inquire.\n \nI love her. Early crow, pearls aren’t even filled in. Obsessed with crows walking."
+  },
+  {
+    "objectID": "pieces/tiny_bowls.html",
+    "href": "pieces/tiny_bowls.html",
+    "title": "Tiny Bowls",
+    "section": "",
+    "text": "Tiny bowls just perfect for your altar, or to hold your Ibuprofen."
+  },
+  {
+    "objectID": "pieces/papaya.html",
+    "href": "pieces/papaya.html",
+    "title": "Papaya",
+    "section": "",
+    "text": "The color blending is just right on the back."
+  },
+  {
+    "objectID": "pieces/buckwheat_mug.html",
+    "href": "pieces/buckwheat_mug.html",
+    "title": "Buckwheat Mug",
+    "section": "",
+    "text": "Available for Purchase\nPrice: $40\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nListen, don’t tell the rest of the mugs, but right out of the kiln this is one of the best mugs of its cohort.\nIt’s big, it’s strong, it’s a simple mug. It’s not an artist, it might not be interesting with crows or such, but it doesn’t need all that. It’s perfect as it is.\nAlso obsessed with this buckwheat glaze. On a test tile I was all “boring, when would I ever want that?”\nBut for this it’s just right. Look at how it breaks over the carving, it’s eeeeiiii so good."
+  },
+  {
+    "objectID": "pieces/whale_belly.html",
+    "href": "pieces/whale_belly.html",
+    "title": "Belly Dancer Whale",
+    "section": "",
+    "text": "She’s a beautiful dancer, spinning on her belly."
+  },
+  {
+    "objectID": "pieces/tea_cannister.html",
+    "href": "pieces/tea_cannister.html",
+    "title": "Tea Cannister",
+    "section": "",
+    "text": "The bottom is cool because I used a parmesan cheese jar as a form. :) Also this holds Trader Joe’s teabags just like a can of pringles."
+  },
+  {
+    "objectID": "pieces/arches_mug.html",
+    "href": "pieces/arches_mug.html",
+    "title": "Arches Mug",
+    "section": "",
+    "text": "Available for Purchase\nPrice: $30\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThis is a truly large mug. [xx] ounces (mL). It’s gonna get you through multiple meetings or a walk around the garden to check on all the plants."
+  },
+  {
+    "objectID": "pieces/crow_pearls_mug.html",
+    "href": "pieces/crow_pearls_mug.html",
+    "title": "Just a Crow Wearing Pearls",
+    "section": "",
+    "text": "She just likes to wear pearls."
+  },
+  {
+    "objectID": "available.html",
+    "href": "available.html",
+    "title": "Available for Purchase",
+    "section": "",
+    "text": "Holy Whale\n\n\n\n\n\n\n\n\n\n\n\n\nWolverine & Chloe Mug\n\n\n\n\n\n\n\n\n\n\n\n\nDoors Mug\n\n\n\n\n\n\n\n\n\n\n\n\nGolden Green Mug\n\n\n\n\n\n\n\n\n\n\n\n\nArches Mug\n\n\n\n\n\n\n\n\n\n\n\n\nBuckwheat Mug\n\n\n\n\n\n\n\n\n\n\n\n\nSketchy Crows\n\n\n\n\n\n\n\n\n\n\n\n\nBeautiful Tail Whale\n\n\n\n\n\n\n\n\n\n\n\n\nMamma and tween whale\n\n\n\n\n\n\n\n\n\n\n\n\nFull Body Crow Plate\n\n\n\n\n\n\n\n\n\n\n\n\nCrow Babies\n\n\n\n\n\n\n\n\n\n\n\n\nWho Me?\n\n\n\n\n\n\n\n\n\n\n\n\nCrow Plate\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Hi! To purchase a piece, send an email to may.lisa2@gmail.com."
+  },
+  {
+    "objectID": "pieces/hammered_mug_1.html",
+    "href": "pieces/hammered_mug_1.html",
+    "title": "Real Good Hammered Mug",
+    "section": "",
+    "text": "It’s not even hammered. I mean…I hit it with a ball tool which I love doing with all my heart."
+  },
+  {
+    "objectID": "pieces/hammered_mug_2.html",
+    "href": "pieces/hammered_mug_2.html",
+    "title": "Hammered Mug the Second",
+    "section": "",
+    "text": "Honestly, the first hammered mug was way better. I was experimenting with thinner slabs to make the mugs lighter, but I’ve learned that means they warp more easily."
+  },
+  {
+    "objectID": "pieces/stars_cup.html",
+    "href": "pieces/stars_cup.html",
+    "title": "Stars Cup",
+    "section": "",
+    "text": "Gasp. This one gives me the feels. I should make more in this theme."
+  },
+  {
+    "objectID": "pieces/mina_and_the_leaf.html",
+    "href": "pieces/mina_and_the_leaf.html",
+    "title": "Mina and the Leaf",
+    "section": "",
+    "text": "I’m real proud of this one. Gives just the Emily Dickenson staring into the sky vibes. Based off an actual photo - the leaf was (and is) that big."
+  },
+  {
+    "objectID": "pieces/spirit_bird.html",
+    "href": "pieces/spirit_bird.html",
+    "title": "Spirit Bird",
+    "section": "",
+    "text": "An early little sculpture."
+  },
+  {
+    "objectID": "pieces/whale_momma.html",
+    "href": "pieces/whale_momma.html",
+    "title": "Mamma and tween whale",
+    "section": "",
+    "text": "Available for Purchase\nPrice: $75\nEmail may.lisa2@gmail.com to inquire.\n\nThat’s not a baby whale anymore. She’s a middle schooler."
+  },
+  {
+    "objectID": "pieces/incense_burner.html",
+    "href": "pieces/incense_burner.html",
+    "title": "Incense Burner",
+    "section": "",
+    "text": "I’m proud of this one. It’s really beautiful."
+  },
+  {
+    "objectID": "pieces/crow_walking_mug_striped.html",
+    "href": "pieces/crow_walking_mug_striped.html",
+    "title": "Wolverine & Chloe Mug",
+    "section": "",
+    "text": "Available for Purchase\nPrice: $50\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nObsessed with crows walking.\nThis crow is:\n\n\n\n\n\n\n\n\n\n\nwhile this one is:\n\n\n\n\n\n\n\n\n\n\nProcess notes\nI love the carving process. This is done on “leather hard” unfired clay.\nBefore carving:  After carving: \nImage credits: (Wolverine via The Guardian; Side-eyeing Chloe)"
+  },
+  {
+    "objectID": "pieces/who_me.html",
+    "href": "pieces/who_me.html",
+    "title": "Who Me?",
+    "section": "",
+    "text": "Available for Purchase\nPrice: $25\nEmail may.lisa2@gmail.com to inquire.\n\nWho me? Wink, wink, innocent face."
+  },
+  {
+    "objectID": "pieces/crow_goddess_mug.html",
+    "href": "pieces/crow_goddess_mug.html",
+    "title": "Crow Goddess Mug",
+    "section": "",
+    "text": "The OG (Original Goddess)"
+  },
+  {
+    "objectID": "pieces/crow_feet.html",
+    "href": "pieces/crow_feet.html",
+    "title": "Crow Feet are Dragon Feet",
+    "section": "",
+    "text": "Obsessed with bird feet. Also crows walking."
+  },
+  {
+    "objectID": "pieces/crow_plate_2.html",
+    "href": "pieces/crow_plate_2.html",
+    "title": "Crow Plate",
+    "section": "",
+    "text": "Available for Purchase\nPrice: $25\nEmail may.lisa2@gmail.com to inquire."
+  },
+  {
+    "objectID": "pieces/whale_1.html",
+    "href": "pieces/whale_1.html",
+    "title": "Beautiful Tail Whale",
+    "section": "",
+    "text": "Available for Purchase\nPrice: $75\nEmail may.lisa2@gmail.com to inquire.  \nLook at that tail. That’s a beautiful tail."
   },
   {
     "objectID": "about.html",
