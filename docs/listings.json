@@ -2,6 +2,10 @@
   {
     "listing": "/index.html",
     "items": [
+      "/pieces/arches_mug.html",
+      "/pieces/buckwheat_mug.html",
+      "/pieces/crow_walking_mug_striped.html",
+      "/pieces/doors_mug.html",
       "/pieces/holy_whale.html",
       "/pieces/whale_pod.html",
       "/pieces/mina_and_the_leaf.html",
@@ -30,6 +34,10 @@
   {
     "listing": "/mugs.html",
     "items": [
+      "/pieces/arches_mug.html",
+      "/pieces/buckwheat_mug.html",
+      "/pieces/crow_walking_mug_striped.html",
+      "/pieces/doors_mug.html",
       "/pieces/crow_goddess_mug.html",
       "/pieces/crow_pearls_mug.html",
       "/pieces/crow_feet.html",

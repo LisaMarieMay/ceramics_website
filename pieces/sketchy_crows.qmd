@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Sketchy Crows"
-image: "../images/sketchy_crow_3.jpg" 
+image: "../images/sketchy-crow-3.jpg" 
 categories: [sgraffito, crows, mugs, work in progress] 
 date: 2025-12-23
 ---
@@ -11,13 +11,13 @@ Okay, so this is important to me because it's more fluid, more like a sketch, mo
 Carving clay feels amazing. Sometimes I _crave_ it (not making that up). I loved the chaos of carving those horizontal stripes. Chaos gremlin release!
 
 This crow from behind is my favorite. Mysterious. 
-![](../images/sketchy_crow_3.jpg)
+![](../images/sketchy-crow-3.jpg)
 
 Then she turns and make awkward eye contact. Whut?
-![](../images/sketchy_crow_1.jpg)
+![](../images/sketchy-crow-1.jpg)
 
 This is the least successful carving although the one I love the most from the reference sketch. I can't get that head tilt right yet! 
-![](../images/sketchy_crow_2.jpg)
+![](../images/sketchy-crow-2.jpg)
 
 This is the reference sketch I made to work from.
 ![](../images/sketchy_crow_reference.jpg)

@@ -1,10 +1,10 @@
 ---
 draft: true
 title: "Crow Walking Mug"
-image: "../images/crow_walking_mug.jpg" 
+image: "../images/crow-walking-stripes-1.jpg" 
 categories: [sgraffito, crows, mugs, work in progress] 
 date: 2025-12-14
 ---
 
-![](../images/crow_walking_mug.jpg)
+![](../images/crow-walking-stripes-1.jpg)
 Crows walking are hilarious. 
