@@ -41,9 +41,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../site_libs/bootstrap/bootstrap-3b7f4aff7acac744aa1d596ce5db2ede.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
-<script src="../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
-<link href="../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
-<link href="../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -71,6 +68,7 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<meta name="quarto:status" content="draft">
 
 
 <link rel="stylesheet" href="../styles.css">
@@ -79,7 +77,7 @@ ul.task-list li input[type="checkbox"] {
 <body class="nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top">
+  <header id="quarto-header" class="headroom fixed-top"><div id="quarto-draft-alert" class="alert alert-warning"><i class="bi bi-pencil-square"></i>Draft</div>
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
@@ -100,6 +98,10 @@ ul.task-list li input[type="checkbox"] {
   <li class="nav-item">
     <a class="nav-link" href="../index.html"> 
 <span class="menu-text">Gallery</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../mugs.html"> 
+<span class="menu-text">Mugs</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="../contact.html"> 
@@ -132,7 +134,7 @@ ul.task-list li input[type="checkbox"] {
   <div class="quarto-categories">
     <div class="quarto-category">sgraffito</div>
     <div class="quarto-category">mugs</div>
-    <div class="quarto-category">available for purchase</div>
+    <div class="quarto-category">work in progress</div>
   </div>
   </div>
 
@@ -156,27 +158,8 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Available for Purchase<br>
-Price: $50</p>
-<p><a href="../images/stars-mug-1.jpg" class="lightbox" data-gallery="stars-mug"><img src="../images/stars-mug-1.jpg" class="img-fluid" alt="Stars and mountains mug, front view"></a></p>
-<div class="quarto-layout-panel" data-layout-ncol="3">
-<div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
-<p><a href="../images/stars-mug-2.jpg" class="lightbox" data-gallery="stars-mug"><img src="../images/stars-mug-2.jpg" class="img-fluid" alt="Stars and mountains mug, side view"></a></p>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
-<p><a href="../images/stars-mug-3.jpg" class="lightbox" data-gallery="stars-mug"><img src="../images/stars-mug-3.jpg" class="img-fluid" alt="Stars and mountains mug, detail view"></a></p>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
-<p><a href="../images/stars-mug-4.jpg" class="lightbox" data-gallery="stars-mug"><img src="../images/stars-mug-4.jpg" class="img-fluid" alt="Stars and mountains mug, handle view"></a></p>
-</div>
-</div>
-</div>
-<p>Inspired by looking at a picture of <a href="stars_cup.html">this stars cup</a>, I made this! For these, I always need the mountains/land/horizon to be waaaayyy down on the mug, because I’m chasing that feeling of laying in a field as a kid in the plains of Montana, with the sky a bowl above me. BIG SKY.</p>
-<p>This mug will do you right. She’s good to hold, she’s a good size, good vibes.</p>
-<p>Durable stoneware, dishwasher and microwave safe.</p>
-<p><strong>Process Pic</strong></p>
-<p><a href="../images/stars_mug_wip.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-5"><img src="../images/stars_mug_wip.jpg" class="img-fluid" alt="Stars and mountains mug, work in progress"></a></p>
+<p><img src="../images/stars_mug_wip.jpg" class="img-fluid"></p>
+<p>Inspired by looking at a picture of <a href="stars_cup.html">this stars cup</a>, I made this!</p>
 
 
 
@@ -594,38 +577,6 @@ Price: $50</p>
     </div>
   </div>
 </footer>
-<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
-(function() {
-  let previousOnload = window.onload;
-  window.onload = () => {
-    if (previousOnload) {
-      previousOnload();
-    }
-    lightboxQuarto.on('slide_before_load', (data) => {
-      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
-      const href = trigger.getAttribute('href');
-      if (href !== null) {
-        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
-        if (imgEl !== null) {
-          const srcAttr = imgEl.getAttribute("src");
-          if (srcAttr && srcAttr.startsWith("data:")) {
-            slideConfig.href = srcAttr;
-          }
-        }
-      } 
-    });
-  
-    lightboxQuarto.on('slide_after_load', (data) => {
-      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
-      if (window.Quarto?.typesetMath) {
-        window.Quarto.typesetMath(slideNode);
-      }
-    });
-  
-  };
-  
-})();
-          </script>
 
 
 

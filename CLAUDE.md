@@ -17,6 +17,9 @@ Quarto-based portfolio site for handmade ceramics.
 - For 4 total images: use `layout-ncol=3` (1 hero + 3 in one row)
 - For 5+ images: use `layout-ncol=2` (1 hero + 2x2 grid)
 - Reference/meme images: save locally, display side-by-side with `layout-ncol=2`, add credit line at bottom in italics
+- Mugs include: "Durable stoneware, dishwasher and microwave safe." before Process notes
+- Cropped detail images for callouts go outside lightbox group (no `group=` attribute)
+- Links between piece pages use `.html` extension (e.g., `[sketchy crows](sketchy_crows.html)`)
 
 ## Image metadata
 - All images have copyright: "© Lisa May"

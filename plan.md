@@ -16,5 +16,8 @@
   - [x] doors_mug
   - [x] crow_walking_mug_striped (Wolverine & Chloe)
   - [x] golden_green_mug
+  - [x] sketchy_crows
+  - [x] mark_making_mug
+  - [x] stars_mug
 - [ ] Add mailing list
 - [ ] Figure out better way to order pieces (currently using fake dates for manual ordering)
