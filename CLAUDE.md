@@ -13,6 +13,10 @@ Quarto-based portfolio site for handmade ceramics.
 - For sale items include "Available for Purchase" and "Price: $X" at top of content (two trailing spaces after "Purchase" for line break)
 - Alt text uses `fig-alt` attribute (not bracket syntax) to avoid visible captions
 - Lightbox galleries use `group="name"` attribute for navigation between images
+- Piece page pattern: hero image at top, then `layout-ncol=2` or `layout-ncol=3` grid for additional views
+- For 4 total images: use `layout-ncol=3` (1 hero + 3 in one row)
+- For 5+ images: use `layout-ncol=2` (1 hero + 2x2 grid)
+- Reference/meme images: save locally, display side-by-side with `layout-ncol=2`, add credit line at bottom in italics
 
 ## Image metadata
 - All images have copyright: "© Lisa May"

@@ -1,10 +1,48 @@
 ---
-draft: true
-title: "Crow Walking Mug Stripey Style"
-image: "../images/crow_walking_mug_stripes.jpg" 
-categories: [sgraffito, crows, mugs, work in progress] 
-date: 2025-12-19
+title: "Wolverine & Chloe Mug"
+image: "../images/crow-walking-stripes-1.jpg"
+categories: [sgraffito, crows, mugs, available for purchase]
+date: 2026-02-01
+lightbox: true
 ---
 
-![](../images/crow_walking_mug_stripes.jpg)
-Crows walking are hilarious. 
+Available for Purchase  
+Price: $50
+
+![](../images/crow-walking-stripes-1.jpg){group="crow-stripes" fig-alt="Crow walking mug stripey style, front view"}
+
+::: {layout-ncol=2}
+![](../images/crow-walking-stripes-2.jpg){group="crow-stripes" fig-alt="Crow walking mug stripey style, side view"}
+
+![](../images/crow-walking-stripes-3.jpg){group="crow-stripes" fig-alt="Crow walking mug stripey style, detail view"}
+
+![](../images/crow-walking-stripes-4.jpg){group="crow-stripes" fig-alt="Crow walking mug stripey style, handle view"}
+
+![](../images/crow-walking-stripes-5.jpg){group="crow-stripes" fig-alt="Crow walking mug stripey style, alternate view"}
+:::
+Obsessed with crows walking.
+
+This crow is:
+
+::: {layout-ncol=2}
+![](../images/crow-walking-stripes-1_cropped.jpg){width=100% fig-alt="Crow walking mug showing walking pose"}
+
+![](../images/slow-walk.avif){width=100% fig-alt="Cool guys don't look at explosions"}
+:::
+
+while this one is:
+
+::: {layout-ncol=2}
+![](../images/crow-walking-stripes-2-cropped.jpg){width=100% fig-alt="Crow walking mug showing side-eye pose"}
+
+![](../images/side_eyeing_chloe.jpg){width=100% fig-alt="Side-eyeing Chloe meme"}
+:::
+
+**Process notes**  
+I love the carving process. This is done on "leather hard" unfired clay.  
+Before carving:
+ ![](../images/crow-walking-stripes-process-1.jpg){fig-alt="Crow walking mug stripey style, process photo"}
+ After carving: 
+![](../images/crow-walking-stripes-process-2.jpg){fig-alt="Crow walking mug stripey style, process photo"}
+
+*Image credits: (Wolverine via [The Guardian](https://www.theguardian.com/film/filmblog/2010/aug/05/clip-joint-slow-walk); [Side-eyeing Chloe](https://en.wikipedia.org/wiki/Side_Eyeing_Chloe))*
