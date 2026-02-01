@@ -21,3 +21,4 @@
   - [x] stars_mug
 - [ ] Add mailing list
 - [ ] Figure out better way to order pieces (currently using fake dates for manual ordering)
+- [ ] Add volumes (oz/mL) to all mug listings
