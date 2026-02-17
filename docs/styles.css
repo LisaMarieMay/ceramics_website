@@ -86,6 +86,7 @@ html, body {
 .quarto-grid-item img[src*="arches-mug-1"],
 .quarto-grid-item img[src*="buckwheat-mug-1"],
 .quarto-grid-item img[src*="doors-mug-1"],
-.quarto-grid-item img[src*="mark-making-mug-1"] {
+.quarto-grid-item img[src*="mark-making-mug-1"],
+.quarto-grid-item img[src*="crow_goddess_hero"] {
   object-position: center top;
 }
