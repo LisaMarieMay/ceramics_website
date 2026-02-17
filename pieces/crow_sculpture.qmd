@@ -5,6 +5,7 @@ image: "../images/crow_goddess_hero.jpg"
 image-position: top
 categories: [sculpture, crows]
 date: 2026-02-17
+lightbox: true
 ---
 
 *(that sometimes get better)*

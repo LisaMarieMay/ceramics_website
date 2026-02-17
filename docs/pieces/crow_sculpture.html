@@ -44,6 +44,9 @@ ul.task-list li input[type="checkbox"] {
 <link href="../site_libs/bootstrap/bootstrap-26827f95213357c060b998e0666f8ebe.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script src="../site_libs/quarto-contrib/videojs/video.min.js"></script>
 <link href="../site_libs/quarto-contrib/videojs/video-js.css" rel="stylesheet">
+<script src="../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -100,10 +103,6 @@ ul.task-list li input[type="checkbox"] {
   <li class="nav-item">
     <a class="nav-link" href="../index.html"> 
 <span class="menu-text">Gallery</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../mugs.html"> 
-<span class="menu-text">Mugs</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="../contact.html"> 
@@ -166,28 +165,28 @@ ul.task-list li input[type="checkbox"] {
 
 
 <p><em>(that sometimes get better)</em></p>
-<p><img src="../images/crow_goddess_hero.jpg" class="img-fluid" data-group="goddess" alt="Crow goddess sculpture, 3/4 view showing turquoise wing and orange accents"></p>
+<p><a href="../images/crow_goddess_hero.jpg" class="lightbox" data-gallery="goddess"><img src="../images/crow_goddess_hero.jpg" class="img-fluid" alt="Crow goddess sculpture, 3/4 view showing turquoise wing and orange accents"></a></p>
 <div class="quarto-layout-panel" data-layout-ncol="3">
 <div class="quarto-layout-row">
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
-<p><img src="../images/crow_goddess_profile.jpg" class="img-fluid" data-group="goddess" alt="Crow goddess sculpture profile view with dramatic shadow"></p>
+<p><a href="../images/crow_goddess_profile.jpg" class="lightbox" data-gallery="goddess"><img src="../images/crow_goddess_profile.jpg" class="img-fluid" alt="Crow goddess sculpture profile view with dramatic shadow"></a></p>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
-<p><img src="../images/crow_goddess_halo.jpg" class="img-fluid" data-group="goddess" alt="Close-up of crow goddess head showing orange sunburst halo with turquoise orbs"></p>
+<p><a href="../images/crow_goddess_halo.jpg" class="lightbox" data-gallery="goddess"><img src="../images/crow_goddess_halo.jpg" class="img-fluid" alt="Close-up of crow goddess head showing orange sunburst halo with turquoise orbs"></a></p>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
-<p><img src="../images/crow_goddess_front.jpg" class="img-fluid" data-group="goddess" alt="Front view of crow goddess holding a phone, showing turquoise wings"></p>
+<p><a href="../images/crow_goddess_front.jpg" class="lightbox" data-gallery="goddess"><img src="../images/crow_goddess_front.jpg" class="img-fluid" alt="Front view of crow goddess holding a phone, showing turquoise wings"></a></p>
 </div>
 </div>
 <div class="quarto-layout-row">
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
-<p><img src="../images/crow_goddess_feet.jpg" class="img-fluid" data-group="goddess" alt="Close-up of crow feet with orange and turquoise details, holding small treasures"></p>
+<p><a href="../images/crow_goddess_feet.jpg" class="lightbox" data-gallery="goddess"><img src="../images/crow_goddess_feet.jpg" class="img-fluid" alt="Close-up of crow feet with orange and turquoise details, holding small treasures"></a></p>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
-<p><img src="../images/crow_goddess_angle.jpg" class="img-fluid" data-group="goddess" alt="Crow goddess sculpture from below, looking up at the halo"></p>
+<p><a href="../images/crow_goddess_angle.jpg" class="lightbox" data-gallery="goddess"><img src="../images/crow_goddess_angle.jpg" class="img-fluid" alt="Crow goddess sculpture from below, looking up at the halo"></a></p>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
-<p><img src="../images/crow_goddess_context.jpg" class="img-fluid" data-group="goddess" alt="Full view of crow goddess sculpture on table, showing scale and setting"></p>
+<p><a href="../images/crow_goddess_context.jpg" class="lightbox" data-gallery="goddess"><img src="../images/crow_goddess_context.jpg" class="img-fluid" alt="Full view of crow goddess sculpture on table, showing scale and setting"></a></p>
 </div>
 </div>
 </div>
@@ -614,6 +613,38 @@ ul.task-list li input[type="checkbox"] {
   </div>
 </footer>
 <script>videojs(video_shortcode_videojs_video1);</script>
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 
