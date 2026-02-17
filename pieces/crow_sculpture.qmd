@@ -1,11 +1,30 @@
 ---
-draft: true
-title: "Crow Sculpture"
-image: "../images/crow_goddess_1.jpg" 
-categories: [sculpture, crows, work in progress] 
-date: 2025-12-24
+draft: false
+title: "The Goddess of Broken Things"
+image: "../images/crow_goddess_hero.jpg"
+image-position: top
+categories: [sculpture, crows]
+date: 2026-02-17
 ---
 
-![](../images/crow_goddess_1.jpg)
+*(that sometimes get better)*
 
-The biggest thing I've ever made. In clay, I mean. 
+![](../images/crow_goddess_hero.jpg){group="goddess" fig-alt="Crow goddess sculpture, 3/4 view showing turquoise wing and orange accents"}
+
+::: {layout-ncol=3}
+![](../images/crow_goddess_profile.jpg){group="goddess" fig-alt="Crow goddess sculpture profile view with dramatic shadow"}
+
+![](../images/crow_goddess_halo.jpg){group="goddess" fig-alt="Close-up of crow goddess head showing orange sunburst halo with turquoise orbs"}
+
+![](../images/crow_goddess_front.jpg){group="goddess" fig-alt="Front view of crow goddess holding a phone, showing turquoise wings"}
+
+![](../images/crow_goddess_feet.jpg){group="goddess" fig-alt="Close-up of crow feet with orange and turquoise details, holding small treasures"}
+
+![](../images/crow_goddess_angle.jpg){group="goddess" fig-alt="Crow goddess sculpture from below, looking up at the halo"}
+
+![](../images/crow_goddess_context.jpg){group="goddess" fig-alt="Full view of crow goddess sculpture on table, showing scale and setting"}
+:::
+
+## Process
+
+{{< video ../images/crow_goddess_progress.mp4 >}}
