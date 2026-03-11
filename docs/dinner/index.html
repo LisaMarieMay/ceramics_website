@@ -82,6 +82,8 @@ input:focus { border-color: #c7c2ba; }
 </div>
 
 <script>
+// --- DATA ---
+// Replace PEOPLE with real data the night of the event.
 const PEOPLE = [
   { name: "Alex Martinez", celebration: "Got promoted to senior engineer", table: 1 },
   { name: "Jordan Kim", celebration: "Finished writing a short novel", table: 1 },
@@ -116,7 +118,8 @@ const PEOPLE = [
 const TBL = { 1:"One", 2:"Two", 3:"Three", 4:"Four", 5:"Five", 6:"Six", 7:"Seven" };
 
 function hash(s) { let v=0; for(let i=0;i<s.length;i++) v=((v<<5)-v+s.charCodeAt(i))|0; return v; }
-const BOARD = [...PEOPLE].sort((a,b) => hash(a.celebration)-hash(b.celebration));
+
+buildBoard();
 
 // --- Tab switching ---
 function showTab(t) {
@@ -180,9 +183,10 @@ function showSeat(name) {
 }
 
 // --- Board ---
-(function buildBoard() {
+function buildBoard() {
+  const board = [...PEOPLE].sort((a,b) => hash(a.celebration)-hash(b.celebration));
   const el = document.getElementById('board-list');
-  el.innerHTML = BOARD.map((p,i) => `
+  el.innerHTML = board.map((p,i) => `
     <div class="board-card" id="bc${i}"
       ontouchstart="document.getElementById('bc${i}').classList.add('reveal')"
       ontouchend="document.getElementById('bc${i}').classList.remove('reveal')"
@@ -191,7 +195,7 @@ function showSeat(name) {
       <p class="quote">"${p.celebration}"</p>
       <div class="board-meta"><span class="board-who">— ${p.name}</span><span class="board-table">Table ${TBL[p.table]}</span></div>
     </div>`).join('');
-})();
+}
 </script>
 </body>
 </html>
