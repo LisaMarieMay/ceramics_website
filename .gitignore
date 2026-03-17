@@ -1,6 +1,9 @@
 # macOS metadata files
 .DS_Store
 
+# Obsidian
+.obsidian/
+
 # Quarto / Built files
 _site/
 .quarto/

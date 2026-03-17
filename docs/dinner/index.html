@@ -29,23 +29,36 @@ input:focus { border-color: #c7c2ba; }
 .name-btn:hover { background: #f5f5f4; }
 .arrow { font-size: 13px; color: #a8a29e; }
 .divider { width: 40px; height: 1px; background: #d6d3d1; margin: 0 auto; }
-.table-num { font-size: 38px; font-style: italic; margin: 4px 0; }
+.table-name { font-size: 32px; font-style: italic; margin: 4px 0; }
+.table-color-dot { display: inline-block; width: 14px; height: 14px; border-radius: 50%; margin-right: 8px; vertical-align: middle; }
 .quote { font-style: italic; font-size: 15px; line-height: 1.5; }
 .mate-name { font-size: 16px; margin-bottom: 4px; }
-.mate-celeb { font-size: 14px; color: #78716c; font-family: system-ui, sans-serif; line-height: 1.5; }
 .back-btn { background: none; border: 1px solid #d6d3d1; color: #78716c; padding: 10px 28px; border-radius: 10px;
   font-size: 14px; cursor: pointer; font-family: system-ui, sans-serif; margin-top: 32px; }
 .sep { display: flex; align-items: center; gap: 16px; margin: 28px 0 20px; }
 .sep-line { flex: 1; height: 1px; background: #e7e5e4; }
 .sep-text { font-size: 11px; letter-spacing: 2px; text-transform: uppercase; color: #a3a097; font-family: system-ui, sans-serif; }
-.board-card { text-align: left; padding: 16px 20px; border-radius: 14px; border: 1px solid #e7e5e4; background: #fff;
-  box-shadow: 0 1px 3px rgba(0,0,0,0.03); transition: all 0.2s; user-select: none; margin-bottom: 8px; cursor: default; }
-.board-card.reveal { border-color: #d6d3d1; background: #f5f5f4; }
-.board-meta { overflow: hidden; max-height: 0; opacity: 0; transition: all 0.25s ease; display: flex;
+
+/* Table diagram */
+.table-diagram { margin: 24px auto; max-width: 320px; }
+.table-row { display: flex; justify-content: center; gap: 4px; margin-bottom: 2px; }
+.seat { width: 36px; height: 32px; border-radius: 6px; display: flex; align-items: center; justify-content: center;
+  font-size: 10px; font-family: system-ui, sans-serif; font-weight: 500; border: 1px solid #e7e5e4; background: #fff; color: #a8a29e; }
+.seat.you { background: #1c1917; color: #fff; border-color: #1c1917; font-weight: 700; }
+.seat.neighbor { background: #f5f5f4; border-color: #d6d3d1; color: #57534e; }
+.table-surface { border-radius: 8px; height: 10px; margin: 0 18px; border: 1px solid rgba(0,0,0,0.08); }
+.diagram-legend { display: flex; justify-content: center; gap: 16px; margin-top: 12px; font-size: 11px; font-family: system-ui, sans-serif; color: #a8a29e; }
+.legend-dot { display: inline-block; width: 10px; height: 10px; border-radius: 3px; margin-right: 4px; vertical-align: middle; }
+
+/* Celebrations tab */
+.celeb-card { text-align: left; padding: 16px 20px; border-radius: 14px; border: 1px solid #e7e5e4; background: #fff;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.03); transition: all 0.2s; user-select: none; margin-bottom: 8px; cursor: pointer; }
+.celeb-card.reveal { border-color: #d6d3d1; background: #f5f5f4; }
+.celeb-meta { overflow: hidden; max-height: 0; opacity: 0; transition: all 0.25s ease; display: flex;
   align-items: center; justify-content: space-between; }
-.board-card.reveal .board-meta { max-height: 32px; opacity: 1; margin-top: 10px; }
-.board-who { font-size: 14px; color: #57534e; font-family: system-ui, sans-serif; font-weight: 500; }
-.board-table { font-size: 12px; color: #a8a29e; font-family: system-ui, sans-serif; }
+.celeb-card.reveal .celeb-meta { max-height: 32px; opacity: 1; margin-top: 10px; }
+.celeb-who { font-size: 14px; color: #57534e; font-family: system-ui, sans-serif; font-weight: 500; }
+.celeb-table { font-size: 12px; color: #a8a29e; font-family: system-ui, sans-serif; }
 .nomatch { color: #a8a29e; font-size: 15px; text-align: center; padding: 20px 0; font-family: system-ui, sans-serif; }
 .hidden { display: none; }
 </style>
@@ -54,7 +67,7 @@ input:focus { border-color: #c7c2ba; }
 
 <div class="tabs">
   <button class="tab active" onclick="showTab('seat')">Find Your Seat</button>
-  <button class="tab" onclick="showTab('board')">The Board</button>
+  <button class="tab" onclick="showTab('celebrations')">Celebrations</button>
 </div>
 
 <div id="seat-screen" class="screen">
@@ -73,59 +86,73 @@ input:focus { border-color: #c7c2ba; }
   <div id="reveal-view" class="hidden"></div>
 </div>
 
-<div id="board-screen" class="screen hidden">
+<div id="celebrations-screen" class="screen hidden">
   <div class="center" style="margin-bottom:28px">
-    <h1>The Board</h1>
-    <p class="sub">Tap a celebration to reveal who said it</p>
+    <h1>Celebrations</h1>
+    <p class="sub">Tap to see who said it</p>
   </div>
-  <div class="wrap" style="max-width:480px" id="board-list"></div>
+  <div class="wrap" style="max-width:480px" id="celeb-list"></div>
 </div>
 
 <script>
 // --- DATA ---
-// Replace PEOPLE with real data the night of the event.
+// Replace PEOPLE with real data before the event.
+// Each person needs: name, celebration, table (color key), seat (position 1-N along table)
+// Seats are numbered left-to-right. Odd seats = near side, even seats = far side (across from each other).
+// So seat 1 faces seat 2, seat 3 faces seat 4, etc.
 const PEOPLE = [
-  { name: "Alex Martinez", celebration: "Got promoted to senior engineer", table: 1 },
-  { name: "Jordan Kim", celebration: "Finished writing a short novel", table: 1 },
-  { name: "Sam Reeves", celebration: "Adopted a rescue dog named Biscuit", table: 1 },
-  { name: "Taylor Park", celebration: "Ran their first half-marathon", table: 1 },
-  { name: "Morgan Lee", celebration: "Learned to surf this summer", table: 2 },
-  { name: "Casey Delgado", celebration: "Had a baby girl in September", table: 2 },
-  { name: "Jamie Torres", celebration: "Published a peer-reviewed paper", table: 2 },
-  { name: "Riley Sharma", celebration: "Built a little free library for their neighborhood", table: 2 },
-  { name: "Drew Fischer", celebration: "Celebrated 10 years of marriage", table: 3 },
-  { name: "Avery Nguyen", celebration: "Moved into their first house", table: 3 },
-  { name: "Quinn O'Brien", celebration: "Hiked the John Muir Trail end-to-end", table: 3 },
-  { name: "Skyler Watts", celebration: "Started a weekend pottery class", table: 3 },
-  { name: "Reese Tanaka", celebration: "Taught their kid to ride a bike", table: 4 },
-  { name: "Finley Cruz", celebration: "Completed a 30-day meditation streak", table: 4 },
-  { name: "Harper Lane", celebration: "Reconnected with a childhood best friend", table: 4 },
-  { name: "Sage Adler", celebration: "Learned to make fresh pasta from scratch", table: 4 },
-  { name: "Dakota Voss", celebration: "Ran their first open-mic night", table: 5 },
-  { name: "Ellis Dunn", celebration: "Paid off their student loans", table: 5 },
-  { name: "Rowan Cho", celebration: "Grew tomatoes from seed for the first time", table: 5 },
-  { name: "Kendall Pierce", celebration: "Got scuba certified in Mexico", table: 5 },
-  { name: "Lennox Grant", celebration: "Became an uncle for the first time", table: 6 },
-  { name: "Emery Solis", celebration: "Organized a neighborhood cleanup day", table: 6 },
-  { name: "Blair Hensley", celebration: "Completed their first triathlon", table: 6 },
-  { name: "Phoenix Yeo", celebration: "Started learning Korean", table: 6 },
-  { name: "Shiloh Bram", celebration: "Flew a plane for the first time (intro lesson!)", table: 7 },
-  { name: "Arden Kemp", celebration: "Made sourdough that was actually good", table: 7 },
-  { name: "Remy Lawson", celebration: "Visited Japan for the first time", table: 7 },
-  { name: "Oakley Fenn", celebration: "Read 40 books this year", table: 7 },
+  // Coral table (10 people, 5 pairs facing each other)
+  { name: "Alex Martinez", celebration: "Got promoted to senior engineer", table: "coral", seat: 1 },
+  { name: "Jordan Kim", celebration: "Finished writing a short novel", table: "coral", seat: 2 },
+  { name: "Sam Reeves", celebration: "Adopted a rescue dog named Biscuit", table: "coral", seat: 3 },
+  { name: "Taylor Park", celebration: "Ran their first half-marathon", table: "coral", seat: 4 },
+  { name: "Morgan Lee", celebration: "Learned to surf this summer", table: "coral", seat: 5 },
+  { name: "Casey Delgado", celebration: "Had a baby girl in September", table: "coral", seat: 6 },
+  { name: "Jamie Torres", celebration: "Published a peer-reviewed paper", table: "coral", seat: 7 },
+  { name: "Riley Sharma", celebration: "Built a little free library for their neighborhood", table: "coral", seat: 8 },
+  { name: "Drew Fischer", celebration: "Celebrated 10 years of marriage", table: "coral", seat: 9 },
+  { name: "Avery Nguyen", celebration: "Moved into their first house", table: "coral", seat: 10 },
+
+  // Sage table (10 people)
+  { name: "Quinn O'Brien", celebration: "Hiked the John Muir Trail end-to-end", table: "sage", seat: 1 },
+  { name: "Skyler Watts", celebration: "Started a weekend pottery class", table: "sage", seat: 2 },
+  { name: "Reese Tanaka", celebration: "Taught their kid to ride a bike", table: "sage", seat: 3 },
+  { name: "Finley Cruz", celebration: "Completed a 30-day meditation streak", table: "sage", seat: 4 },
+  { name: "Harper Lane", celebration: "Reconnected with a childhood best friend", table: "sage", seat: 5 },
+  { name: "Sage Adler", celebration: "Learned to make fresh pasta from scratch", table: "sage", seat: 6 },
+  { name: "Dakota Voss", celebration: "Ran their first open-mic night", table: "sage", seat: 7 },
+  { name: "Ellis Dunn", celebration: "Paid off their student loans", table: "sage", seat: 8 },
+  { name: "Rowan Cho", celebration: "Grew tomatoes from seed for the first time", table: "sage", seat: 9 },
+  { name: "Kendall Pierce", celebration: "Got scuba certified in Mexico", table: "sage", seat: 10 },
+
+  // Ocean table (10 people)
+  { name: "Lennox Grant", celebration: "Became an uncle for the first time", table: "ocean", seat: 1 },
+  { name: "Emery Solis", celebration: "Organized a neighborhood cleanup day", table: "ocean", seat: 2 },
+  { name: "Blair Hensley", celebration: "Completed their first triathlon", table: "ocean", seat: 3 },
+  { name: "Phoenix Yeo", celebration: "Started learning Korean", table: "ocean", seat: 4 },
+  { name: "Shiloh Bram", celebration: "Flew a plane for the first time (intro lesson!)", table: "ocean", seat: 5 },
+  { name: "Arden Kemp", celebration: "Made sourdough that was actually good", table: "ocean", seat: 6 },
+  { name: "Remy Lawson", celebration: "Visited Japan for the first time", table: "ocean", seat: 7 },
+  { name: "Oakley Fenn", celebration: "Read 40 books this year", table: "ocean", seat: 8 },
+  { name: "Wren Castellano", celebration: "Learned to play ukulele", table: "ocean", seat: 9 },
+  { name: "Lark Ellison", celebration: "Ran a charity 5K with their whole family", table: "ocean", seat: 10 },
 ];
 
-const TBL = { 1:"One", 2:"Two", 3:"Three", 4:"Four", 5:"Five", 6:"Six", 7:"Seven" };
+const TABLES = {
+  coral: { name: "Coral", color: "#e88d7a" },
+  sage:  { name: "Sage",  color: "#8fae8b" },
+  ocean: { name: "Ocean", color: "#7a9fb8" },
+};
 
 function hash(s) { let v=0; for(let i=0;i<s.length;i++) v=((v<<5)-v+s.charCodeAt(i))|0; return v; }
 
-buildBoard();
+buildCelebrations();
 
 // --- Tab switching ---
 function showTab(t) {
-  document.querySelectorAll('.tab').forEach((el,i) => el.classList.toggle('active', (i===0&&t==='seat')||(i===1&&t==='board')));
+  document.querySelectorAll('.tab').forEach((el,i) => el.classList.toggle('active', (i===0&&t==='seat')||(i===1&&t==='celebrations')));
   document.getElementById('seat-screen').classList.toggle('hidden', t!=='seat');
-  document.getElementById('board-screen').classList.toggle('hidden', t!=='board');
+  document.getElementById('celebrations-screen').classList.toggle('hidden', t!=='celebrations');
   if(t==='seat') { document.getElementById('search-view').classList.remove('hidden'); document.getElementById('reveal-view').classList.add('hidden'); document.getElementById('search').value=''; document.getElementById('results').innerHTML=''; }
 }
 
@@ -136,65 +163,142 @@ function doSearch() {
   if(!q) { el.innerHTML=''; return; }
   const hits = PEOPLE.filter(p => p.name.toLowerCase().includes(q));
   if(!hits.length) { el.innerHTML='<p class="nomatch">No match — try your first or last name</p>'; return; }
-  el.innerHTML = hits.map(p => `<button class="name-btn" onclick="showSeat('${p.name.replace(/'/g,"\\'")}')"><span>${p.name}</span><span class="arrow">→</span></button>`).join('');
+  el.innerHTML = hits.map(p => `<button class="name-btn" onclick="showSeat('${p.name.replace(/'/g,"\\'")}')"><span>${p.name}</span><span class="arrow">&rarr;</span></button>`).join('');
+}
+
+// --- Neighbor logic ---
+// Seats: odd = near side, even = far side. Seat 1 faces 2, seat 3 faces 4, etc.
+// "Across" = same pair (seat +1 if odd, seat -1 if even)
+// "Left/Right" = adjacent on same side (seat -2 / seat +2)
+function getNeighbors(person) {
+  const tablemates = PEOPLE.filter(x => x.table === person.table && x.name !== person.name);
+  const s = person.seat;
+  const isNearSide = s % 2 === 1;
+
+  // Person directly across
+  const acrossSeat = isNearSide ? s + 1 : s - 1;
+  const across = tablemates.find(x => x.seat === acrossSeat);
+
+  // People on same side, adjacent
+  const sameSideSeats = isNearSide ? [s - 2, s + 2] : [s - 2, s + 2];
+  const left = tablemates.find(x => x.seat === sameSideSeats[0]);
+  const right = tablemates.find(x => x.seat === sameSideSeats[1]);
+
+  // One diagonal neighbor (across and one over)
+  // If near side: diagonal candidates are across-left (acrossSeat-2) and across-right (acrossSeat+2)
+  // If far side: same logic but from the far side perspective
+  const diagSeats = isNearSide ? [acrossSeat - 2, acrossSeat + 2] : [acrossSeat - 2, acrossSeat + 2];
+  const diagCandidates = diagSeats.map(ds => tablemates.find(x => x.seat === ds)).filter(Boolean);
+  const diagonal = diagCandidates.length ? diagCandidates[Math.floor(Math.random() * diagCandidates.length)] : null;
+
+  return { across, left, right, diagonal };
+}
+
+// --- Table diagram ---
+function buildTableDiagram(person) {
+  const tablemates = PEOPLE.filter(x => x.table === person.table);
+  const maxSeat = Math.max(...tablemates.map(x => x.seat));
+  const pairs = Math.ceil(maxSeat / 2);
+  const neighbors = getNeighbors(person);
+  const neighborNames = [neighbors.across, neighbors.left, neighbors.right, neighbors.diagonal].filter(Boolean).map(x => x.name);
+  const tbl = TABLES[person.table];
+
+  // Near side = odd seats (1,3,5...), Far side = even seats (2,4,6...)
+  let nearRow = '';
+  let farRow = '';
+  for (let pair = 0; pair < pairs; pair++) {
+    const nearSeat = pair * 2 + 1;
+    const farSeat = pair * 2 + 2;
+    const nearPerson = tablemates.find(x => x.seat === nearSeat);
+    const farPerson = tablemates.find(x => x.seat === farSeat);
+
+    const nearClass = nearPerson && nearPerson.name === person.name ? 'seat you'
+      : nearPerson && neighborNames.includes(nearPerson.name) ? 'seat neighbor' : 'seat';
+    const farClass = farPerson && farPerson.name === person.name ? 'seat you'
+      : farPerson && neighborNames.includes(farPerson.name) ? 'seat neighbor' : 'seat';
+
+    const nearLabel = nearPerson ? (nearPerson.name === person.name ? 'You' : nearPerson.name.split(' ')[0]) : '';
+    const farLabel = farPerson ? (farPerson.name === person.name ? 'You' : farPerson.name.split(' ')[0]) : '';
+
+    nearRow += `<div class="${nearClass}" title="${nearPerson ? nearPerson.name : ''}">${nearLabel}</div>`;
+    farRow += `<div class="${farClass}" title="${farPerson ? farPerson.name : ''}">${farLabel}</div>`;
+  }
+
+  return `
+    <div class="table-diagram">
+      <div class="table-row">${nearRow}</div>
+      <div class="table-surface" style="background:${tbl.color};"></div>
+      <div class="table-row">${farRow}</div>
+      <div class="diagram-legend">
+        <span><span class="legend-dot" style="background:#1c1917;"></span>You</span>
+        <span><span class="legend-dot" style="background:#e7e5e4; border:1px solid #d6d3d1;"></span>Neighbor</span>
+      </div>
+    </div>`;
 }
 
 // --- Seat reveal ---
-function getRandomCelebration(person) {
-  // Pick a random celebration from someone NOT at this table
-  const others = PEOPLE.filter(x => x.table !== person.table);
-  const pick = others[Math.floor(Math.random() * others.length)];
-  return pick;
-}
-
 function showSeat(name) {
-  const p = PEOPLE.find(x => x.name===name);
-  const mates = PEOPLE.filter(x => x.table===p.table && x.name!==p.name);
-  const bonus = getRandomCelebration(p);
+  const p = PEOPLE.find(x => x.name === name);
+  const tbl = TABLES[p.table];
+  const neighbors = getNeighbors(p);
+  const diagram = buildTableDiagram(p);
+
   document.getElementById('search-view').classList.add('hidden');
   const rv = document.getElementById('reveal-view');
   rv.classList.remove('hidden');
+
+  // Build neighbor cards
+  const neighborCards = [
+    { person: neighbors.left, label: 'To your left' },
+    { person: neighbors.right, label: 'To your right' },
+    { person: neighbors.across, label: 'Across from you' },
+    { person: neighbors.diagonal, label: 'Diagonal from you' },
+  ].filter(n => n.person).map(n => `
+    <div class="card">
+      <p class="label">${n.label}</p>
+      <p class="mate-name">${n.person.name}</p>
+      <p class="quote">"${n.person.celebration}"</p>
+    </div>`).join('');
+
   rv.innerHTML = `
     <div class="center" style="margin-bottom:28px">
       <p class="label" style="margin-bottom:12px">Welcome</p>
       <h1>${p.name}</h1>
       <div class="divider" style="margin-top:8px"></div>
     </div>
-    <div class="center" style="margin-bottom:28px">
+    <div class="center" style="margin-bottom:8px">
       <p class="label" style="margin-bottom:4px">Your table</p>
-      <p class="table-num">${TBL[p.table]}</p>
+      <p class="table-name"><span class="table-color-dot" style="background:${tbl.color}"></span>${tbl.name}</p>
     </div>
-    <div class="wrap" style="margin-bottom:28px">
+    ${diagram}
+    <div class="wrap" style="margin-bottom:28px; margin-top:28px">
       <div class="card">
         <p class="label">Your celebration</p>
         <p class="quote">"${p.celebration}"</p>
       </div>
     </div>
     <div class="wrap">
-      <div class="sep"><div class="sep-line"></div><span class="sep-text">Joining you</span><div class="sep-line"></div></div>
-      ${mates.map(t => `<div class="card"><p class="mate-name">${t.name}</p><p class="quote">"${t.celebration}"</p></div>`).join('')}
-      <div class="sep" style="margin-top:24px"><div class="sep-line"></div><span class="sep-text">Elsewhere tonight</span><div class="sep-line"></div></div>
-      <div class="card" style="border-style:dashed; background:#fafaf9;">
-        <p class="mate-name">${bonus.name}</p>
-        <p class="quote" style="color:#78716c;">"${bonus.celebration}"</p>
-      </div>
+      <div class="sep"><div class="sep-line"></div><span class="sep-text">Your neighbors</span><div class="sep-line"></div></div>
+      ${neighborCards}
     </div>
-    <div class="center"><button class="back-btn" onclick="showTab('seat')">← Back</button></div>`;
+    <div class="center"><button class="back-btn" onclick="showTab('seat')">&larr; Back</button></div>`;
 }
 
-// --- Board ---
-function buildBoard() {
-  const board = [...PEOPLE].sort((a,b) => hash(a.celebration)-hash(b.celebration));
-  const el = document.getElementById('board-list');
-  el.innerHTML = board.map((p,i) => `
-    <div class="board-card" id="bc${i}"
-      ontouchstart="document.getElementById('bc${i}').classList.add('reveal')"
-      ontouchend="document.getElementById('bc${i}').classList.remove('reveal')"
-      onmouseenter="document.getElementById('bc${i}').classList.add('reveal')"
-      onmouseleave="document.getElementById('bc${i}').classList.remove('reveal')">
+// --- Celebrations ---
+function buildCelebrations() {
+  const list = [...PEOPLE].sort((a,b) => hash(a.celebration) - hash(b.celebration));
+  const el = document.getElementById('celeb-list');
+  el.innerHTML = list.map((p,i) => {
+    const tbl = TABLES[p.table];
+    return `
+    <div class="celeb-card" id="cc${i}" onclick="document.getElementById('cc${i}').classList.toggle('reveal')">
       <p class="quote">"${p.celebration}"</p>
-      <div class="board-meta"><span class="board-who">— ${p.name}</span><span class="board-table">Table ${TBL[p.table]}</span></div>
-    </div>`).join('');
+      <div class="celeb-meta">
+        <span class="celeb-who">&mdash; ${p.name}</span>
+        <span class="celeb-table"><span class="table-color-dot" style="background:${tbl.color}; width:8px; height:8px;"></span>${tbl.name}</span>
+      </div>
+    </div>`;
+  }).join('');
 }
 </script>
 </body>
