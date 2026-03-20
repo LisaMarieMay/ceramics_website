@@ -102,46 +102,46 @@ input:focus { border-color: #c7c2ba; }
 // So seat 1 faces seat 2, seat 3 faces seat 4, etc.
 const PEOPLE = [
   // Coral table (10 people, 5 pairs facing each other)
-  { name: "Alex Martinez", celebration: "Got promoted to senior engineer", table: "coral", seat: 1 },
-  { name: "Jordan Kim", celebration: "Finished writing a short novel", table: "coral", seat: 2 },
-  { name: "Sam Reeves", celebration: "Adopted a rescue dog named Biscuit", table: "coral", seat: 3 },
-  { name: "Taylor Park", celebration: "Ran their first half-marathon", table: "coral", seat: 4 },
-  { name: "Morgan Lee", celebration: "Learned to surf this summer", table: "coral", seat: 5 },
-  { name: "Casey Delgado", celebration: "Had a baby girl in September", table: "coral", seat: 6 },
-  { name: "Jamie Torres", celebration: "Published a peer-reviewed paper", table: "coral", seat: 7 },
-  { name: "Riley Sharma", celebration: "Built a little free library for their neighborhood", table: "coral", seat: 8 },
-  { name: "Drew Fischer", celebration: "Celebrated 10 years of marriage", table: "coral", seat: 9 },
-  { name: "Avery Nguyen", celebration: "Moved into their first house", table: "coral", seat: 10 },
+  { name: "Alex Martinez", celebration: "Got promoted to senior engineer", table: 1, seat: 1 },
+  { name: "Jordan Kim", celebration: "Finished writing a short novel", table: 1, seat: 2 },
+  { name: "Sam Reeves", celebration: "Adopted a rescue dog named Biscuit", table: 1, seat: 3 },
+  { name: "Taylor Park", celebration: "Ran their first half-marathon", table: 1, seat: 4 },
+  { name: "Morgan Lee", celebration: "Learned to surf this summer", table: 1, seat: 5 },
+  { name: "Casey Delgado", celebration: "Had a baby girl in September", table: 1, seat: 6 },
+  { name: "Jamie Torres", celebration: "Published a peer-reviewed paper", table: 1, seat: 7 },
+  { name: "Riley Sharma", celebration: "Built a little free library for their neighborhood", table: 1, seat: 8 },
+  { name: "Drew Fischer", celebration: "Celebrated 10 years of marriage", table: 1, seat: 9 },
+  { name: "Avery Nguyen", celebration: "Moved into their first house", table: 1, seat: 10 },
 
   // Sage table (10 people)
-  { name: "Quinn O'Brien", celebration: "Hiked the John Muir Trail end-to-end", table: "sage", seat: 1 },
-  { name: "Skyler Watts", celebration: "Started a weekend pottery class", table: "sage", seat: 2 },
-  { name: "Reese Tanaka", celebration: "Taught their kid to ride a bike", table: "sage", seat: 3 },
-  { name: "Finley Cruz", celebration: "Completed a 30-day meditation streak", table: "sage", seat: 4 },
-  { name: "Harper Lane", celebration: "Reconnected with a childhood best friend", table: "sage", seat: 5 },
-  { name: "Sage Adler", celebration: "Learned to make fresh pasta from scratch", table: "sage", seat: 6 },
-  { name: "Dakota Voss", celebration: "Ran their first open-mic night", table: "sage", seat: 7 },
-  { name: "Ellis Dunn", celebration: "Paid off their student loans", table: "sage", seat: 8 },
-  { name: "Rowan Cho", celebration: "Grew tomatoes from seed for the first time", table: "sage", seat: 9 },
-  { name: "Kendall Pierce", celebration: "Got scuba certified in Mexico", table: "sage", seat: 10 },
+  { name: "Quinn O'Brien", celebration: "Hiked the John Muir Trail end-to-end", table: 2, seat: 1 },
+  { name: "Skyler Watts", celebration: "Started a weekend pottery class", table: 2, seat: 2 },
+  { name: "Reese Tanaka", celebration: "Taught their kid to ride a bike", table: 2, seat: 3 },
+  { name: "Finley Cruz", celebration: "Completed a 30-day meditation streak", table: 2, seat: 4 },
+  { name: "Harper Lane", celebration: "Reconnected with a childhood best friend", table: 2, seat: 5 },
+  { name: "Sage Adler", celebration: "Learned to make fresh pasta from scratch", table: 2, seat: 6 },
+  { name: "Dakota Voss", celebration: "Ran their first open-mic night", table: 2, seat: 7 },
+  { name: "Ellis Dunn", celebration: "Paid off their student loans", table: 2, seat: 8 },
+  { name: "Rowan Cho", celebration: "Grew tomatoes from seed for the first time", table: 2, seat: 9 },
+  { name: "Kendall Pierce", celebration: "Got scuba certified in Mexico", table: 2, seat: 10 },
 
   // Ocean table (10 people)
-  { name: "Lennox Grant", celebration: "Became an uncle for the first time", table: "ocean", seat: 1 },
-  { name: "Emery Solis", celebration: "Organized a neighborhood cleanup day", table: "ocean", seat: 2 },
-  { name: "Blair Hensley", celebration: "Completed their first triathlon", table: "ocean", seat: 3 },
-  { name: "Phoenix Yeo", celebration: "Started learning Korean", table: "ocean", seat: 4 },
-  { name: "Shiloh Bram", celebration: "Flew a plane for the first time (intro lesson!)", table: "ocean", seat: 5 },
-  { name: "Arden Kemp", celebration: "Made sourdough that was actually good", table: "ocean", seat: 6 },
-  { name: "Remy Lawson", celebration: "Visited Japan for the first time", table: "ocean", seat: 7 },
-  { name: "Oakley Fenn", celebration: "Read 40 books this year", table: "ocean", seat: 8 },
-  { name: "Wren Castellano", celebration: "Learned to play ukulele", table: "ocean", seat: 9 },
-  { name: "Lark Ellison", celebration: "Ran a charity 5K with their whole family", table: "ocean", seat: 10 },
+  { name: "Lennox Grant", celebration: "Became an uncle for the first time", table: 3, seat: 1 },
+  { name: "Emery Solis", celebration: "Organized a neighborhood cleanup day", table: 3, seat: 2 },
+  { name: "Blair Hensley", celebration: "Completed their first triathlon", table: 3, seat: 3 },
+  { name: "Phoenix Yeo", celebration: "Started learning Korean", table: 3, seat: 4 },
+  { name: "Shiloh Bram", celebration: "Flew a plane for the first time (intro lesson!)", table: 3, seat: 5 },
+  { name: "Arden Kemp", celebration: "Made sourdough that was actually good", table: 3, seat: 6 },
+  { name: "Remy Lawson", celebration: "Visited Japan for the first time", table: 3, seat: 7 },
+  { name: "Oakley Fenn", celebration: "Read 40 books this year", table: 3, seat: 8 },
+  { name: "Wren Castellano", celebration: "Learned to play ukulele", table: 3, seat: 9 },
+  { name: "Lark Ellison", celebration: "Ran a charity 5K with their whole family", table: 3, seat: 10 },
 ];
 
 const TABLES = {
-  coral: { name: "Coral", color: "#e88d7a" },
-  sage:  { name: "Sage",  color: "#8fae8b" },
-  ocean: { name: "Ocean", color: "#7a9fb8" },
+  1: { name: "Table 1", color: "#78716c" },
+  2: { name: "Table 2", color: "#78716c" },
+  3: { name: "Table 3", color: "#78716c" },
 };
 
 function hash(s) { let v=0; for(let i=0;i<s.length;i++) v=((v<<5)-v+s.charCodeAt(i))|0; return v; }
@@ -268,7 +268,7 @@ function showSeat(name) {
     </div>
     <div class="center" style="margin-bottom:8px">
       <p class="label" style="margin-bottom:4px">Your table</p>
-      <p class="table-name"><span class="table-color-dot" style="background:${tbl.color}"></span>${tbl.name}</p>
+      <p class="table-name">${tbl.name}</p>
     </div>
     ${diagram}
     <div class="wrap" style="margin-bottom:28px; margin-top:28px">
@@ -295,7 +295,7 @@ function buildCelebrations() {
       <p class="quote">"${p.celebration}"</p>
       <div class="celeb-meta">
         <span class="celeb-who">&mdash; ${p.name}</span>
-        <span class="celeb-table"><span class="table-color-dot" style="background:${tbl.color}; width:8px; height:8px;"></span>${tbl.name}</span>
+        <span class="celeb-table">${tbl.name}</span>
       </div>
     </div>`;
   }).join('');
