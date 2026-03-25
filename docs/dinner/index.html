@@ -101,41 +101,41 @@ input:focus { border-color: #c7c2ba; }
 // Seats are numbered left-to-right. Odd seats = near side, even seats = far side (across from each other).
 // So seat 1 faces seat 2, seat 3 faces seat 4, etc.
 const PEOPLE = [
-  // Coral table (10 people, 5 pairs facing each other)
-  { name: "Alex Martinez", celebration: "Got promoted to senior engineer", table: 1, seat: 1 },
-  { name: "Jordan Kim", celebration: "Finished writing a short novel", table: 1, seat: 2 },
-  { name: "Sam Reeves", celebration: "Adopted a rescue dog named Biscuit", table: 1, seat: 3 },
-  { name: "Taylor Park", celebration: "Ran their first half-marathon", table: 1, seat: 4 },
-  { name: "Morgan Lee", celebration: "Learned to surf this summer", table: 1, seat: 5 },
-  { name: "Casey Delgado", celebration: "Had a baby girl in September", table: 1, seat: 6 },
-  { name: "Jamie Torres", celebration: "Published a peer-reviewed paper", table: 1, seat: 7 },
-  { name: "Riley Sharma", celebration: "Built a little free library for their neighborhood", table: 1, seat: 8 },
-  { name: "Drew Fischer", celebration: "Celebrated 10 years of marriage", table: 1, seat: 9 },
-  { name: "Avery Nguyen", celebration: "Moved into their first house", table: 1, seat: 10 },
+  // Table 1 (10 people)
+  { name: "Taylor H.", celebration: "I\u2019m making a goal this year of cooking 50 new dishes this year, across a bunch of different types of cuisines using different techniques. I\u2019m right on pace with 11 down so far. It\u2019s been a lot of fun. I just hope my kids\u2019 picky palates aren\u2019t too much of a problem.", table: 1, seat: 1 },
+  { name: "Ash A.", celebration: "Finally getting my kitchen fixed after a year dealing with the worst company in the world!", table: 1, seat: 2 },
+  { name: "Ashley M.", celebration: "Welcomed my first child, Audrey, into the world last August.", table: 1, seat: 3 },
+  { name: "Patrick A.", celebration: "Nearing home, I got honked at for remaining at a stop sign too long; a bluejay, so triumphant as to cast a shadow on my car, stared at me and something akin to fear or embarrassment made me pause for longer than the expected rolling stop.", table: 1, seat: 4 },
+  { name: "David P.", celebration: "I\u2019ve completed 8 triathlons.", table: 1, seat: 5 },
+  { name: "Lisa M.", celebration: "A baby crow trusts me.", table: 1, seat: 6 },
+  { name: "Rick J.", celebration: "My daughter was just selected by Seattle Children\u2019s Hospital for her nursing preceptorship. Preceptorship is the step before residency, and there are only a handful of spots open, so it is competitive for students across all colleges in the region.", table: 1, seat: 7 },
+  { name: "Matt D.", celebration: "I\u2019ve been reading a book series called Dungeon Crawler Carl, it\u2019s 7 books (which I\u2019ve finished) with the 8th book coming out this year. It\u2019s a very unusual (for me) type of fiction, but I\u2019ve been pretty enthralled by it!", table: 1, seat: 8 },
+  { name: "Mariano C.", celebration: "I onsighted a 5.10 trad climb outside.", table: 1, seat: 9 },
+  { name: "Janeka H.", celebration: "My youngest daughter does competition dance and she is a force to be reckoned, and my oldest daughter is on the robotics team at her school.", table: 1, seat: 10 },
 
-  // Sage table (10 people)
-  { name: "Quinn O'Brien", celebration: "Hiked the John Muir Trail end-to-end", table: 2, seat: 1 },
-  { name: "Skyler Watts", celebration: "Started a weekend pottery class", table: 2, seat: 2 },
-  { name: "Reese Tanaka", celebration: "Taught their kid to ride a bike", table: 2, seat: 3 },
-  { name: "Finley Cruz", celebration: "Completed a 30-day meditation streak", table: 2, seat: 4 },
-  { name: "Harper Lane", celebration: "Reconnected with a childhood best friend", table: 2, seat: 5 },
-  { name: "Sage Adler", celebration: "Learned to make fresh pasta from scratch", table: 2, seat: 6 },
-  { name: "Dakota Voss", celebration: "Ran their first open-mic night", table: 2, seat: 7 },
-  { name: "Ellis Dunn", celebration: "Paid off their student loans", table: 2, seat: 8 },
-  { name: "Rowan Cho", celebration: "Grew tomatoes from seed for the first time", table: 2, seat: 9 },
-  { name: "Kendall Pierce", celebration: "Got scuba certified in Mexico", table: 2, seat: 10 },
+  // Table 2 (10 people)
+  { name: "Tino N.", celebration: "Expecting our first child and a niece or nephew in the same month this year :)", table: 2, seat: 1 },
+  { name: "Caleb K.", celebration: "For my highlight, I would definitely choose joining the amazing Security Operations team here at Posit.", table: 2, seat: 2 },
+  { name: "Devin G.", celebration: "Just took a trip to Prague, Budapest, and Vienna.", table: 2, seat: 3 },
+  { name: "Matt L.", celebration: "Celebrating my oldest son, who recently turned 18 and is graduating from high school.", table: 2, seat: 4 },
+  { name: "Vesper L.", celebration: "Finally figured out how to rollerskate backwards efficiently!", table: 2, seat: 5 },
+  { name: "Chrissy M.", celebration: "My husband & I have been together for 15 years this year!", table: 2, seat: 6 },
+  { name: "Savannah E.", celebration: "My 9 month old (Sylvie) just learned to clap so I\u2019m very proud of and excited about that :)", table: 2, seat: 7 },
+  { name: "Vitor M.", celebration: "Want to celebrate a trip I am taking with my whole family (11 people) to Disney and Universal theme parks in Orlando in September 2026. We\u2019re all departing from Brazil, can\u2019t wait for this special adventure together! This has always been a dream of mine, and it is becoming true.", table: 2, seat: 8 },
+  { name: "Lori R.", celebration: "Our 24th wedding anniversary March 30th, my parent\u2019s 69th wedding anniversary March 22nd", table: 2, seat: 9 },
+  { name: "Emily N.", celebration: "Our family recently adopted a new cat named Spot", table: 2, seat: 10 },
 
-  // Ocean table (10 people)
-  { name: "Lennox Grant", celebration: "Became an uncle for the first time", table: 3, seat: 1 },
-  { name: "Emery Solis", celebration: "Organized a neighborhood cleanup day", table: 3, seat: 2 },
-  { name: "Blair Hensley", celebration: "Completed their first triathlon", table: 3, seat: 3 },
-  { name: "Phoenix Yeo", celebration: "Started learning Korean", table: 3, seat: 4 },
-  { name: "Shiloh Bram", celebration: "Flew a plane for the first time (intro lesson!)", table: 3, seat: 5 },
-  { name: "Arden Kemp", celebration: "Made sourdough that was actually good", table: 3, seat: 6 },
-  { name: "Remy Lawson", celebration: "Visited Japan for the first time", table: 3, seat: 7 },
-  { name: "Oakley Fenn", celebration: "Read 40 books this year", table: 3, seat: 8 },
-  { name: "Wren Castellano", celebration: "Learned to play ukulele", table: 3, seat: 9 },
-  { name: "Lark Ellison", celebration: "Ran a charity 5K with their whole family", table: 3, seat: 10 },
+  // Table 3 (10 people)
+  { name: "Alex W.", celebration: "This year I\u2019m happy that I bought my first house!", table: 3, seat: 1 },
+  { name: "Chris P.", celebration: "I\u2019ve been celebrating the success of the US women\u2019s hockey team\u2019s gold medal. Not only that, but the rise in women\u2019s hockey sign ups.", table: 3, seat: 2 },
+  { name: "Brittany S.", celebration: "Took a girls trip on a cruise to the Bahamas. It was my first time out of the country!", table: 3, seat: 3 },
+  { name: "Jerin S.", celebration: "I recently went on a family trip to the Grand Canyon and surrounding cities and national parks. This was a really satisfying & happy event for me because it\u2019s the first family vacation I\u2019ve taken with my parents since we came to the US in 2009. Additionally, being able to pay for all the expenses was also a huge milestone!", table: 3, seat: 4 },
+  { name: "Eric P.", celebration: "Celebrating my son\u2019s high school hockey carrer (first Defense player to reach 100 points at his high school)", table: 3, seat: 5 },
+  { name: "Ann V.", celebration: "I am very happy and proud of how the members of our team have shown up for each other this past year. Everyone has gone through big life changes, and every day we all show up for each other to help, assist, and be a shoulder to lean on.", table: 3, seat: 6 },
+  { name: "Simon S.", celebration: "I lost 30 pounds in the last 2 years. For proof, look at me now and then look at my Slack avatar.", table: 3, seat: 7 },
+  { name: "Carissa G.", celebration: "I\u2019m celebrating and really looking forward to expanding my family with my second child.", table: 3, seat: 8 },
+  { name: "Amy W.", celebration: "I have read 15 books so far this year! Way ahead of my goal", table: 3, seat: 9 },
+  { name: "Joseph T.", celebration: "Celebrating four years at Posit!", table: 3, seat: 10 },
 ];
 
 const TABLES = {
