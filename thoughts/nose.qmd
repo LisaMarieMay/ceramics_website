@@ -1,0 +1,10 @@
+---
+title: "It's Just a Nose"
+date: 2026-04-07
+---
+
+Have you looked at a humpback whale blow hole recently? 
+
+![](../images/blow-hole.jpg){width="50%" fig-alt="A humpback whale nostril is basically a nose"}
+
+Really looked? 
