@@ -13,21 +13,26 @@ There’s a natural pull between printmaking and underglaze painting. The blocky
 
 Take this print from Whitaker Printmakers, for example. You start with a flat surface and carve away the negative space. This design would transfer to sgraffito perfectly.
 
-![](../images/Riverside.webp){width="50%" fig-alt="Beautiful linocut print from Whitaker Printmakers"}  
-[Image credit](https://www.whitprint.com/registration/intro-linocut-mendez-d5w62-6dfs8)
+![](../images/Riverside.webp){width="60%" fig-align="center" fig-alt="Beautiful linocut print from Whitaker Printmakers"}  
+<p style="text-align: center; font-size: 0.8em;">[Image credit: Whitaker Printmakers](https://www.whitprint.com/registration/intro-linocut-mendez-d5w62-6dfs8)</p>
 
-And here's some of my sgraffito work that would translate directly to a linocut. 
+---
 
-![](../images/incense_burner_1d.jpg){width="30%" fig-alt="detail from incense burner"}  
-![](../images/crow_goddess_mug_1a.jpg){width="30%" fig-alt="The Crow Goddess"}  
+And here's some of my sgraffito work that would translate directly to a linocut. I love the meditative nature of carving into the clay to reveal the story beneath.
 
-![](../images/crow_feet_mug_1.jpg){width="30%" fig-alt="Crow Feet Mug"}  
+::: {layout-ncol=2}
+![](../images/incense_burner_1d.jpg){fig-alt="Detail from incense burner"}
 
-![](../images/crow_pearls_mug.jpg){width="30%" fig-alt="Crow Pearls Mug"}  
+![](../images/crow_goddess_mug_1a.jpg){fig-alt="The Crow Goddess"}
+
+![](../images/crow_feet_mug_1.jpg){fig-alt="Crow Feet Mug"}
+
+![](../images/crow_pearls_mug.jpg){fig-alt="Crow Pearls Mug"}
+:::
 
 ### Thinking in Layers (and Backwards)
 
-I recently discovered that artists use silkscreen printing for underglaze! I knew about monoprinting—layering underglaze paintings on newsprint to transfer to clay—but the idea of screen printing introduces even more possibilities, including working with photographs. 
+I recently discovered that artists use silkscreen printing for underglaze! I knew about monoprinting—layering underglaze paintings on newsprint to transfer to clay—but the idea of screen printing introduces even more possibilities, including working with high-contrast photography. 
 
 In printmaking, you have to think in layers. With ceramic transfers, you have to think backwards. Because you’re printing onto newsprint and then flipping it onto the clay, the first layer you lay down becomes the foreground. It’s a mental puzzle that forces you to see the finished piece before you’ve even touched the clay.
 
@@ -35,18 +40,15 @@ In printmaking, you have to think in layers. With ceramic transfers, you have to
 
 This discovery pulled me back to art school, where I did a series of screenprints of histology slides—images of anatomy and physiology taken through a microscope. I wanted to capture that clinical, ethereal glow, and the feeling of discovering a tiny, hidden, beautiful world.
 
-I printed them onto clear plastic (specifically, shower curtain liners that I spent an eternity ironing flat). The light moved through them just like it moved through the microscope lens.
-
-Looking at slides of bone marrow and adipose tissue, you can see why an artist would be obsessed. The patterns are incredibly graphic.
+I printed them onto clear plastic (specifically, shower curtain liners that I spent an eternity ironing flat). The light moved through them just like it moved through the microscope lens. Looking at slides of bone marrow and adipose tissue, you can see why an artist would be obsessed. The patterns are incredibly graphic and organic.
 
 ::: {layout-ncol=2}
-![](../images/bone-marrow.jpg){width="30%" fig-alt="histology slide of bone marrow"}  
-[Image credit] (https://wellcomecollection.org/works/n4ghqt9s).
+![[Bone Marrow](https://wellcomecollection.org/works/n4ghqt9s)](../images/bone-marrow.jpg){fig-alt="Histology slide of bone marrow"}
 
-![](../images/adipose.jpg){width="30%" fig-alt="histology slide of adipose tissue"}  
- [Image credit](https://wellcomecollection.org/works/ecjxx5uh). 
+![[Adipose Tissue](https://wellcomecollection.org/works/ecjxx5uh)](../images/adipose.jpg){fig-alt="Histology slide of adipose tissue"}
+:::
 
-Unfortunately, I have no record of this series—it was my early 20s, and I was moving a lot. But the imagery has stayed with me.
+Unfortunately, I have no record of this series—it was my early 20s, and I was moving a lot.
 
 ### Why I’m Staying
 
