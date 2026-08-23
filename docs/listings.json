@@ -1,7 +1,27 @@
 [
   {
+    "listing": "/mugs.html",
+    "items": [
+      "/pieces/crow_walking_mug_striped.html",
+      "/pieces/doors_mug.html",
+      "/pieces/sketchy_crows.html",
+      "/pieces/mark_making_mug.html",
+      "/pieces/golden_green_mug.html",
+      "/pieces/stars_mug.html",
+      "/pieces/arches_mug.html",
+      "/pieces/buckwheat_mug.html",
+      "/pieces/crow_goddess_mug.html",
+      "/pieces/crow_pearls_mug.html",
+      "/pieces/crow_feet.html",
+      "/pieces/hammered_mug_1.html",
+      "/pieces/hammered_mug_2.html",
+      "/pieces/stars_cup.html"
+    ]
+  },
+  {
     "listing": "/thoughts.html",
     "items": [
+      "/thoughts/snowy-owl-stripes.html",
       "/thoughts/printing.html",
       "/thoughts/nose.html",
       "/thoughts/the_ideal_mug.html"
@@ -58,25 +78,6 @@
       "/pieces/whale_momma.html",
       "/pieces/crow_babies.html",
       "/pieces/who_me.html"
-    ]
-  },
-  {
-    "listing": "/mugs.html",
-    "items": [
-      "/pieces/crow_walking_mug_striped.html",
-      "/pieces/doors_mug.html",
-      "/pieces/sketchy_crows.html",
-      "/pieces/mark_making_mug.html",
-      "/pieces/golden_green_mug.html",
-      "/pieces/stars_mug.html",
-      "/pieces/arches_mug.html",
-      "/pieces/buckwheat_mug.html",
-      "/pieces/crow_goddess_mug.html",
-      "/pieces/crow_pearls_mug.html",
-      "/pieces/crow_feet.html",
-      "/pieces/hammered_mug_1.html",
-      "/pieces/hammered_mug_2.html",
-      "/pieces/stars_cup.html"
     ]
   }
 ]

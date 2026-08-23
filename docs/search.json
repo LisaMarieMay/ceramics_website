@@ -1,52 +1,10 @@
 [
   {
-    "objectID": "CLAUDE.html",
-    "href": "CLAUDE.html",
-    "title": "Lisa May Ceramics Website",
+    "objectID": "thoughts/snowy-owl-stripes.html",
+    "href": "thoughts/snowy-owl-stripes.html",
+    "title": "These Stripes",
     "section": "",
-    "text": "Quarto-based portfolio site for handmade ceramics.\n\n\n\npieces/ - Individual piece pages (.qmd files)\nimages/ - All images (JPG preferred, 1000px long edge currently, moving to 1600px)\nmugs.qmd, etc. - Category listing pages\n\n\n\n\n\nCategories: available for purchase, work in progress, sculpture, mugs, crows, whales, sgraffito, etc.\nwork in progress items should have draft: true (don’t publish unfinished pieces)\nFor sale items include “Available for Purchase”, “Price: $X”, and “Volume: X mL (X oz)” at top of content\n\nEach line needs two trailing spaces for markdown line breaks (including Price line)\nFormat: Available for Purchase␣␣ / Price: $X␣␣ / Volume: X mL (X oz)\n\nAlt text uses fig-alt attribute (not bracket syntax) to avoid visible captions\nLightbox galleries use group=\"name\" attribute for navigation between images\nPiece page pattern: hero image at top, then layout-ncol=2 or layout-ncol=3 grid for additional views\nFor 4 total images: use layout-ncol=3 (1 hero + 3 in one row)\nFor 5+ images: use layout-ncol=2 (1 hero + 2x2 grid)\nReference/meme images: save locally, display side-by-side with layout-ncol=2, add credit line at bottom in italics\nMugs include: “Durable stoneware, dishwasher and microwave safe.” before Process notes\nCropped detail images for callouts go outside lightbox group (no group= attribute)\nLinks between piece pages use .html extension (e.g., [sketchy crows](sketchy_crows.html))\n\n\n\n\n\nAll images have copyright: “© Lisa May”\nArtist/Creator: “Lisa May”\nCopyright Notice: “© Lisa May - lisamayceramics.com”\nGPS and device info stripped for privacy\n\n\n\nexiftool -overwrite_original \\\n  '-GPS*=' \\\n  -Make= \\\n  -Model= \\\n  -Software= \\\n  -SerialNumber= \\\n  -LensInfo= \\\n  -LensModel= \\\n  -LensSerialNumber= \\\n  -Copyright=\"© Lisa May\" \\\n  -Artist=\"Lisa May\" \\\n  -Creator=\"Lisa May\" \\\n  -CopyrightNotice=\"© Lisa May - lisamayceramics.com\" \\\n  images/*.jpg images/*.png\n\n\n\n\n\nWeb research is authorized (viewing websites for pricing, technique info, etc.)\n\n\n\n\nLisa May - lisamayceramics.com"
-  },
-  {
-    "objectID": "CLAUDE.html#site-structure",
-    "href": "CLAUDE.html#site-structure",
-    "title": "Lisa May Ceramics Website",
-    "section": "",
-    "text": "pieces/ - Individual piece pages (.qmd files)\nimages/ - All images (JPG preferred, 1000px long edge currently, moving to 1600px)\nmugs.qmd, etc. - Category listing pages"
-  },
-  {
-    "objectID": "CLAUDE.html#conventions",
-    "href": "CLAUDE.html#conventions",
-    "title": "Lisa May Ceramics Website",
-    "section": "",
-    "text": "Categories: available for purchase, work in progress, sculpture, mugs, crows, whales, sgraffito, etc.\nwork in progress items should have draft: true (don’t publish unfinished pieces)\nFor sale items include “Available for Purchase”, “Price: $X”, and “Volume: X mL (X oz)” at top of content\n\nEach line needs two trailing spaces for markdown line breaks (including Price line)\nFormat: Available for Purchase␣␣ / Price: $X␣␣ / Volume: X mL (X oz)\n\nAlt text uses fig-alt attribute (not bracket syntax) to avoid visible captions\nLightbox galleries use group=\"name\" attribute for navigation between images\nPiece page pattern: hero image at top, then layout-ncol=2 or layout-ncol=3 grid for additional views\nFor 4 total images: use layout-ncol=3 (1 hero + 3 in one row)\nFor 5+ images: use layout-ncol=2 (1 hero + 2x2 grid)\nReference/meme images: save locally, display side-by-side with layout-ncol=2, add credit line at bottom in italics\nMugs include: “Durable stoneware, dishwasher and microwave safe.” before Process notes\nCropped detail images for callouts go outside lightbox group (no group= attribute)\nLinks between piece pages use .html extension (e.g., [sketchy crows](sketchy_crows.html))"
-  },
-  {
-    "objectID": "CLAUDE.html#image-metadata",
-    "href": "CLAUDE.html#image-metadata",
-    "title": "Lisa May Ceramics Website",
-    "section": "",
-    "text": "All images have copyright: “© Lisa May”\nArtist/Creator: “Lisa May”\nCopyright Notice: “© Lisa May - lisamayceramics.com”\nGPS and device info stripped for privacy\n\n\n\nexiftool -overwrite_original \\\n  '-GPS*=' \\\n  -Make= \\\n  -Model= \\\n  -Software= \\\n  -SerialNumber= \\\n  -LensInfo= \\\n  -LensModel= \\\n  -LensSerialNumber= \\\n  -Copyright=\"© Lisa May\" \\\n  -Artist=\"Lisa May\" \\\n  -Creator=\"Lisa May\" \\\n  -CopyrightNotice=\"© Lisa May - lisamayceramics.com\" \\\n  images/*.jpg images/*.png"
-  },
-  {
-    "objectID": "CLAUDE.html#authorized-actions",
-    "href": "CLAUDE.html#authorized-actions",
-    "title": "Lisa May Ceramics Website",
-    "section": "",
-    "text": "Web research is authorized (viewing websites for pricing, technique info, etc.)"
-  },
-  {
-    "objectID": "CLAUDE.html#owner",
-    "href": "CLAUDE.html#owner",
-    "title": "Lisa May Ceramics Website",
-    "section": "",
-    "text": "Lisa May - lisamayceramics.com"
-  },
-  {
-    "objectID": "plan.html",
-    "href": "plan.html",
-    "title": "To-Do",
-    "section": "",
-    "text": "To-Do\n\nAdd alt text to all images\nMake “work in progress” category automatically set as draft (don’t publish unfinished pieces)\nReorganize top menu:\n\n“Available for purchase” first\nGallery second\nCategory pages (mugs, etc.) less prominent\n\nAdd section for new work not yet available (to show friends)\nImprove purchasing text\nExpand artist statement\nAdd commissions language (inquiries welcome, selective about projects — cool ideas from good people)\nUpdate mugs page (add new mugs, then remove draft status)\n\narches_mug\nbuckwheat_mug\ndoors_mug\ncrow_walking_mug_striped (Wolverine & Chloe)\ngolden_green_mug\nsketchy_crows\nmark_making_mug\nstars_mug\n\nAdd mailing list\nFigure out better way to order pieces (currently using fake dates for manual ordering)\nAdd volumes (oz/mL) to all mug listings"
+    "text": "I’ve been looking at snowy owls recently. These stripes, y’all. So fierce and female*. Like Coco Chanel in 1928. I can’t stop thinking about them.\n\n\n*Males are more snowy white. They don’t have this gorgeous striped shirt.\n\n\n\nSnowy owl\nRead more about Coco Chanel and the history of the Breton stripe"
   },
   {
     "objectID": "thoughts/nose.html",
@@ -60,7 +18,7 @@
     "href": "thoughts.html",
     "title": "Thoughts",
     "section": "",
-    "text": "The Infinite Medium\n\n\n\n\n\n\n\n\nApr 20, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nIt’s Just a Nose\n\n\n\n\n\n\n\n\nApr 7, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nThe Ideal Mug\n\n\n\n\n\n\n\n\nApr 3, 2026\n\n\n\n\n\nNo matching items"
+    "text": "These Stripes\n\n\n\n\n\n\n\n\nAug 23, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nThe Infinite Medium\n\n\n\n\n\n\n\n\nApr 20, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nIt’s Just a Nose\n\n\n\n\n\n\n\n\nApr 7, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nThe Ideal Mug\n\n\n\n\n\n\n\n\nApr 3, 2026\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
@@ -320,5 +278,12 @@
     "title": "The Ideal Mug",
     "section": "",
     "text": "At a work dinner recently, I got into a conversation about the ideal mug.\nI started this topic because I’ve really been obsessing over it — making the perfect mug. But I realized talking to my colleague that what I’ve been thinking of as the platonic ideal perfect mug is actually just my perfect mug. Big. Chunky. A handle you can really grab — so I can fill it with tea and wander my yard, check on my plants, talk to the crows. Something that says go outside, this is sturdy, honestly if you drop it it’ll be fine — go be wild.\nHis perfect mug is very much not that. His isn’t really a mug at all. Small. No handle. If it’s too hot, he waits. A thin rim. Although there was something we shared — texture. It should feel good in your hands.\nI loved this. Not the answer itself, but the seriousness of it. The way someone can have a whole philosophy about a small thing they hold every morning. These tiny details I’ve been turning over for months — he had his own version, and it was almost the opposite of mine.\nSo I made his mug. Or I tried to.\n\nI started with a basic cylinder. Simple. TINY. I didn’t even have a form to use — I searched through my pantry for something the right size. Ten minutes of work if I’d left it alone.\n\nBut I didn’t leave it alone, because carving is the best part. It’s the chaos demon — the thing I do because it feels good, not because it’s in the plan. I carved vertical lines into it, and then I kept going.\n\nCarved holes. Was content patching them. Put a big coil on the outside, wrapped it up in its little blanket, then carved again. Carved more holes. The whole lid came off.\n\nSo I put a coil on the inside and pressed it back together. Two hours on something that started as a ten-minute form.\nThere’s always this tension for me: the planned thing versus the release of just doing something because it feels good. Making something beautiful versus making something interesting. Usually I lean toward chunky, substantial, heavy in the hand. But this piece ended up thin. Really thin. The rim is thin. The walls are thin. And that surprised me, because that’s not how I usually work. But it makes sense. This isn’t my mug. This was shaped by a different person’s ideal — someone more refined, someone who waits for the coffee to cool.\n\nThe thing about the chaos demon– it’s not completely about destruction, ya know? It was headed somewhere. I like where this landed.\nMy experience is my instincts are usually headed somewhere interesting, even if it fails some of the time. This is almost kurinuki adjacent, except starting from a slab instead of a block. The subtractive carving away and one-of-a-kind result appeals to me.\nI also think about Amy Sillman’s process of making and remaking, when is it done? I’m continuously interested in the process, the feeling, the experience. I liked breaking it and putting it back together and breaking it again. It was interesting."
+  },
+  {
+    "objectID": "plan.html",
+    "href": "plan.html",
+    "title": "To-Do",
+    "section": "",
+    "text": "To-Do\n\nAdd alt text to all images\nMake “work in progress” category automatically set as draft (don’t publish unfinished pieces)\nReorganize top menu:\n\n“Available for purchase” first\nGallery second\nCategory pages (mugs, etc.) less prominent\n\nAdd section for new work not yet available (to show friends)\nImprove purchasing text\nExpand artist statement\nAdd commissions language (inquiries welcome, selective about projects — cool ideas from good people)\nUpdate mugs page (add new mugs, then remove draft status)\n\narches_mug\nbuckwheat_mug\ndoors_mug\ncrow_walking_mug_striped (Wolverine & Chloe)\ngolden_green_mug\nsketchy_crows\nmark_making_mug\nstars_mug\n\nAdd mailing list\nFigure out better way to order pieces (currently using fake dates for manual ordering)\nAdd volumes (oz/mL) to all mug listings"
   }
 ]
