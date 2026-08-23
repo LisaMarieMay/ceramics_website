@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: "What's in Your Gular Pouch?"
 image: "../images/gular_mug.jpg" 
 categories: [sgraffito, crows, mugs, work in progress] 
@@ -16,5 +16,7 @@ I really think I can tell when they're loading up that pouch or when they're eat
 
 You know that old ad slogan "What's in your wallet?" I keep thinking "What's in your gular pouch?"
 
+
+![](../images/gular-pouch-finished.jpg)
 ![](../images/gular_mug.jpg)
 ![](../images/gular_mug_2.jpg)
