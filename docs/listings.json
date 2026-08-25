@@ -20,12 +20,19 @@
     ]
   },
   {
-    "listing": "/thoughts.html",
+    "listing": "/available.html",
     "items": [
-      "/thoughts/snowy-owl-stripes.html",
-      "/thoughts/printing.html",
-      "/thoughts/nose.html",
-      "/thoughts/the_ideal_mug.html"
+      "/pieces/holy_whale.html",
+      "/pieces/crow_walking_mug_striped.html",
+      "/pieces/doors_mug.html",
+      "/pieces/golden_green_mug.html",
+      "/pieces/stars_mug.html",
+      "/pieces/arches_mug.html",
+      "/pieces/buckwheat_mug.html",
+      "/pieces/whale_1.html",
+      "/pieces/whale_momma.html",
+      "/pieces/crow_babies.html",
+      "/pieces/who_me.html"
     ]
   },
   {
@@ -67,19 +74,13 @@
     ]
   },
   {
-    "listing": "/available.html",
+    "listing": "/thoughts.html",
     "items": [
-      "/pieces/holy_whale.html",
-      "/pieces/crow_walking_mug_striped.html",
-      "/pieces/doors_mug.html",
-      "/pieces/golden_green_mug.html",
-      "/pieces/stars_mug.html",
-      "/pieces/arches_mug.html",
-      "/pieces/buckwheat_mug.html",
-      "/pieces/whale_1.html",
-      "/pieces/whale_momma.html",
-      "/pieces/crow_babies.html",
-      "/pieces/who_me.html"
+      "/thoughts/snowy-owl-stripes.html",
+      "/thoughts/clay-and-cows.html",
+      "/thoughts/printing.html",
+      "/thoughts/nose.html",
+      "/thoughts/the_ideal_mug.html"
     ]
   }
 ]
