@@ -12,15 +12,24 @@ website:
         text: Gallery
       - href: mugs.qmd
         text: Mugs
-      - href: thoughts.qmd
+      - href: thoughts/index.qmd # Updated to match your thoughts directory
         text: Thoughts
       - href: contact.qmd
         text: Contact
       - href: about.qmd
         text: About
+
+  sidebar:
+    - id: "thoughts-sidebar"
+      title: "Thoughts"
+      style: "docked"
+      contents:
+        - text: "All Thoughts"
+          href: thoughts/index.qmd
+        - auto: thoughts/*.qmd
+
   page-footer:
     left: "© 2026 Lisa May Ceramics. All rights reserved. Images may not be used without permission."
-      
 
 format:
   html:
@@ -29,5 +38,3 @@ format:
       - brand
     css: styles.css
     toc: true
-
-
