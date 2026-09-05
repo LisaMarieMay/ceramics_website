@@ -12,7 +12,7 @@ website:
         text: Gallery
       - href: mugs.qmd
         text: Mugs
-      - href: thoughts/index.qmd # Updated to match your thoughts directory
+      - href: thoughts.qmd
         text: Thoughts
       - href: contact.qmd
         text: Contact
@@ -25,7 +25,7 @@ website:
       style: "docked"
       contents:
         - text: "All Thoughts"
-          href: thoughts/index.qmd
+          href: thoughts.qmd
         - auto: thoughts/*.qmd
 
   page-footer:
