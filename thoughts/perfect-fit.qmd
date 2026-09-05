@@ -5,5 +5,4 @@ date: 2026-04-05
 
 Hahhahah perfect fit.
 
-![](../perfect_fit.jpg){width="50%" fig-alt="easter egg fits perfectly in the foot of crow statue"}
-
+![](../images/perfect_fit.jpg){width="50%" fig-alt="easter egg fitting perfectly in crow statue's foot"}
