@@ -1,0 +1,12 @@
+---
+title: "Whale 42"
+image: "../images/whale_42.jpg"
+categories: [whales, available for purchase]
+date: 2026-01-09
+lightbox: true
+---
+
+Available for Purchase  
+Price: $60  
+
+![](../images/whale_42.jpg)

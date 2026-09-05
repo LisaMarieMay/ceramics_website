@@ -6,9 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="dcterms.date" content="2025-12-15">
+<meta name="dcterms.date" content="2026-01-09">
 
-<title>Who Me? – Lisa May Ceramics</title>
+<title>Whale 42 – Lisa May Ceramics</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -47,6 +47,9 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../site_libs/bootstrap/bootstrap-5dc6495f5a25fabc20e6d0f8c81b3236.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -135,11 +138,9 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Who Me?</h1>
+<h1 class="title">Whale 42</h1>
   <div class="quarto-categories">
-    <div class="quarto-category">sgraffito</div>
-    <div class="quarto-category">crows</div>
-    <div class="quarto-category">plates</div>
+    <div class="quarto-category">whales</div>
     <div class="quarto-category">available for purchase</div>
   </div>
   </div>
@@ -152,7 +153,7 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">December 15, 2025</p>
+      <p class="date">January 9, 2026</p>
     </div>
   </div>
   
@@ -165,10 +166,8 @@ ul.task-list li input[type="checkbox"] {
 
 
 <p>Available for Purchase<br>
-Price: $25<br>
-Email may.lisa2@gmail.com to inquire.</p>
-<p><img src="../images/who_me.jpg" class="img-fluid"></p>
-<p>Who me? Wink, wink, innocent face.</p>
+Price: $60</p>
+<p><a href="../images/whale_42.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="../images/whale_42.jpg" class="img-fluid"></a></p>
 
 
 
@@ -587,6 +586,38 @@ Email may.lisa2@gmail.com to inquire.</p>
     </div>
   </div>
 </footer>
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 
