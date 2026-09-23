@@ -1,0 +1,32 @@
+---
+draft: false
+title: "Incense House"
+image: "../images/incense_house_1.jpg"
+image-position: top
+categories: [sculpture]
+date: 2026-09-22
+lightbox: true
+---
+
+
+![](../images/incense_house_1.jpg)
+
+Yes, the smoke does come out the chimney.
+
+::: {layout-ncol=3}
+![](../images/incense_house_2.jpg)
+
+![](../images/incense_house_3.jpg)
+
+![](../images/incense_house_4.jpg)
+
+![](../images/incense_house_5.jpg)
+
+![](../images/incense_house_6.jpg)
+
+![](../images/incense_house_7.jpg)
+
+![](../images/incense_house_8.jpg)
+
+
+:::
