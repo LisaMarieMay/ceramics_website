@@ -1,0 +1,22 @@
+---
+draft: false
+title: "Snowy Owl Mug"
+image: "../images/snowy-owl-mug-1.jpg"
+image-position: top
+categories: [mugs]
+date: 2026-09-27
+lightbox: true
+---
+
+
+![](../images/snowy-owl-mug-1.jpg){group="snowy-owl-mug" fig-alt="front view - snowy owl mug"}
+
+::: {layout-ncol=2}
+![](../images/snowy-owl-mug-2.jpg){group="snowy-owl-mug" fig-alt="front view- snowy owl mug"}
+
+![](../images/snowy-owl-mug-3.jpg){group="snowy-owl-mug" fig-alt="handle detail- snowy owl mug"}
+
+![](../images/snowy-owl-mug-4.jpg){group="snowy-owl-mug" fig-alt="left hand view- snowy owl mug"}
+
+![](../images/snowy-owl-mug-5.jpg){group="snowy-owl-mug" fig-alt="foot detail- snowy owl mug"}
+:::

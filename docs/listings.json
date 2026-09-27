@@ -2,6 +2,7 @@
   {
     "listing": "/mugs.html",
     "items": [
+      "/pieces/snowy_owl_mug.html",
       "/pieces/crow_walking_mug_striped.html",
       "/pieces/doors_mug.html",
       "/pieces/sketchy_crows.html",
@@ -35,6 +36,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/pieces/snowy_owl_mug.html",
       "/pieces/incense_house.html",
       "/pieces/amandas_whales.html",
       "/pieces/crow_sculpture.html",
