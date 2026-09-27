@@ -1,13 +1,11 @@
 ---
 title: "Stars & Mountains Mug"
 image: "../images/stars-mug-1.jpg"
-categories: [sgraffito, mugs, available for purchase]
+categories: [sgraffito, mugs]
 date: 2026-02-12
 lightbox: true
 ---
 
-Available for Purchase  
-Price: $50  
 Volume: 413 mL (14 oz)
 
 ![](../images/stars-mug-1.jpg){group="stars-mug" fig-alt="Stars and mountains mug, front view"}

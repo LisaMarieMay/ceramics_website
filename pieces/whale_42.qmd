@@ -1,13 +1,11 @@
 ---
 title: "Whale 42"
 image: "../images/whale_42.jpg"
-categories: [whales, sculpture, brown clay, available for purchase]
+categories: [whales, sculpture, brown clay]
 date: 2026-01-09
 lightbox: true
 ---
 
-Available for Purchase  
-Price: $60  
 
 ![](../images/whale_42.jpg)
 

@@ -1,13 +1,11 @@
 ---
 title: "Arches Mug"
 image: "../images/arches-mug-1.jpg"
-categories: [mugs, sgraffito, available for purchase]
+categories: [mugs, sgraffito]
 date: 2026-02-01
 lightbox: true
 ---
 
-Available for Purchase  
-Price: $30  
 Volume: 548 mL (19 oz)
 
 ![](../images/arches-mug-1.jpg){group="arches-mug" fig-alt="Arches mug, front view"}

@@ -1,7 +1,7 @@
 ---
 title: "Tiny Bowls"
 image: "../images/tiny_bowls_1.jpg" 
-categories: [brown clay, bowls] 
+categories: [brown clay, bowls]
 date: 2025-11-01
 
 ---

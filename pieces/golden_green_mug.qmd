@@ -1,13 +1,11 @@
 ---
 title: "Golden Green Mug"
 image: "../images/golden-green-1.jpg"
-categories: [mugs, sgraffito, available for purchase]
+categories: [mugs, sgraffito]
 date: 2026-02-12
 lightbox: true
 ---
 
-Available for Purchase  
-Price: $50  
 Volume: 248 mL (8 oz)
 
 ![](../images/golden-green-1.jpg){group="golden-green" fig-alt="Golden green mug, front view"}

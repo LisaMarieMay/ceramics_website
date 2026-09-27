@@ -1,13 +1,11 @@
 ---
 title: "Buckwheat Mug"
 image: "../images/buckwheat-mug-1.jpg"
-categories: [mugs, sgraffito, available for purchase]
+categories: [mugs, sgraffito]
 date: 2026-02-01
 lightbox: true
 ---
 
-Available for Purchase  
-Price: $40  
 Volume: 522 mL (18 oz)
 
 ![](../images/buckwheat-mug-1.jpg){group="buckwheat-mug" fig-alt="Buckwheat mug, front view"}

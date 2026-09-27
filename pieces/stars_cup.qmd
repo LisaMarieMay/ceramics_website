@@ -1,7 +1,7 @@
 ---
 title: "Stars Cup"
 image: "../images/stars_cup_1.jpg" 
-categories: [sgraffito, mugs] 
+categories: [sgraffito, mugs]
 date: 2025-02-12
 
 ---

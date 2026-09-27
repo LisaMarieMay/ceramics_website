@@ -2,7 +2,7 @@
 draft: true
 title: "Crow Walking Mug"
 image: "../images/crow-walking-stripes-1.jpg" 
-categories: [sgraffito, crows, mugs, work in progress] 
+categories: [sgraffito, crows, mugs, work in progress]
 date: 2025-12-14
 ---
 

@@ -2,7 +2,7 @@
 draft: true
 title: "Mason Stain Mugs"
 image: "../images/mason_stains.jpg" 
-categories: [mugs, work in progress] 
+categories: [mugs, work in progress]
 date: 2025-12-22
 ---
 

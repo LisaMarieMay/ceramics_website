@@ -1,13 +1,11 @@
 ---
 title: "Doors Mug"
 image: "../images/doors-mug-1.jpg"
-categories: [mugs, sgraffito, available for purchase]
+categories: [mugs, sgraffito]
 date: 2026-02-13
 lightbox: true
 ---
 
-Available for Purchase  
-Price: $50  
 Volume: 577 mL (20 oz)
 
 ![](../images/doors-mug-1.jpg){group="doors-mug" fig-alt="Doors mug, front view"}

@@ -1,7 +1,7 @@
 ---
 title: "What's in Your Gular Pouch?"
 image: "../images/gular-pouch-finished.jpg" 
-categories: [sgraffito, crows, mugs] 
+categories: [sgraffito, crows, mugs]
 date: 2026-01-06
 ---
 

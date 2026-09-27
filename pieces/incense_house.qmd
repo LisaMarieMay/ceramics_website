@@ -3,7 +3,7 @@ draft: false
 title: "Incense House"
 image: "../images/incense_house_1.jpg"
 image-position: top
-categories: [sculpture]
+categories: [sculpture, incense burners]
 date: 2026-09-22
 lightbox: true
 ---
