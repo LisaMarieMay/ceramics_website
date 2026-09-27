@@ -5,4 +5,4 @@ categories: [sgraffito, crows, plates]
 date: 2025-12-18
 
 ---
-![](../images/crow_goddess_plate.jpg)
+![](../images/crow_goddess_plate.jpg){group="og_plate" fig-alt="The Original Crow Goddess Plate"}

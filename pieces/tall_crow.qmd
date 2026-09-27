@@ -10,14 +10,14 @@ One of "my" crows is tall! I think. They're very hard to tell apart.
 
 Why is this exciting? Because I'm starting to get to know them as individuals. 
 
-![](../images/tall_crow_mug.jpg)
-![](../images/tall_crow_mug_2.jpg)
-![](../images/tall_crow_mug_3.jpg)
+![](../images/tall_crow_mug.jpg){group="tall_crow" fig-alt="Tall Drink of Water Mug"}
+![](../images/tall_crow_mug_2.jpg){group="tall_crow" fig-alt="Tall Drink of Water Mug, alternate view"}
+![](../images/tall_crow_mug_3.jpg){group="tall_crow" fig-alt="Tall Drink of Water Mug, alternate view"}
 
 I spend a lot of time thinking about the little leg feathers they have. Like little trousers, little jodpurs, little feather leggings they pull on in the morning.
 
-![](../images/tall_drink.png)
+![](../images/tall_drink.png){group="tall_crow" fig-alt="Tall Drink of Water Mug detail"}
 
 Look at this crow. This is a tall crow. I swear to god. 
 
-![](../images/tall_crow_source_image.jpg)
+![](../images/tall_crow_source_image.jpg){group="tall_crow" fig-alt="Tall Drink of Water Mug, crow source image"}

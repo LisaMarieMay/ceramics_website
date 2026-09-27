@@ -23,4 +23,4 @@ This is a smaller mug (8 oz / 248 mL), and it's wierd, wonderful, and one-of-a-k
 
 This is based on drawings from _my crows_ in _my backyard_, a sister to [sketchy crows](sketchy_crows.html). 
 
-![](../images/sketchy_crow_reference.jpg)
+![](../images/sketchy_crow_reference.jpg){fig-alt="Sketchy crow reference sketch"}

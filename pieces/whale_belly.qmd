@@ -4,11 +4,11 @@ image: "../images/whales_3.jpg"
 categories: [whales]
 date: 2025-12-20
 ---
-![](../images/whales_3.jpg)
-![](../images/whales_3a.jpg)
-![](../images/whales_3b.jpg)
-![](../images/whales_3c.jpg)
-![](../images/whales_3d.jpg)
+![](../images/whales_3.jpg){group="whale_belly" fig-alt="Belly Dancer Whale sculpture"}
+![](../images/whales_3a.jpg){group="whale_belly" fig-alt="Belly Dancer Whale, alternate view"}
+![](../images/whales_3b.jpg){group="whale_belly" fig-alt="Belly Dancer Whale, alternate view"}
+![](../images/whales_3c.jpg){group="whale_belly" fig-alt="Belly Dancer Whale, alternate view"}
+![](../images/whales_3d.jpg){group="whale_belly" fig-alt="Belly Dancer Whale, alternate view"}
 
 She's a beautiful dancer, spinning on her belly. 
 

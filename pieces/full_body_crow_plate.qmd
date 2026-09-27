@@ -5,7 +5,7 @@ date: 2025-12-19
 categories: [sgraffito, crows, plates]
 ---
 
-![](../images/crow_plate_1.jpg)
-![](../images/crow_plate_1a.jpg)
+![](../images/crow_plate_1.jpg){group="full_body_crow_plate" fig-alt="Full Body Crow Plate"}
+![](../images/crow_plate_1a.jpg){group="full_body_crow_plate" fig-alt="Full Body Crow Plate, alternate view"}
 
 I love her. Early crow, pearls aren't even filled in. Obsessed with crows walking. 

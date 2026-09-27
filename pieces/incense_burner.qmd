@@ -5,9 +5,9 @@ categories: [sgraffito, incense burners]
 date: 2025-12-21
 
 ---
-![](../images/incense_burner_1.jpg)
-![](../images/incense_burner_1a.jpg)
-![](../images/incense_burner_1b.jpg)
-![](../images/incense_burner_1c.jpg)
-![](../images/incense_burner_1d.jpg)
+![](../images/incense_burner_1.jpg){group="incense_burner" fig-alt="Incense Burner sculpture"}
+![](../images/incense_burner_1a.jpg){group="incense_burner" fig-alt="Incense Burner, alternate view"}
+![](../images/incense_burner_1b.jpg){group="incense_burner" fig-alt="Incense Burner, alternate view"}
+![](../images/incense_burner_1c.jpg){group="incense_burner" fig-alt="Incense Burner, alternate view"}
+![](../images/incense_burner_1d.jpg){group="incense_burner" fig-alt="Incense Burner, alternate view"}
 I'm proud of this one. It's really beautiful.

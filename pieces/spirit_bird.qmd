@@ -5,6 +5,6 @@ categories: [crows, sculpture, brown clay]
 date: 2025-12-01
 
 ---
-![](../images/spirit_bird_1.jpg)
+![](../images/spirit_bird_1.jpg){group="spirit_bird" fig-alt="Spirit Bird"}
 
 An early little sculpture. 

@@ -4,7 +4,7 @@ image: "../images/crow_feet_mug_1.jpg"
 categories: [sgraffito, crows, mugs]
 date: 2025-12-19
 ---
-![](../images/crow_feet_mug_1.jpg)
-![](../images/crow_feet_mug.jpg)
+![](../images/crow_feet_mug_1.jpg){group="crow_feet" fig-alt="Crow Feet are Dragon Feet"}
+![](../images/crow_feet_mug.jpg){group="crow_feet" fig-alt="Crow Feet are Dragon Feet, alternate view"}
 
 Obsessed with bird feet. Also crows walking. 

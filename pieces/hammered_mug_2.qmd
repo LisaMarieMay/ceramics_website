@@ -5,7 +5,7 @@ categories: [mugs, brown clay]
 date: 2025-11-19
 
 ---
-![](../images/hammered_mug_1.jpg)
-![](../images/hammered_mug_1a.jpg)
-![](../images/hammered_mug_1b.jpg)
+![](../images/hammered_mug_1.jpg){group="hammered_mug_2" fig-alt="Hammered Mug the Second"}
+![](../images/hammered_mug_1a.jpg){group="hammered_mug_2" fig-alt="Hammered Mug the Second, alternate view"}
+![](../images/hammered_mug_1b.jpg){group="hammered_mug_2" fig-alt="Hammered Mug the Second, second alternate view"}
 Honestly, the first hammered mug was way better. I was experimenting with thinner slabs to make the mugs lighter, but I've learned that means they warp more easily. 

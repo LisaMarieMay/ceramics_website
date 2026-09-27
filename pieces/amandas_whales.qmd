@@ -7,22 +7,22 @@ lightbox: true
 ---
 
 
-![](../images/amandas-whales-1.jpg)
+![](../images/amandas-whales-1.jpg){group="amandas_whales" fig-alt="Amanda's Whales sculpture"}
 
 Hung from a 37" piece of driftwood from [Hobbit Beach](https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=86)
 
 ::: {layout-ncol=3}
-![](../images/amandas-whales-2.jpg){group="final"}
+![](../images/amandas-whales-2.jpg){group="amandas_whales" fig-alt="Amanda's Whales, alternate view"}
 
-![](../images/amandas-whales-6.jpg)
+![](../images/amandas-whales-6.jpg){group="amandas_whales" fig-alt="Amanda's Whales, alternate view"}
 
-![](../images/amandas-whales-7.jpg)
+![](../images/amandas-whales-7.jpg){group="amandas_whales" fig-alt="Amanda's Whales, alternate view"}
 
-![](../images/amandas-whales-3.jpg)
+![](../images/amandas-whales-3.jpg){group="amandas_whales" fig-alt="Amanda's Whales, alternate view"}
 
-![](../images/amandas-whales-4.jpg)
+![](../images/amandas-whales-4.jpg){group="amandas_whales" fig-alt="Amanda's Whales, alternate view"}
 
-![](../images/amandas-whales-5.jpg)
+![](../images/amandas-whales-5.jpg){group="amandas_whales" fig-alt="Amanda's Whales, alternate view"}
 
 
 
@@ -34,6 +34,6 @@ Process notes:
 
 Laguna sculpture clay
 Glaze notes:
-![](../images/holy_whale_glaze_notes.jpg)
+![](../images/holy_whale_glaze_notes.jpg){fig-alt="Glaze notes for the whale sculptures"}
 -->
  

@@ -5,8 +5,8 @@ categories: [plates]
 date: 2025-11-05
 ---
 
-![](../images/papaya_1.jpg)
-![](../images/papaya_1a.jpg)
-![](../images/papaya_1b.jpg)
-![](../images/papaya_1c.jpg)
+![](../images/papaya_1.jpg){group="papaya" fig-alt="Papaya sculpture"}
+![](../images/papaya_1a.jpg){group="papaya" fig-alt="Papaya, alternate view"}
+![](../images/papaya_1b.jpg){group="papaya" fig-alt="Papaya, alternate view"}
+![](../images/papaya_1c.jpg){group="papaya" fig-alt="Papaya, alternate view"}
 The color blending is just right on the back.

@@ -7,9 +7,9 @@ lightbox: true
 ---
 
 
-![](../images/whale_42.jpg)
+![](../images/whale_42.jpg){group="whale_42" fig-alt="Whale 42"}
 
-![](../images/singing_whale_1.jpg)
-![](../images/singing_whale_1a.jpg)
+![](../images/singing_whale_1.jpg){group="whale_42" fig-alt="Whale 42, alternate view"}
+![](../images/singing_whale_1a.jpg){group="whale_42" fig-alt="Whale 42, second alternate view"}
 
 

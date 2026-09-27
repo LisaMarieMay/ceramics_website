@@ -4,6 +4,6 @@ image: "../images/mina_and_the_leaf.jpg"
 categories: [sgraffito]
 date: 2025-12-22
 ---
-![](../images/mina_and_the_leaf.jpg)
+![](../images/mina_and_the_leaf.jpg){group="mina_and_the_leaf" fig-alt="Mina and the Leaf"}
 
 I'm real proud of this one. Gives just the Emily Dickenson staring into the sky vibes. Based off an actual photo - the leaf was (and is) that big. 

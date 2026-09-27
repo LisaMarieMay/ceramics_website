@@ -36,9 +36,9 @@ Hand sculpted in stoneware for lasting durability, indoors or out. Dimensions: 1
 Stoneware goes through two firings. Here it is after sculpting, before the first fire — and a glimpse of the hollowing process that makes large pieces possible.
 
 ::: {layout-ncol=2}
-![](../images/holy_whale.jpg){fig-alt="Holy Whale sculpture, finished sculpting before firing"}
+![](../images/holy_whale.jpg){group="final" fig-alt="Holy Whale sculpture, finished sculpting before firing"}
 
-![](../images/holy-whale-11.jpg){fig-alt="Holy Whale sculpture, carving out the inside"}
+![](../images/holy-whale-11.jpg){group="final" fig-alt="Holy Whale sculpture, carving out the inside"}
 :::
 
 <!--
@@ -46,6 +46,6 @@ Process notes:
 
 Laguna sculpture clay
 Glaze notes:
-![](../images/holy_whale_glaze_notes.jpg)
+![](../images/holy_whale_glaze_notes.jpg){fig-alt="Glaze notes for the Holy Whale sculpture"}
 -->
  

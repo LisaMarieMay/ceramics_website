@@ -5,5 +5,5 @@ categories: [sgraffito, crows, mugs]
 date: 2025-12-22
 ---
 The OG (Original Goddess)
-![](../images/crow_goddess_mug_1.jpg)
-![](../images/crow_goddess_mug_1a.jpg)
+![](../images/crow_goddess_mug_1.jpg){group="crow_goddess_mug" fig-alt="Crow Goddess Mug"}
+![](../images/crow_goddess_mug_1a.jpg){group="crow_goddess_mug" fig-alt="Crow Goddess Mug, alternate view"}

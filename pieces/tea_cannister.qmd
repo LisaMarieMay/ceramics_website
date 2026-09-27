@@ -5,9 +5,9 @@ categories: [brown clay]
 date: 2025-11-01
 
 ---
-![](../images/tea_cannister_1.jpg)
-![](../images/tea_cannister_1a.jpg)
-![](../images/tea_cannister_1b.jpg)
+![](../images/tea_cannister_1.jpg){group="tea_cannister" fig-alt="Tea Cannister"}
+![](../images/tea_cannister_1a.jpg){group="tea_cannister" fig-alt="Tea Cannister, alternate view"}
+![](../images/tea_cannister_1b.jpg){group="tea_cannister" fig-alt="Tea Cannister, second alternate view"}
 
 The bottom is cool because I used a parmesan cheese jar as a form. :)
 Also this holds Trader Joe's teabags just like a can of pringles. 

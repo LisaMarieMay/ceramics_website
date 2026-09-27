@@ -6,5 +6,5 @@ categories: [sgraffito, crows, mugs, work in progress]
 date: 2025-12-14
 ---
 
-![](../images/crow-walking-stripes-1.jpg)
+![](../images/crow-walking-stripes-1.jpg){group="crow_walking_mug" fig-alt="Crow Walking Mug"}
 Crows walking are hilarious. 

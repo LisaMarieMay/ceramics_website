@@ -4,6 +4,6 @@ image: "../images/crow_pearls_mug.jpg"
 categories: [sgraffito, crows, mugs]
 date: 2025-12-19
 ---
-![](../images/crow_pearls_mug.jpg)
+![](../images/crow_pearls_mug.jpg){group="crow_pearls_mug" fig-alt="Just a Crow Wearing Pearls"}
 
 She just likes to wear pearls. 

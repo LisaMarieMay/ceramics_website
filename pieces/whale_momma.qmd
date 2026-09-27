@@ -7,7 +7,7 @@ date: 2025-12-20
 ---
 Email may.lisa2@gmail.com to inquire. 
 
-![](../images/whales_1.jpg)
+![](../images/whales_1.jpg){group="whale_momma" fig-alt="Mamma and tween whale"}
 
 That's not a baby whale anymore. She's a middle schooler.
 

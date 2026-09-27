@@ -7,6 +7,6 @@ date: 2025-12-15
 
 Email may.lisa2@gmail.com to inquire.  
 
-![](../images/who_me.jpg)
+![](../images/who_me.jpg){group="who_me" fig-alt="Who Me?"}
 
 Who me? Wink, wink, innocent face. 

@@ -11,14 +11,14 @@ Aaauuuugh how can I explain how interested I am in the rows of tiny envelopes of
 I want colored clay. I don't want to make it marbled. I don't want to do anything fancy with it. I just want really brightly colored clay and no glaze. 
 
 I mean...look at these clay colors. Gasp.  
-[![](../images/mason_stain_instagram.png){width=50%}]  
+[![](../images/mason_stain_instagram.png){width=50% fig-alt="Instagram post showing mason stain mugs"}]  
 (image credit: messyjessyceramics on instagram)  
 
 Obviously I can create beautiful colors with glaze. Why does this seem better? B/c it's not just putting a layer on it, it's like...coloring the essence of it. 
 
 Anyways, I'm trying it! 
 I bought two tiny envelopes, mostly chosen by least expensive. 
-![](../images/mason_stains.jpg)
+![](../images/mason_stains.jpg){group="mason_stain_mugs" fig-alt="Mason Stain Mugs"}
 
 I've been reading a lot about it. I'm going to wedge each of these into a 1.25 to 1.5 lb of clay and see what happens. 
 
@@ -29,6 +29,6 @@ So I see why everyone doesn't do this.
 
 ---
 
-![](../images/mason_stain_fail.jpg)
+![](../images/mason_stain_fail.jpg){group="mason_stain_mugs" fig-alt="Mason Stain Mugs, experiment result"}
 
 Hmm. Well. So far it's been a total disaster. I added some water to the stain, but it was WAY too much water, and it made a total mess. I left it to dry overnight and was able to wedge most of it in, but I can't even see any color difference.

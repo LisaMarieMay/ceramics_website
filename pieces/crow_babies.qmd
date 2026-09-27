@@ -1,13 +1,11 @@
 ---
 title: "Crow Babies"
 image: "../images/crow_babies.jpg" 
-categories: [sgraffito, crows, plates ]
+categories: [sgraffito, crows, plates]
 date: 2025-12-19
 ---
 
-Email may.lisa2@gmail.com to inquire.  
-
-![](../images/crow_babies.jpg)
+![](../images/crow_babies.jpg){group="crow_babies" fig-alt="Crow Babies"}
 
 This summer I watched a juvenile crow beg for food _while she was standing on food_. The begging went on for days. Man, oh man, it really made me empathize with the parents. And crows do it every year! 
 This a set of four small plates is an ode to parental patience and how hard it is to raise kids. :)

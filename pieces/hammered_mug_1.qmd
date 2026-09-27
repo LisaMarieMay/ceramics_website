@@ -5,8 +5,8 @@ categories: [mugs, brown clay]
 date: 2025-12-01
 
 ---
-![](../images/hammered_mug_2.jpg)
-![](../images/hammered_mug_2a.jpg)
-![](../images/hammered_mug_2b.jpg)
+![](../images/hammered_mug_2.jpg){group="hammered_mug_1" fig-alt="Real Good Hammered Mug"}
+![](../images/hammered_mug_2a.jpg){group="hammered_mug_1" fig-alt="Real Good Hammered Mug, alternate view"}
+![](../images/hammered_mug_2b.jpg){group="hammered_mug_1" fig-alt="Real Good Hammered Mug, second alternate view"}
 
 It's not even hammered. I mean...I hit it with a ball tool which I love doing with all my heart. 

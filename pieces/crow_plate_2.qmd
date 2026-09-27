@@ -6,4 +6,4 @@ date: 2025-12-14
 ---
 
 
-![](../images/crow_plate_2.jpg)
+![](../images/crow_plate_2.jpg){group="crow_plate_2" fig-alt="Crow Plate"}

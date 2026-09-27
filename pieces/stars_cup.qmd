@@ -5,6 +5,6 @@ categories: [sgraffito, mugs]
 date: 2025-02-12
 
 ---
-![](../images/stars_cup_1.jpg)
-![](../images/stars_cup_1a.jpg)
+![](../images/stars_cup_1.jpg){group="stars_cup" fig-alt="Stars Cup"}
+![](../images/stars_cup_1a.jpg){group="stars_cup" fig-alt="Stars Cup, alternate view"}
 Gasp. This one gives me the feels. I should make more in this theme.  
