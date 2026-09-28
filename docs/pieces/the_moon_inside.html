@@ -6,9 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="dcterms.date" content="2025-12-19">
+<meta name="dcterms.date" content="2026-05-21">
 
-<title>Crow Babies – Lisa May Ceramics</title>
+<title>The Moon Inside – Lisa May Ceramics</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -47,6 +47,9 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../site_libs/bootstrap/bootstrap-5dc6495f5a25fabc20e6d0f8c81b3236.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -131,11 +134,10 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Crow Babies</h1>
+<h1 class="title">The Moon Inside</h1>
   <div class="quarto-categories">
+    <div class="quarto-category">mugs</div>
     <div class="quarto-category">sgraffito</div>
-    <div class="quarto-category">crows</div>
-    <div class="quarto-category">plates</div>
     <div class="quarto-category">underglaze painting</div>
   </div>
   </div>
@@ -148,7 +150,7 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">December 19, 2025</p>
+      <p class="date">May 21, 2026</p>
     </div>
   </div>
   
@@ -160,8 +162,19 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p><img src="../images/crow_babies.jpg" class="img-fluid" data-group="crow_babies" alt="Crow Babies"></p>
-<p>This summer I watched a juvenile crow beg for food <em>while she was standing on food</em>. The begging went on for days. Man, oh man, it really made me empathize with the parents. And crows do it every year! This a set of four small plates is an ode to parental patience and how hard it is to raise kids. :) They’re little plates - perfect for dunking chicken nuggets in ketchup or holding your rings.</p>
+<p><a href="../images/moon-mug-1.jpg" class="lightbox" data-gallery="moon-mug"><img src="../images/moon-mug-1.jpg" class="img-fluid" alt="moon-mug, inside view"></a></p>
+<p><a href="../images/moon-mug-2.jpg" class="lightbox" data-gallery="moon-mug"><img src="../images/moon-mug-2.jpg" class="img-fluid" alt="moon-mug, outside view"></a></p>
+<p>This was a challenge I set for myself - how to put a painting at the bottom of a mug.</p>
+<div class="quarto-layout-panel" data-layout-ncol="2">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><a href="../images/moon-mug-process-2.jpg" class="lightbox" data-gallery="moon mug"><img src="../images/moon-mug-process-2.jpg" class="img-fluid" alt="moon mug, process"></a></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><a href="../images/moon-mug-process-1.jpg" class="lightbox" data-gallery="moon mug"><img src="../images/moon-mug-process-1.jpg" class="img-fluid" alt="moon mug, process"></a></p>
+</div>
+</div>
+</div>
 
 
 
@@ -580,6 +593,38 @@ ul.task-list li input[type="checkbox"] {
     </div>
   </div>
 </footer>
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 

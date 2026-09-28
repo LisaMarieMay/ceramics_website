@@ -1,0 +1,20 @@
+---
+title: "The Moon Inside"
+image: "../images/moon-mug-1.jpg"
+categories: [mugs, sgraffito, underglaze painting]
+date: 2026-05-21
+lightbox: true
+---
+
+![](../images/moon-mug-1.jpg){group="moon-mug" fig-alt="moon-mug, inside view"}
+
+![](../images/moon-mug-2.jpg){group="moon-mug" fig-alt="moon-mug, outside view"}
+
+This was a challenge I set for myself - how to put a painting at the bottom of a mug. 
+
+::: {layout-ncol=2}
+![](../images/moon-mug-process-2.jpg){group="moon mug" fig-alt="moon mug, process"}
+
+![](../images/moon-mug-process-1.jpg){group="moon mug" fig-alt="moon mug, process"}
+:::
+

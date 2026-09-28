@@ -1,7 +1,7 @@
 ---
 title: "Crow Babies"
 image: "../images/crow_babies.jpg" 
-categories: [sgraffito, crows, plates]
+categories: [sgraffito, crows, plates, underglaze painting]
 date: 2025-12-19
 ---
 
