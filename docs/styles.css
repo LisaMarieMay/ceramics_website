@@ -80,6 +80,32 @@ html, body {
   object-fit: cover;
 }
 
+/* --- 5. ABOUT PAGE TWO-COLUMN LAYOUT --- */
+.about-layout {
+  display: grid;
+  grid-template-columns: 3fr 2fr;
+  gap: 2rem;
+  align-items: start;
+}
+
+.about-image img {
+  width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+
+/* Stack on small screens */
+@media (max-width: 767px) {
+  .about-layout {
+    grid-template-columns: 1fr;
+  }
+
+  /* Image first on mobile */
+  .about-image {
+    order: -1;
+  }
+}
+
 /* Custom crop position for specific images (show top instead of center) */
 .quarto-grid-item img[src*="spirit_bird_1"],
 .quarto-grid-item img[src*="crow_plate_1"],
