@@ -1,13 +1,14 @@
 ---
-title: "Holy Whale"
+title: "Wall Whale"
 image: "../images/holy-whale-1.jpg"
 categories: [sculpture, whales]
 date: 2026-02-15
 lightbox: true
 ---
 
+This right here is your classic whale on the wall situation. The glaze is real good - grey and blue and green. I also like the body language, kinda Naruto run but also when you arch your back with pleasure. I think a lot about how good it must feel to be able to swim like that. 
 
-Male humpbacks sing for hours, spiraling slowly as their voices carry for miles. This sculpture holds that moment — peaceful, embodied, part of the great chorus.
+It's also the first time I cut a piece in half to hollow it out. It felt wild, but it totally works. 
 
 ![](../images/holy-whale-1.jpg){group="final" fig-alt="Holy Whale sculpture, front view"}
 
@@ -31,9 +32,7 @@ Male humpbacks sing for hours, spiraling slowly as their voices carry for miles.
 ![](../images/holy-whale-6.jpg){group="final" fig-alt="Holy Whale sculpture, detail view"}
 :::
 
-Hand sculpted in stoneware for lasting durability, indoors or out. Dimensions: 16" × 8" × 4" (41 × 20 × 10 cm). Two mounting holes allow for easy hanging with nails, screws, or wire.
-
-Stoneware goes through two firings. Here it is after sculpting, before the first fire — and a glimpse of the hollowing process that makes large pieces possible.
+This kind of clay is super durable, so it'll be fine indoors or out. Dimensions: 16" × 8" × 4" (41 × 20 × 10 cm). Two mounting holes for easy hanging with nails, screws, or wire.
 
 ::: {layout-ncol=2}
 ![](../images/holy_whale.jpg){group="final" fig-alt="Holy Whale sculpture, finished sculpting before firing"}

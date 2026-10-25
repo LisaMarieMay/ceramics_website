@@ -3,13 +3,13 @@ title: "The Infinite Medium"
 date: 2026-04-20
 ---
 
-I’ve often been a serial monogamist when it comes to art. I’d dive deep into a medium but eventually feel “done.” I’d pack up my tools and move on.
+I’ve often been a serial monogamist when it comes to art. I’ll get really into a meidum but then eventually feel “done.” 
 
-But ceramics? It’s been two years, and I’m still here. Instead of hitting a wall, I keep finding more and more doors to walk through and explore.
+But ceramics? It’s been over two years, and I’m still here. 
 
 ### The Printmaking Connection
 
-There’s a natural pull between printmaking and underglaze painting. The blocky, flat boldness of a linocut translates almost perfectly into sgraffito. Both are relief processes—you start with a solid field of color and "find" the image by excavating the surface. It’s a rhythmic, meditative way of drawing where you define the light by removing the dark.
+There’s a natural pull between printmaking and underglaze painting. The blocky, flat boldness of a linocut translates almost perfectly into sgraffito. Both are relief processes—you start with a solid field of color and "find" the image by excavating the surface. 
 
 Take this print from Whitaker Printmakers, for example. You start with a flat surface and carve away the negative space. This design would transfer to sgraffito perfectly.
 
@@ -18,7 +18,7 @@ Take this print from Whitaker Printmakers, for example. You start with a flat su
 
 ---
 
-And here's some of my sgraffito work that would translate directly to a linocut. I love the meditative nature of carving into the clay to reveal the story beneath.
+And here's some of my sgraffito work that would translate directly to a linocut. 
 
 ::: {layout-ncol=2}
 ![](../images/incense_burner_1d.jpg){fig-alt="Detail from incense burner"}
@@ -34,13 +34,13 @@ And here's some of my sgraffito work that would translate directly to a linocut.
 
 I recently discovered that artists use silkscreen printing for underglaze! I knew about monoprinting—layering underglaze paintings on newsprint to transfer to clay—but the idea of screen printing introduces even more possibilities, including working with high-contrast photography. 
 
-In printmaking, you have to think in layers. With ceramic transfers, you have to think backwards. Because you’re printing onto newsprint and then flipping it onto the clay, the first layer you lay down becomes the foreground. It’s a mental puzzle that forces you to see the finished piece before you’ve even touched the clay.
+In printmaking, you have to think in layers. With ceramic transfers, you have to think backwards. Because you’re printing onto newsprint and then flipping it onto the clay, the first layer you lay down becomes the foreground. 
 
 ### A Bridge to the Past
 
-This discovery pulled me back to art school, where I did a series of screenprints of histology slides—images of anatomy and physiology taken through a microscope. I wanted to capture that clinical, ethereal glow, and the feeling of discovering a tiny, hidden, beautiful world.
+This discovery pulled me back to art school, where I did a series of screenprints of histology slides—-images of anatomy and physiology taken through a microscope. I wanted to capture that lit-from-behind-glow, and the feeling of discovering a tiny, hidden, beautiful world.
 
-I printed them onto clear plastic (specifically, shower curtain liners that I spent an eternity ironing flat). The light moved through them just like it moved through the microscope lens. Looking at slides of bone marrow and adipose tissue, you can see why an artist would be obsessed. The patterns are incredibly graphic and organic.
+I printed them onto clear plastic (specifically, shower curtain liners that I spent a month ironing flat). The light moved through them just like it moved through the microscope lens. Looking at slides of bone marrow and adipose tissue, you can see why an artist would be obsessed. The patterns are incredibly graphic and organic.
 
 ::: {layout-ncol=2}
 ![[Bone Marrow](https://wellcomecollection.org/works/n4ghqt9s)](../images/bone-marrow.jpg){fig-alt="Histology slide of bone marrow"}
@@ -48,10 +48,4 @@ I printed them onto clear plastic (specifically, shower curtain liners that I sp
 ![[Adipose Tissue](https://wellcomecollection.org/works/ecjxx5uh)](../images/adipose.jpg){fig-alt="Histology slide of adipose tissue"}
 :::
 
-Unfortunately, I have no record of this series—it was my early 20s, and I was moving a lot.
-
-### Why I’m Staying
-
-A fellow ceramicist once told me that people come to clay and never leave because it’s the "infinite medium."
-
-I’m starting to see why. It holds everything: sculpture, painting, industrial design, and now, printmaking. It doesn’t feel like I’m choosing one path anymore; it feels like all my past artistic "monogamies" are finally allowed to live in the same house.
+I sold a lot of that series but I think I threw some away. I wish I still had some, they were really cool! But it was my early 20s, and I was moving a lot.
