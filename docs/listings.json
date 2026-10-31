@@ -23,8 +23,18 @@
     ]
   },
   {
-    "listing": "/available.html",
-    "items": []
+    "listing": "/thoughts.html",
+    "items": [
+      "/thoughts/mist.html",
+      "/thoughts/crows-walking.html",
+      "/thoughts/blue-root.html",
+      "/thoughts/snowy-owl-stripes.html",
+      "/thoughts/clay-and-cows.html",
+      "/thoughts/printing.html",
+      "/thoughts/nose.html",
+      "/thoughts/perfect-fit.html",
+      "/thoughts/the_ideal_mug.html"
+    ]
   },
   {
     "listing": "/index.html",
@@ -70,17 +80,7 @@
     ]
   },
   {
-    "listing": "/thoughts.html",
-    "items": [
-      "/thoughts/mist.html",
-      "/thoughts/crows-walking.html",
-      "/thoughts/blue-root.html",
-      "/thoughts/snowy-owl-stripes.html",
-      "/thoughts/clay-and-cows.html",
-      "/thoughts/printing.html",
-      "/thoughts/nose.html",
-      "/thoughts/perfect-fit.html",
-      "/thoughts/the_ideal_mug.html"
-    ]
+    "listing": "/available.html",
+    "items": []
   }
 ]

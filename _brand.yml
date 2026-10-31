@@ -1,0 +1,21 @@
+# Brand settings for Lisa May Ceramics
+# Values mirror the Lux theme defaults the site currently renders with,
+# so adding this file should not change the site's appearance.
+# Also serves as the source of truth for the MailerLite newsletter template
+# (see ../lisa-workflow/ceramics-website-planning/newsletter.md).
+
+color:
+  palette:
+    black: "#1a1a1a"     # headings, links, navbar text
+    gray: "#55595c"      # body text
+    white: "#FFFFFF"     # page background
+  foreground: "#55595c"
+  background: "#FFFFFF"
+  primary: "#1a1a1a"
+
+typography:
+  fonts:
+    - family: Nunito Sans
+      source: google
+  base: Nunito Sans
+  headings: Nunito Sans
