@@ -1,0 +1,21 @@
+---
+title: "Luminary House"
+image: "../images/luminary-house-2.jpg"
+image-position: top
+categories: [sculpture, available for purchase]
+date: 2026-11-02
+lightbox: true
+---
+
+Available for Purchase  
+Price: $TBD
+
+![](../images/luminary-house-2.jpg){group="luminary-house" fig-alt="luminary house sculpture, front view"}
+
+::: {layout-ncol=2}
+![](../images/luminary-house-3.jpg){group="luminary-house" fig-alt="luminary house sculpture, side view"}
+
+![](../images/luminary-house-4.jpg){group="luminary-house" fig-alt="luminary house sculpture, detail view"}
+:::
+
+[Description to come.]

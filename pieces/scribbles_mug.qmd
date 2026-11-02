@@ -1,0 +1,24 @@
+---
+title: "Scribbles Mug"
+image: "../images/scribbles-mug-1.jpg"
+image-position: top
+categories: [mugs, available for purchase]
+date: 2026-11-02
+lightbox: true
+---
+
+Available for Purchase  
+Price: $TBD  
+Volume: [X] mL ([X] oz)
+
+![](../images/scribbles-mug-1.jpg){group="scribbles-mug" fig-alt="front view - scribbles mug"}
+
+::: {layout-ncol=2}
+![](../images/scribbles-mug-3.jpg){group="scribbles-mug" fig-alt="detail view - scribbles mug"}
+
+![](../images/scribbles-mug-4.jpg){group="scribbles-mug" fig-alt="handle view - scribbles mug"}
+:::
+
+Durable stoneware, dishwasher and microwave safe.
+
+[Description to come.]

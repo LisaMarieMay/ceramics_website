@@ -1,0 +1,22 @@
+---
+title: "Pitcher"
+image: "../images/pitcher-1.jpg"
+image-position: top
+categories: [available for purchase]
+date: 2026-11-02
+lightbox: true
+---
+
+Available for Purchase  
+Price: $TBD  
+Volume: [X] mL ([X] oz)
+
+![](../images/pitcher-1.jpg){group="pitcher" fig-alt="front view - pitcher"}
+
+::: {layout-ncol=2}
+![](../images/pitcher-2.jpg){group="pitcher" fig-alt="side view - pitcher"}
+
+![](../images/pitcher-3.jpg){group="pitcher" fig-alt="detail view - pitcher"}
+:::
+
+[Description to come.]

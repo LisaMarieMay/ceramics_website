@@ -1,0 +1,29 @@
+---
+title: "Friends"
+image: "../images/friends-1.jpg"
+image-position: top
+categories: [sculpture, available for purchase]
+date: 2026-11-02
+lightbox: true
+---
+
+Available for Purchase  
+Price: $TBD
+
+![](../images/friends-1.jpg){group="friends" fig-alt="friends sculpture, front view"}
+
+::: {layout-ncol=2}
+![](../images/friends-2.jpg){group="friends" fig-alt="friends sculpture, side view"}
+
+![](../images/friends-3.jpg){group="friends" fig-alt="friends sculpture, detail view"}
+
+![](../images/friends-4.jpg){group="friends" fig-alt="friends sculpture, another view"}
+
+![](../images/friends-5.jpg){group="friends" fig-alt="friends sculpture, another view"}
+
+![](../images/friends-6.jpg){group="friends" fig-alt="friends sculpture, another view"}
+
+![](../images/friends-big.jpg){group="friends" fig-alt="friends sculpture, size comparison"}
+:::
+
+[Description to come.]

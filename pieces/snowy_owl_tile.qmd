@@ -1,0 +1,23 @@
+---
+title: "Snowy Owl Tile"
+image: "../images/snowy-owl-tile-1.jpg"
+image-position: top
+categories: [available for purchase]
+date: 2026-11-02
+lightbox: true
+---
+
+Available for Purchase  
+Price: $TBD
+
+![](../images/snowy-owl-tile-1.jpg){group="snowy-owl-tile" fig-alt="snowy owl tile, front view"}
+
+::: {layout-ncol=3}
+![](../images/snowy-owl-tile-2.jpg){group="snowy-owl-tile" fig-alt="snowy owl tile, detail view"}
+
+![](../images/snowy-owl-tile-3.jpg){group="snowy-owl-tile" fig-alt="snowy owl tile, another view"}
+
+![](../images/snowy-owl-tile-wing-detail.jpg){group="snowy-owl-tile" fig-alt="snowy owl tile, wing detail"}
+:::
+
+[Description to come.]

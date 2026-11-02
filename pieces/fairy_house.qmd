@@ -1,0 +1,23 @@
+---
+title: "Fairy House"
+image: "../images/fairy-house-1.jpg"
+image-position: top
+categories: [sculpture, available for purchase]
+date: 2026-11-02
+lightbox: true
+---
+
+Available for Purchase  
+Price: $TBD
+
+![](../images/fairy-house-1.jpg){group="fairy-house" fig-alt="fairy house sculpture, front view"}
+
+::: {layout-ncol=2}
+![](../images/fairy-house-2.jpg){group="fairy-house" fig-alt="fairy house sculpture, side view"}
+
+![](../images/fairy-house-3.jpg){group="fairy-house" fig-alt="fairy house sculpture, detail view"}
+:::
+
+{{< video ../images/fairy-house-video.mp4 >}}
+
+[Description to come.]
