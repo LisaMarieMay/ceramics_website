@@ -14,11 +14,11 @@ I've been looking at snowy owls recently. These stripes, y'all. So fierce and fe
 
 
 
-![](../images/snowy-owl-1.jpg){width="50%" fig-alt="greenware snowy owl mug"} 
+![](../images/snowy-owl-mug-1.jpg){width="50%" fig-alt="greenware snowy owl mug"} 
 
-![](../images/snowy-owl-2.jpg){width="50%" fig-alt="greenware snowy owl mug"} 
+![](../images/snowy-owl-mug-2.jpg){width="50%" fig-alt="greenware snowy owl mug"} 
 
-![](../images/snowy-owl-3.jpg){width="50%" fig-alt="greenware snowy owl mug"} 
+![](../images/snowy-owl-mug-3.jpg){width="50%" fig-alt="greenware snowy owl mug"} 
 
 [Snowy owl](https://canadiangeographic.ca/articles/animal-facts-snowy-owl/)
 
