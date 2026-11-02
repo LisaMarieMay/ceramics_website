@@ -1,0 +1,8 @@
+---
+title: "Look what I just got"
+date: 2026-11-02
+---
+
+Written for an academic audience, incredibly dry. Can't wait to fall asleep to it, in the best way.  
+
+![](../images/book.jpg){width="50%" fig-alt="new book - The Cultural Lives of Dolphins and Whales"}
