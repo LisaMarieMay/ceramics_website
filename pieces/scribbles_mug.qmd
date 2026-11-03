@@ -8,7 +8,7 @@ lightbox: true
 ---
 
 Available for Purchase  
-Price: $TBD  
+Price: $30  
 Volume: [X] mL ([X] oz)
 
 ![](../images/scribbles-mug-1.jpg){group="scribbles-mug" fig-alt="front view - scribbles mug"}

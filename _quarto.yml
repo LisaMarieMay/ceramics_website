@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  render:
+    - "**/*.qmd"
 
 website:
   title: "Lisa May Ceramics"
@@ -10,8 +12,6 @@ website:
         text: Available
       - href: index.qmd
         text: Gallery
-      - href: mugs.qmd
-        text: Mugs
       - href: thoughts.qmd
         text: Thoughts
       - href: contact.qmd
