@@ -8,7 +8,7 @@ lightbox: true
 ---
 
 Available for Purchase  
-Price: $195
+Price: ~~$195~~ SOLD
 
 ![](../images/crow-in-the-snow-2.jpg){group="crow-in-the-snow" fig-alt="crow in the snow tile, detail view"}
 
