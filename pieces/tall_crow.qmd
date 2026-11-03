@@ -1,8 +1,8 @@
 ---
-draft: true
+draft: false
 title: "Tall Drink of Water Mug"
 image: "../images/tall_crow_mug.jpg" 
-categories: [sgraffito, crows, mugs, work in progress]
+categories: [sgraffito, crows, mugs]
 date: 2026-01-06
 ---
 

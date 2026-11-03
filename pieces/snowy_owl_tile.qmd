@@ -3,7 +3,7 @@ title: "Snowy Owl Tile"
 image: "../images/snowy-owl-tile-3.jpg"
 image-position: top
 categories: [sgraffito, available for purchase]
-date: 2026-11-02
+date: 2026-11-03
 lightbox: true
 ---
 

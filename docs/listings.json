@@ -17,13 +17,13 @@
   {
     "listing": "/index.html",
     "items": [
+      "/pieces/snowy_owl_tile.html",
       "/pieces/crow_in_the_snow_tile.html",
       "/pieces/fairy_house.html",
       "/pieces/friends.html",
       "/pieces/luminary_house.html",
       "/pieces/pitcher.html",
       "/pieces/scribbles_mug.html",
-      "/pieces/snowy_owl_tile.html",
       "/pieces/snowy_owl_mug.html",
       "/pieces/incense_house.html",
       "/pieces/amandas_whales.html",
@@ -41,8 +41,10 @@
       "/pieces/buckwheat_mug.html",
       "/pieces/whale_42.html",
       "/pieces/gular_pouch.html",
+      "/pieces/tall_crow.html",
       "/pieces/whale_pod.html",
       "/pieces/crow_goddess_mug.html",
+      "/pieces/mason_stain_mugs.html",
       "/pieces/mina_and_the_leaf.html",
       "/pieces/whale_1.html",
       "/pieces/incense_burner.html",
@@ -55,6 +57,7 @@
       "/pieces/og_plate.html",
       "/pieces/who_me.html",
       "/pieces/crow_plate_2.html",
+      "/pieces/crow_walking_mug.html",
       "/pieces/hammered_mug_1.html",
       "/pieces/spirit_bird.html",
       "/pieces/hammered_mug_2.html",
@@ -67,13 +70,13 @@
   {
     "listing": "/available.html",
     "items": [
+      "/pieces/snowy_owl_tile.html",
       "/pieces/crow_in_the_snow_tile.html",
       "/pieces/fairy_house.html",
       "/pieces/friends.html",
       "/pieces/luminary_house.html",
       "/pieces/pitcher.html",
-      "/pieces/scribbles_mug.html",
-      "/pieces/snowy_owl_tile.html"
+      "/pieces/scribbles_mug.html"
     ]
   },
   {
@@ -92,9 +95,12 @@
       "/pieces/arches_mug.html",
       "/pieces/buckwheat_mug.html",
       "/pieces/gular_pouch.html",
+      "/pieces/tall_crow.html",
       "/pieces/crow_goddess_mug.html",
+      "/pieces/mason_stain_mugs.html",
       "/pieces/crow_feet.html",
       "/pieces/crow_pearls_mug.html",
+      "/pieces/crow_walking_mug.html",
       "/pieces/hammered_mug_1.html",
       "/pieces/hammered_mug_2.html",
       "/pieces/stars_cup.html"
