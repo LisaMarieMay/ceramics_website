@@ -1,8 +1,5 @@
 ---
-draft: true
-title: "Mason Stain Mugs"
-image: "../images/mason_stains.jpg" 
-categories: [mugs]
+title: "Colored Clay"
 date: 2025-12-22
 ---
 
@@ -26,9 +23,3 @@ Supposedly the celadon has cobalt in it so it's more likely to be bright.
 
 Oh yeah, and most Mason stains are toxic heavy metals. So I gotta be careful and shit. Kind of a pain. 
 So I see why everyone doesn't do this.
-
----
-
-![](../images/mason_stain_fail.jpg){group="mason_stain_mugs" fig-alt="Mason Stain Mugs, experiment result"}
-
-Hmm. Well. So far it's been a total disaster. I added some water to the stain, but it was WAY too much water, and it made a total mess. I left it to dry overnight and was able to wedge most of it in, but I can't even see any color difference.

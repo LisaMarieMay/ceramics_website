@@ -1,32 +1,17 @@
 [
   {
-    "listing": "/thoughts.html",
-    "items": [
-      "/thoughts/book.html",
-      "/thoughts/mist.html",
-      "/thoughts/crows-walking.html",
-      "/thoughts/blue-root.html",
-      "/thoughts/snowy-owl-stripes.html",
-      "/thoughts/clay-and-cows.html",
-      "/thoughts/printing.html",
-      "/thoughts/nose.html",
-      "/thoughts/perfect-fit.html",
-      "/thoughts/the_ideal_mug.html"
-    ]
-  },
-  {
     "listing": "/index.html",
     "items": [
       "/pieces/snowy_owl_tile.html",
       "/pieces/crow_in_the_snow_tile.html",
       "/pieces/friends.html",
       "/pieces/luminary_house.html",
-      "/pieces/pitcher.html",
       "/pieces/scribbles_mug.html",
       "/pieces/snowy_owl_mug.html",
       "/pieces/incense_house.html",
       "/pieces/amandas_whales.html",
       "/pieces/glass-jelly-mug.html",
+      "/pieces/pitcher.html",
       "/pieces/the_moon_inside.html",
       "/pieces/fairy_house.html",
       "/pieces/crow_sculpture.html",
@@ -72,8 +57,8 @@
       "/pieces/crow_in_the_snow_tile.html",
       "/pieces/friends.html",
       "/pieces/luminary_house.html",
-      "/pieces/pitcher.html",
       "/pieces/scribbles_mug.html",
+      "/pieces/pitcher.html",
       "/pieces/fairy_house.html",
       "/pieces/gular_pouch.html",
       "/pieces/tall_crow.html"
@@ -102,6 +87,22 @@
       "/pieces/hammered_mug_1.html",
       "/pieces/hammered_mug_2.html",
       "/pieces/stars_cup.html"
+    ]
+  },
+  {
+    "listing": "/thoughts.html",
+    "items": [
+      "/thoughts/book.html",
+      "/thoughts/mist.html",
+      "/thoughts/crows-walking.html",
+      "/thoughts/blue-root.html",
+      "/thoughts/snowy-owl-stripes.html",
+      "/thoughts/clay-and-cows.html",
+      "/thoughts/printing.html",
+      "/thoughts/nose.html",
+      "/thoughts/perfect-fit.html",
+      "/thoughts/the_ideal_mug.html",
+      "/thoughts/colored-clay.html"
     ]
   }
 ]
