@@ -106,6 +106,66 @@ html, body {
   }
 }
 
+/* --- 5a. PIECE PAGE HERO IMAGE PAIR (two-up) --- */
+.piece-hero p {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+.piece-pair {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  align-items: start;
+  margin-bottom: 2rem;
+}
+
+.piece-pair p {
+  margin: 0;
+}
+
+.piece-hero img,
+.piece-pair img {
+  width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+
+/* --- 5b. PIECE PAGE TWO-COLUMN LAYOUT (text left, images right) --- */
+.piece-layout {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+  align-items: start;
+}
+
+.piece-images {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+  align-items: start;
+}
+
+.piece-images p,
+.piece-images .quarto-figure {
+  margin: 0;
+}
+
+.piece-images img {
+  width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+
+/* Stack on small screens; images (now first in DOM) stay on top */
+@media (max-width: 767px) {
+  .piece-layout {
+    grid-template-columns: 1fr;
+  }
+}
+
 /* --- 6. FIGURE CAPTIONS (smaller, site-wide) --- */
 figure figcaption {
   font-size: 0.78rem;

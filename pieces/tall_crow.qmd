@@ -2,22 +2,34 @@
 draft: false
 title: "Tall Drink of Water Mug"
 image: "../images/tall_crow_mug.jpg" 
-categories: [sgraffito, crows, mugs]
+categories: [sgraffito, crows, mugs, available for purchase]
 date: 2026-01-06
 ---
+Available for Purchase  
+Price: $30  
+Volume: 12 oz
+
+::: {.piece-hero}
+![](../images/tall-drink-1.jpg){group="tall_crow" fig-alt="Tall Drink of Water Mug"}
+![](../images/tall-drink-2.jpg){group="tall_crow" fig-alt="Tall Drink of Water Mug"}
+:::
+
+::: {.piece-text}
 
 One of "my" crows is tall! I think. They're very hard to tell apart.
 
 Why is this exciting? Because I'm starting to get to know them as individuals. 
 
-![](../images/tall_crow_mug.jpg){group="tall_crow" fig-alt="Tall Drink of Water Mug"}
-![](../images/tall_crow_mug_2.jpg){group="tall_crow" fig-alt="Tall Drink of Water Mug, alternate view"}
-![](../images/tall_crow_mug_3.jpg){group="tall_crow" fig-alt="Tall Drink of Water Mug, alternate view"}
-
 I spend a lot of time thinking about the little leg feathers they have. Like little trousers, little jodpurs, little feather leggings they pull on in the morning.
 
-![](../images/tall_drink.png){group="tall_crow" fig-alt="Tall Drink of Water Mug detail"}
+This mug is a strange, one of a kind mug. The faded magenta wash on it is giving old-sorta-destroyed document vibes. 
 
-Look at this crow. This is a tall crow. I swear to god. 
+:::
 
-![](../images/tall_crow_source_image.jpg){group="tall_crow" fig-alt="Tall Drink of Water Mug, crow source image"}
+::: {.piece-pair}
+![](../images/tall_crow_mug_2.jpg){group="tall_crow" fig-alt="Tall Drink of Water Mug, greenware view"}
+
+![](../images/tall_drink.png){group="tall_crow" fig-alt="Tall Drink of Water Mug illustration"}
+:::
+
+![Look at this crow. This is a tall crow. I swear to god.](../images/tall_crow_source_image.jpg){group="tall_crow" fig-alt="Tall Drink of Water Mug, crow source image"}
