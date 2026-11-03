@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "Tall Drink of Water Mug"
-image: "../images/tall_drink-1.jpg" 
+image: "../images/tall-drink-1.jpg" 
 categories: [sgraffito, crows, mugs, available for purchase]
 date: 2026-01-06
 ---
