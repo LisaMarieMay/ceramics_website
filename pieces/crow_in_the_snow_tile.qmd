@@ -1,6 +1,6 @@
 ---
 title: "Crow in the Snow Tile"
-image: "../images/crow-in-the-snow-1.jpg"
+image: "../images/crow-in-the-snow-2.jpg"
 image-position: top
 categories: [crows, sgraffito,available for purchase]
 date: 2026-11-02
