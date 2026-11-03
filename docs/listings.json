@@ -19,7 +19,6 @@
     "items": [
       "/pieces/snowy_owl_tile.html",
       "/pieces/crow_in_the_snow_tile.html",
-      "/pieces/fairy_house.html",
       "/pieces/friends.html",
       "/pieces/luminary_house.html",
       "/pieces/pitcher.html",
@@ -29,6 +28,7 @@
       "/pieces/amandas_whales.html",
       "/pieces/glass-jelly-mug.html",
       "/pieces/the_moon_inside.html",
+      "/pieces/fairy_house.html",
       "/pieces/crow_sculpture.html",
       "/pieces/holy_whale.html",
       "/pieces/crow_walking_mug_striped.html",
@@ -70,11 +70,11 @@
     "items": [
       "/pieces/snowy_owl_tile.html",
       "/pieces/crow_in_the_snow_tile.html",
-      "/pieces/fairy_house.html",
       "/pieces/friends.html",
       "/pieces/luminary_house.html",
       "/pieces/pitcher.html",
       "/pieces/scribbles_mug.html",
+      "/pieces/fairy_house.html",
       "/pieces/gular_pouch.html",
       "/pieces/tall_crow.html"
     ]

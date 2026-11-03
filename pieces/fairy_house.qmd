@@ -2,22 +2,19 @@
 title: "Fairy House"
 image: "../images/fairy-house-1.jpg"
 image-position: top
-categories: [sculpture, available for purchase]
-date: 2026-11-02
+categories: [sculpture, available for purchase, incense burners]
+date: 2026-03-15
 lightbox: true
 ---
 
 Available for Purchase  
-Price: $TBD
+Price: $30
 
 ![](../images/fairy-house-1.jpg){group="fairy-house" fig-alt="fairy house sculpture, front view"}
 
-::: {layout-ncol=2}
+Okay, so the actual truth is that the smoke doesn't _actually come out the chimney that well._ Why? Because I had yet to learn about the magic of an air-intake hole. So...this is more like an adorable fairy house for your yard. Or for a small child. 
+
+
 ![](../images/fairy-house-2.jpg){group="fairy-house" fig-alt="fairy house sculpture, side view"}
 
-![](../images/fairy-house-3.jpg){group="fairy-house" fig-alt="fairy house sculpture, detail view"}
-:::
 
-{{< video ../images/fairy-house-video.mp4 >}}
-
-[Description to come.]
