@@ -183,3 +183,8 @@ figure figcaption {
 .quarto-grid-item img[src*="snowy-owl-mug-1"] {
   object-position: center top;
 }
+/* --- 7. LISTING THUMBNAILS (smaller, on Thoughts page) --- */
+.quarto-listing-default .quarto-post .thumbnail img {
+  max-width: 180px;
+  height: auto;
+}

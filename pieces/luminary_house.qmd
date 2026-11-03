@@ -1,21 +1,32 @@
 ---
 title: "Luminary House"
-image: "../images/luminary-house-2.jpg"
+image: "../images/luminary-1.jpg"
 image-position: top
-categories: [sculpture, available for purchase]
+categories: [sculpture, available for purchase, incense burners]
 date: 2026-11-02
 lightbox: true
 ---
 
 Available for Purchase  
-Price: $TBD
+Price: $75
 
-![](../images/luminary-house-2.jpg){group="luminary-house" fig-alt="luminary house sculpture, front view"}
+![](../images/luminary-1.jpg){group="luminary-house" fig-alt="luminary house sculpture, front view"}
+
+This is a special house, because it works as both an incense burner (yep, smoke does come out the chimney) and a luminary. It has mica windows! 
+
+It's come to my attention that not all of you know what mica means in this context. It was a rock sitting around all over when I was a kid in Montana - clear flakes like fairy windows. Turns out it's used a lot in stoves and lamps because it's transparent and heat-safe. I love the smoky look of it. 
+
+![  ](../images/luminary-house-2.jpg){group="luminary-house" fig-alt="luminary house sculpture, front view"}
+
+
 
 ::: {layout-ncol=2}
-![](../images/luminary-house-3.jpg){group="luminary-house" fig-alt="luminary house sculpture, side view"}
+![  ](../images/luminary-house-3.jpg){group="luminary-house" fig-alt="luminary house sculpture, side view"}
 
-![](../images/luminary-house-4.jpg){group="luminary-house" fig-alt="luminary house sculpture, detail view"}
+![  ](../images/luminary-house-4.jpg){group="luminary-house" fig-alt="luminary house sculpture, detail view"}
+
+![  ](../images/luminary-5.jpg){group="luminary-house" fig-alt="luminary house sculpture, detail view"}
+
+
 :::
 
-[Description to come.]
