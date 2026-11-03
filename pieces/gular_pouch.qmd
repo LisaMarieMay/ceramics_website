@@ -1,9 +1,14 @@
 ---
 title: "What's in Your Gular Pouch?"
 image: "../images/gular-pouch-finished.jpg" 
-categories: [sgraffito, crows, mugs]
+categories: [sgraffito, crows, mugs, available for purchase]
 date: 2026-01-06
 ---
+Available for Purchase  
+Price: $30  
+Volume: 12 oz
+
+![](../images/gular-pouch-finished.jpg){group="gular_pouch" fig-alt="What's in Your Gular Pouch?"}
 
 I've watched "my crows" a lot (obviously) and noticed that sometimes they'd put whole cashews in their mouths, while other times they'd peck apart the cashew and eat small pieces. 
 
@@ -15,8 +20,6 @@ I really think I can tell when they're loading up that pouch or when they're eat
 
 You know that old ad slogan "What's in your wallet?" I keep thinking "What's in your gular pouch?"
 
-12oz mug
+![](../images/gular-2.jpg){group="gular_pouch" fig-alt="What's in Your Gular Pouch?" width="49%"} ![](../images/gular-3.jpg){group="gular_pouch" fig-alt="What's in Your Gular Pouch?" width="49%"}
 
-![](../images/gular-pouch-finished.jpg){group="gular_pouch" fig-alt="What's in Your Gular Pouch?"}
-![](../images/gular_mug.jpg){group="gular_pouch" fig-alt="What's in Your Gular Pouch?, alternate view"}
-![](../images/gular_mug_2.jpg){group="gular_pouch" fig-alt="What's in Your Gular Pouch?, second alternate view"}
+![](../images/gular_mug_process_1.jpg){group="gular_pouch" fig-alt="What's in Your Gular Pouch?, alternate view" width="49%"} ![](../images/gular_mug_process_2.jpg){group="gular_pouch" fig-alt="What's in Your Gular Pouch?, second alternate view" width="49%"}
