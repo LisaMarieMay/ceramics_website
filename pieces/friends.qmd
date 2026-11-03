@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Friends"
 image: "../images/friends-1.jpg"
 image-position: top

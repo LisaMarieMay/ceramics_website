@@ -183,6 +183,11 @@ figure figcaption {
 .quarto-grid-item img[src*="snowy-owl-mug-1"] {
   object-position: center top;
 }
+
+/* scribbles mug sits low in the frame — crop toward the middle */
+.quarto-grid-item img[src*="scribbles-mug-1"] {
+  object-position: center 70%;
+}
 /* --- 7. LISTING THUMBNAILS (smaller, on Thoughts page) --- */
 .quarto-listing-default .quarto-post .thumbnail img {
   max-width: 180px;

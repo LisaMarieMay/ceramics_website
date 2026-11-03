@@ -1,10 +1,12 @@
 ---
 title: "The Moon Inside"
 image: "../images/moon-mug-1.jpg"
-categories: [mugs, sgraffito, underglaze painting]
+categories: [mugs, sgraffito, underglaze painting, available for purchase]
 date: 2026-05-21
 lightbox: true
 ---
+Available for Purchase  
+Price: $25
 
 ![](../images/moon-mug-1.jpg){group="moon-mug" fig-alt="moon-mug, inside view"}
 
