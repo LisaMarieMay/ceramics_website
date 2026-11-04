@@ -3,7 +3,7 @@ title: "Pitcher"
 image: "../images/pitcher-1.jpg"
 image-position: top
 categories: [sgraffito, available for purchase]
-date: 2026-06-19
+date: 2026-01-19
 lightbox: true
 ---
 

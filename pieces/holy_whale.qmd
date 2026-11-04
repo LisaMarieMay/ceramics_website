@@ -1,10 +1,12 @@
 ---
 title: "Wall Whale"
 image: "../images/holy-whale-1.jpg"
-categories: [sculpture, whales]
+categories: [sculpture, whales, available for purchase]
 date: 2026-02-15
 lightbox: true
 ---
+Available for Purchase  
+Price: $225
 
 This right here is your classic whale on the wall situation. The glaze is real good - grey and blue and green. I also like the body language, kinda Naruto run but also when you arch your back with pleasure. I think a lot about how good it must feel to be able to swim like that. 
 

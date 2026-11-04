@@ -1,7 +1,7 @@
 ---
 title: "Glass Jellies You Destroy Me"
 image: "../images/glass-jelly-mug-1a.jpg"
-categories: [mugs, underglaze painting]
+categories: [mugs, sgraffito]
 date: 2026-07-01
 lightbox: true
 ---
