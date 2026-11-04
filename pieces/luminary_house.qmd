@@ -1,6 +1,6 @@
 ---
 title: "Luminary House"
-image: "../images/luminary-2.jpg"
+image: "../images/luminary-house-2.jpg"
 image-position: top
 categories: [sculpture, available for purchase, incense burners]
 date: 2026-11-02
