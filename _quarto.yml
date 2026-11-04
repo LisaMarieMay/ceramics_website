@@ -6,6 +6,7 @@ project:
 
 website:
   title: "Lisa May Ceramics"
+  favicon: images/favicon.png
   navbar:
     left:
       - href: available.qmd
