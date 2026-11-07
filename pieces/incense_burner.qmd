@@ -1,10 +1,13 @@
 ---
 title: "Incense Burner" # This is important for listing
 image: "../images/incense_burner_1.jpg" 
-categories: [sgraffito, incense burners]
+categories: [sgraffito, incense burners, available]
 date: 2025-12-21
-
 ---
+Available — email me at lisa@lisamayceramics.com to purchase.
+
+Price: $75
+
 ![](../images/incense_burner_1.jpg){group="incense_burner" fig-alt="Incense Burner sculpture"}
 ![](../images/incense_burner_1a.jpg){group="incense_burner" fig-alt="Incense Burner, alternate view"}
 ![](../images/incense_burner_1b.jpg){group="incense_burner" fig-alt="Incense Burner, alternate view"}

@@ -1,13 +1,23 @@
 ---
 title: "Contact"
 ---
-Hi. Feel free to get in touch! Email me at may.lisa2@gmail.com. 
 
-# Purchase
-Right now the purchase process is super personal and artisinal.
+Hi! Feel free to get in touch — lisa@lisamayceramics.com.
 
-If I have pieces available and you'd like to make a purchase, email me and we'll get started-- shipping address, Venmo, etc.
+The best way to reach me about a purchase is email; see [Available](available.html) for how that works.
 
-# Commission
-I like making commissions (aka special orders) for people. It's very sweet and personal to make something specifically _for someone_, you know? If you've got an idea, let's talk about it.
+![](images/contact-1.jpg)
 
+## Commissions
+
+I love making things for people. If you have an idea, tell me about it and let's talk.
+
+And if you see something in the [gallery](index.html) that's already found a home, don't be shy — my pieces are one of a kind, but I'm happy to make another one in that spirit.
+
+::: {layout-ncol="3"}
+![](images/contact.jpg){width="75%"}
+
+![](images/kiln.jpg){width="75%"}
+
+![](images/whale-process.jpg){width="75%"}
+:::

@@ -1,11 +1,13 @@
 ---
 title: "Who Me?"
 image: "../images/who_me.jpg" 
-categories: [sgraffito, crows, plates ]
+categories: [sgraffito, crows, plates, available]
 date: 2025-12-15
 ---
 
-Email may.lisa2@gmail.com to inquire.  
+Available — email me at lisa@lisamayceramics.com to purchase.
+
+Price: $15
 
 ![](../images/who_me.jpg){group="who_me" fig-alt="Who Me?"}
 

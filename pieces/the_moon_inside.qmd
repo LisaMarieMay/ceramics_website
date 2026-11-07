@@ -5,7 +5,8 @@ categories: [mugs, sgraffito, underglaze painting, available for purchase]
 date: 2026-05-21
 lightbox: true
 ---
-Available for Purchase  
+Available — email me at lisa@lisamayceramics.com to purchase.
+
 Price: $25
 
 ![](../images/moon-mug-1.jpg){group="moon-mug" fig-alt="moon-mug, inside view"}
