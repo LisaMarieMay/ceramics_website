@@ -1,9 +1,10 @@
 ---
 title: "Tiny Bowls"
 image: "../images/tiny_bowls_1.jpg" 
-categories: [brown clay, bowls]
+categories: [bowls]
 date: 2025-11-01
 
+lightbox: true
 ---
 ![](../images/tiny_bowls_1.jpg){group="tiny_bowls" fig-alt="Tiny Bowls"}
 ![](../images/tiny_bowls_1a.jpg){group="tiny_bowls" fig-alt="Tiny Bowls, alternate view"}

@@ -1,9 +1,10 @@
 ---
 title: "Spirit Bird"
 image: "../images/spirit_bird_1.jpg" 
-categories: [crows, sculpture, brown clay]
+categories: [crows, sculpture]
 date: 2025-12-01
 
+lightbox: true
 ---
 ![](../images/spirit_bird_1.jpg){group="spirit_bird" fig-alt="Spirit Bird"}
 

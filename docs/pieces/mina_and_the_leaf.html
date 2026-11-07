@@ -52,6 +52,9 @@ ul.task-list li input[type="checkbox"] {
 <link href="../site_libs/bootstrap/bootstrap-54ab99753e15d4e96f099e832d90a786.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
 <link href="../site_libs/bootstrap/bootstrap-dark-9640a1c5956cd01261c7190ba495ce35.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="light">
 <link href="../site_libs/bootstrap/bootstrap-54ab99753e15d4e96f099e832d90a786.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -110,16 +113,16 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Gallery</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../thoughts.html"> 
-<span class="menu-text">Thoughts</span></a>
-  </li>  
-  <li class="nav-item">
     <a class="nav-link" href="../contact.html"> 
 <span class="menu-text">Contact</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="../about.html"> 
 <span class="menu-text">About</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../thoughts.html"> 
+<span class="menu-text">Thoughts</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -166,7 +169,7 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p><img src="../images/mina_and_the_leaf.jpg" class="img-fluid" data-group="mina_and_the_leaf" alt="Mina and the Leaf"></p>
+<p><a href="../images/mina_and_the_leaf.jpg" class="lightbox" data-gallery="mina_and_the_leaf"><img src="../images/mina_and_the_leaf.jpg" class="img-fluid" alt="Mina and the Leaf"></a></p>
 <p>I’m real proud of this one. Gives just the Emily Dickenson staring into the sky vibes. Based off an actual photo - the leaf was (and is) that big.</p>
 
 
@@ -586,6 +589,38 @@ ul.task-list li input[type="checkbox"] {
     </div>
   </div>
 </footer>
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 

@@ -1,9 +1,10 @@
 ---
 title: "Hammered Mug the Second" # This is important for listing
 image: "../images/hammered_mug_1.jpg" 
-categories: [mugs, brown clay]
+categories: [mugs]
 date: 2025-11-19
 
+lightbox: true
 ---
 ![](../images/hammered_mug_1.jpg){group="hammered_mug_2" fig-alt="Hammered Mug the Second"}
 ![](../images/hammered_mug_1a.jpg){group="hammered_mug_2" fig-alt="Hammered Mug the Second, alternate view"}

@@ -1,9 +1,10 @@
 ---
 title: "Real Good Hammered Mug" # This is important for listing
 image: "../images/hammered_mug_2.jpg" 
-categories: [mugs, brown clay]
+categories: [mugs]
 date: 2025-12-01
 
+lightbox: true
 ---
 ![](../images/hammered_mug_2.jpg){group="hammered_mug_1" fig-alt="Real Good Hammered Mug"}
 ![](../images/hammered_mug_2a.jpg){group="hammered_mug_1" fig-alt="Real Good Hammered Mug, alternate view"}

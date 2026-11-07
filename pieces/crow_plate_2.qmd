@@ -3,6 +3,7 @@ title: "Crow Plate"
 image: "../images/crow_plate_2.jpg" 
 categories: [sgraffito, crows, plates]
 date: 2025-12-14
+lightbox: true
 ---
 
 

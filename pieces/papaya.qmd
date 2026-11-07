@@ -3,6 +3,7 @@ title: "Papaya" # This is important for listing
 image: "../images/papaya_1.jpg" 
 categories: [plates]
 date: 2025-11-05
+lightbox: true
 ---
 
 ![](../images/papaya_1.jpg){group="papaya" fig-alt="Papaya sculpture"}

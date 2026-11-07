@@ -8,7 +8,7 @@
 
 <meta name="dcterms.date" content="2025-12-21">
 
-<title>Incense Burner – Lisa May Ceramics</title>
+<title>Flower Moon Incense Holder – Lisa May Ceramics</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -52,6 +52,9 @@ ul.task-list li input[type="checkbox"] {
 <link href="../site_libs/bootstrap/bootstrap-54ab99753e15d4e96f099e832d90a786.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
 <link href="../site_libs/bootstrap/bootstrap-dark-9640a1c5956cd01261c7190ba495ce35.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="light">
 <link href="../site_libs/bootstrap/bootstrap-54ab99753e15d4e96f099e832d90a786.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -110,16 +113,16 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Gallery</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../thoughts.html"> 
-<span class="menu-text">Thoughts</span></a>
-  </li>  
-  <li class="nav-item">
     <a class="nav-link" href="../contact.html"> 
 <span class="menu-text">Contact</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="../about.html"> 
 <span class="menu-text">About</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../thoughts.html"> 
+<span class="menu-text">Thoughts</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -140,11 +143,11 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Incense Burner</h1>
+<h1 class="title">Flower Moon Incense Holder</h1>
   <div class="quarto-categories">
     <div class="quarto-category">sgraffito</div>
     <div class="quarto-category">incense burners</div>
-    <div class="quarto-category">available</div>
+    <div class="quarto-category">available for purchase</div>
   </div>
   </div>
 
@@ -170,7 +173,23 @@ ul.task-list li input[type="checkbox"] {
 
 <p>Available — email me at lisa@lisamayceramics.com to purchase.</p>
 <p>Price: $75</p>
-<p><img src="../images/incense_burner_1.jpg" class="img-fluid" data-group="incense_burner" alt="Incense Burner sculpture"> <img src="../images/incense_burner_1a.jpg" class="img-fluid" data-group="incense_burner" alt="Incense Burner, alternate view"> <img src="../images/incense_burner_1b.jpg" class="img-fluid" data-group="incense_burner" alt="Incense Burner, alternate view"> <img src="../images/incense_burner_1c.jpg" class="img-fluid" data-group="incense_burner" alt="Incense Burner, alternate view"> <img src="../images/incense_burner_1d.jpg" class="img-fluid" data-group="incense_burner" alt="Incense Burner, alternate view"> I’m proud of this one. It’s really beautiful.</p>
+<p><a href="../images/incense_burner_1.jpg" class="lightbox" data-gallery="incense_burner"><img src="../images/incense_burner_1.jpg" class="img-fluid" alt="Incense Burner sculpture"></a></p>
+<p>I’m proud of this one. It’s really beautiful.</p>
+<div class="quarto-layout-panel" data-layout-ncol="2">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><a href="../images/incense_burner_1a.jpg" class="lightbox" data-gallery="incense_burner"><img src="../images/incense_burner_1a.jpg" class="img-fluid" alt="Incense Burner, alternate view"></a></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><a href="../images/incense_burner_1b.jpg" class="lightbox" data-gallery="incense_burner"><img src="../images/incense_burner_1b.jpg" class="img-fluid" alt="Incense Burner, alternate view"></a></p>
+</div>
+</div>
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><a href="../images/incense_burner_1c.jpg" class="lightbox" data-gallery="incense_burner"><img src="../images/incense_burner_1c.jpg" class="img-fluid" alt="Incense Burner, alternate view"></a></p>
+</div>
+</div>
+</div>
 
 
 
@@ -589,6 +608,38 @@ ul.task-list li input[type="checkbox"] {
     </div>
   </div>
 </footer>
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 

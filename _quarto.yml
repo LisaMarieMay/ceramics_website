@@ -13,12 +13,12 @@ website:
         text: Available
       - href: index.qmd
         text: Gallery
-      - href: thoughts.qmd
-        text: Thoughts
       - href: contact.qmd
         text: Contact
       - href: about.qmd
         text: About
+      - href: thoughts.qmd
+        text: Thoughts
 
   sidebar:
     - id: "thoughts-sidebar"

@@ -3,6 +3,7 @@ title: "Belly Dancer Whale"
 image: "../images/whales_3.jpg" 
 categories: [whales]
 date: 2025-12-20
+lightbox: true
 ---
 ![](../images/whales_3.jpg){group="whale_belly" fig-alt="Belly Dancer Whale sculpture"}
 ![](../images/whales_3a.jpg){group="whale_belly" fig-alt="Belly Dancer Whale, alternate view"}

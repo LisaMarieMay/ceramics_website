@@ -1,8 +1,9 @@
 ---
 title: "Pod of Whales"
 image: "../images/whales_pod_1.jpg" 
-categories: [brown clay, whales]
+categories: [whales]
 date: 2025-12-23
+lightbox: true
 ---
 
 These whales were in my mind for a long time. 

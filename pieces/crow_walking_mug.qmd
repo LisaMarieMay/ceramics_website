@@ -4,6 +4,7 @@ title: "Crow Walking Mug"
 image: "../images/crow-walking-stripes-1.jpg" 
 categories: [sgraffito, crows, mugs]
 date: 2025-12-14
+lightbox: true
 ---
 
 ![](../images/crow-walking-stripes-1.jpg){group="crow_walking_mug" fig-alt="Crow Walking Mug"}

@@ -1,9 +1,9 @@
 ---
 title: "Tea Cannister"
 image: "../images/tea_cannister_1.jpg" 
-categories: [brown clay]
 date: 2025-11-01
 
+lightbox: true
 ---
 ![](../images/tea_cannister_1.jpg){group="tea_cannister" fig-alt="Tea Cannister"}
 ![](../images/tea_cannister_1a.jpg){group="tea_cannister" fig-alt="Tea Cannister, alternate view"}

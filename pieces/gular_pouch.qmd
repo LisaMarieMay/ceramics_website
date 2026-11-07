@@ -3,6 +3,7 @@ title: "What's in Your Gular Pouch?"
 image: "../images/gular-pouch-finished.jpg" 
 categories: [sgraffito, crows, mugs, available for purchase]
 date: 2026-01-06
+lightbox: true
 ---
 Available — email me at lisa@lisamayceramics.com to purchase.
 

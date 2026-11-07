@@ -1,8 +1,9 @@
 ---
 title: "Crow Babies"
 image: "../images/crow_babies.jpg" 
-categories: [sgraffito, crows, plates, underglaze painting]
+categories: [sgraffito, crows, plates]
 date: 2025-12-19
+lightbox: true
 ---
 
 ![](../images/crow_babies.jpg){group="crow_babies" fig-alt="Crow Babies"}
