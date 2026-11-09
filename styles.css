@@ -188,6 +188,12 @@ figure figcaption {
 .quarto-grid-item img[src*="scribbles-mug-1"] {
   object-position: center 70%;
 }
+/* --- 8. MAILERLITE FORM (match site font) --- */
+.ml-form-embedContainer,
+.ml-form-embedContainer * {
+  font-family: "Nunito Sans", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}
+
 /* --- 7. LISTING THUMBNAILS (smaller, on Thoughts page) --- */
 .quarto-listing-default .quarto-post .thumbnail img {
   max-width: 180px;

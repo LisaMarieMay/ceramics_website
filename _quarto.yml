@@ -32,6 +32,7 @@ website:
 
   page-footer:
     left: "© 2026 Lisa May Ceramics. All rights reserved. Images may not be used without permission."
+    center: "[Subscribe to my email newsletter!](contact.html)"
 
 format:
   html:
@@ -40,3 +41,4 @@ format:
       - brand
     css: styles.css
     toc: true
+    include-in-header: _mailerlite.html

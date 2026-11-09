@@ -5,3 +5,5 @@ listing:
   sort: "date desc"
   type: default
 ---
+
+Want new posts and pieces in your inbox? [Sign up for my newsletter.](contact.html)
