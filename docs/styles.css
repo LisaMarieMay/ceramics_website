@@ -224,3 +224,13 @@ figure figcaption {
     order: -1;
   }
 }
+
+/* Keep the MailerLite embed inside narrow columns (subscribe sidebar) */
+.ml-embedded,
+.ml-embedded iframe,
+.ml-embedded .ml-form-embedContainer,
+.ml-embedded .ml-form-embedContent {
+  width: 100% !important;
+  max-width: 100% !important;
+  min-width: 0 !important;
+}
