@@ -206,6 +206,13 @@
     "text": "Hung from a 37” piece of driftwood from Hobbit Beach"
   },
   {
+    "objectID": "newsletter-confirmed.html",
+    "href": "newsletter-confirmed.html",
+    "title": "You’re all signed up!",
+    "section": "",
+    "text": "Wonderful — your email is confirmed and you’re on the list. You’ll get the next newsletter with new pieces, studio news, and whatever else is going on.\nIn the meantime, feel free to browse the gallery or see what’s currently available."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Gallery",
@@ -246,6 +253,13 @@
     "title": "Contact",
     "section": "Commissions",
     "text": "Commissions\nI love making things for people. If you have an idea, tell me about it and let’s talk.\nAnd if you see something in the gallery that’s already found a home, don’t be shy — my pieces are one of a kind, but I’m happy to make another one in that spirit."
+  },
+  {
+    "objectID": "newsletter-requested.html",
+    "href": "newsletter-requested.html",
+    "title": "Almost there!",
+    "section": "",
+    "text": "Thank you for signing up! I’ve just sent a confirmation email your way — click the link and you’ll be all set.\nNot seeing it? Check your spam or junk folder; confirmation emails sometimes get stuck in there. If you find it, marking it “not spam” helps make sure the newsletter itself lands in your inbox from now on."
   },
   {
     "objectID": "pieces/arches_mug.html",

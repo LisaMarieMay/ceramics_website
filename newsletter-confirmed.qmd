@@ -1,0 +1,7 @@
+---
+title: "You're all signed up!"
+---
+
+Wonderful — your email is confirmed and you're on the list. You'll get the next newsletter with new pieces, studio news, and whatever else is going on.
+
+In the meantime, feel free to browse the [gallery](index.html) or see what's currently [available](available.html).
