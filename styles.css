@@ -199,3 +199,28 @@ figure figcaption {
   max-width: 180px;
   height: auto;
 }
+
+/* --- 9. CONTACT PAGE TWO-COLUMN LAYOUT (subscribe form right on desktop) --- */
+.contact-layout {
+  display: grid;
+  grid-template-columns: 3fr 2fr;
+  gap: 2rem;
+  align-items: start;
+}
+
+.contact-side {
+  border: 1px solid #eee;
+  border-radius: 4px;
+  padding: 1.25rem;
+}
+
+/* Stack on small screens; subscribe form first on mobile */
+@media (max-width: 767px) {
+  .contact-layout {
+    grid-template-columns: 1fr;
+  }
+
+  .contact-side {
+    order: -1;
+  }
+}

@@ -2,20 +2,31 @@
 title: "Contact"
 ---
 
+::: {.contact-layout}
+
+::: {.contact-main}
 Hi! Feel free to get in touch — lisa@lisamayceramics.com.
 
 The best way to reach me about a purchase is email; see [Available](available.html) for how that works.
 
 ![](images/contact-1.jpg)
 
-## Subscribe
-<div class="ml-embedded" data-form="59ESji"></div>
-
 ## Commissions
 
 I love making things for people. If you have an idea, tell me about it and let's talk.
 
 And if you see something in the [gallery](index.html) that's already found a home, don't be shy — my pieces are one of a kind, but I'm happy to make another one in that spirit.
+
+:::
+
+::: {.contact-side}
+
+## Subscribe
+<div class="ml-embedded" data-form="59ESji"></div>
+
+:::
+
+:::
 
 ::: {layout-ncol="3"}
 ![](images/contact.jpg){width="75%"}
